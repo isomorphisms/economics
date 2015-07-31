@@ -15,6 +15,9 @@ Libertarians love to cite the following successes of capitalism:
 
 
 
+However let's not stop there. A high average growth rate and high wealth levels aren't everything.
+
+
 Competitive labor markets are meant to empower workers exactly when employers are forced to 
 
 
@@ -22,10 +25,16 @@ www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
 > My wife has learned that if she is unable to assure her employees that they will earn a total of at least $100 a day, nobody will work for her. 
 
 
+
+
+
+![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
+
 ![material advances for bottom-quintile US citizens since 1971](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
 
+![work less earn more](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-3-1024.jpg?cb=1243403192)
 
-
+![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
 
 
 
@@ -35,17 +44,67 @@ www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
 
 Because of the stark differences between North & South Korea, East & West Germany, Taiwan & 大陆, and pre/post Deng Xiaoping's "opening" of China, you cannot argue that capitalism does not create greater wealth than communism.
 
+
+
+
+
+
+
+###### "enhanced" capitalism
+
 [[[[pictures of poor people
+
+
+
+Long before the crisis of 2008, people have wanted a kinder, gentler capitalism. Does 
+
+You don't need to adopt ad-hoc views about government versus corporate management. There might be some differences between the people who go into one versus the other, but the stereotypes about college sophomore hippies who read Saul Alinsky versus the red-blooded business students who misunderstand Gordon Gekko's purpose in _Wall Street_ (www.youtube.com/watch?v=ArS16ZyOxLQ) ---- are lazy, insufficient guides to characterise government vs business. Both are complex organisations. Both employ lazy risk-haters. Both require layers of communication and compromise. Both work with other people's money. Businessmen often serve on city councils. Etc.
+
+A simpler reason that lawmakers shouldn't delve into the details is that it's too hard. Go to a few city council meetings wherever you live. Ask yourself if you are an expert on par with interested parties in:
+
+- how to insulate a home
+- the best kind of fire alarms
+- how to design roads safely
+- how to encourage both positive & negative feedback from the people you serve when you make the wrong call
+- how to 
+
+
+It ain't easy or fun. And people who critique politicians out of hand for being stupid are lazy non-thinkers. Inform yourself or shut up; you have the internet, so you have no excuse.
+
+I will list several ways that various layers of US federalist government intelligently avoid making decisions they are not equipped to make. The desire to devolve decisions is in my opinion a sign of great intelligence on the part of federal and state lawmakers.
+
+I'll give some examples below.
+
+- exempting municipal bonds from federal tax
+
+
+
 
 
 
 
 ## growth & history
 
+http://www.theworldeconomy.org/
+
+> Over the past millennium, world population rose 22–fold. Per capita income increased 13–fold, world GDP nearly 300–fold. This contrasts sharply with the preceding millennium, when world population grew by only a sixth, and there was no advance in per capita income.
+
+> From the year 1000 to 1820 the advance in per capita income was a slow crawl — the world average rose about 50 per cent. Most of the growth went to accommodate a fourfold increase in population.
+
+> Since 1820, world development has been much more dynamic. Per capita income rose more than eightfold, population more than fivefold.
+
+> Per capita income growth is not the only indicator of welfare. Over the long run, there has been a dramatic increase in life expectation. In the year 1000, the average infant could expect to live about 24 years. A third would die in the first year of life, hunger and epidemic disease would ravage the survivors. There was an almost imperceptible rise up to 1820, mainly in Western Europe. Most of the improvement has occurred since then. Now the average infant can expect to survive 66 years.
+
+> The growth process was uneven in space as well as time. The rise in life expectation and income has been most rapid in Western Europe, North America, Australasia and Japan. By 1820, this group had forged ahead to an income level twice that in the rest of the world. By 1998, the gap was 7:1. Between the United States and Africa the gap is now 20:1. This gap is still widening. Divergence is dominant but not inexorable. In the past half century, resurgent Asian countries have demonstrated that an important degree of catch–up is feasible. Nevertheless world economic growth has slowed substantially since 1973, and the Asian advance has been offset by stagnation or retrogression elsewhere.
+
+
+
 - delong
 - maddison
 - homer/sylla
+- victorian economy
 - viet nam (jeff mcginn)
+
 
 
 
@@ -59,8 +118,27 @@ Does finance serve any useful purpose? The first way to argue it does is to thin
 
 (The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them
 
+
+ke
+
+
+
+
+Over time consumer credit has expanded into car loans and credit-card loans. [[[frb research on cc debt]]]
+
+
+
+
+
 - aaron brown on derivatives as the new money
 - Tkacik student loans
+
+
+
+
+
+
+
 
 
 
@@ -73,7 +151,7 @@ Any way you slice it, the banking business is about borrowing cheap and lending 
 
 Carolyn Sissoko emphasises that lenders prefer to loan against collateral. If you don't pay them back then they get to take your thing.
 
-Treasury 
+Treasury bills are considered so secure that they 
 
 
 
@@ -81,6 +159,9 @@ You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1ol
 
 - libertystreeteconomics.newyorkfed.org/2011/04/everything-you-wanted-to-know-about-the-tri-party-repo-market-but-didnt-know-to-ask.html
 - geithner
+- 
+
+According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds 
 
 
 ## bonds
@@ -97,6 +178,12 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - munilass
 - CUSIP's
 
+
+###### tax exempt bonds
+
+The federal government
+
+Who benefits the most from tax breaks? Those who pay the highest tax rate. So the federal government rewards the rich if they invest in communities and localities, without asking legislators to pick winners or do due diligence.
 
 
 
@@ -130,6 +217,30 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - jamie johnson movie
 - appanage and the definition of real property
 
+https://twitter.com/isomorphisms/timelines/476938509945962496
+
+
+This young man seems to me like a totally nice person—the exact kind you don't want to see pulled in by the "logic" of supposedly hard-headed econ-baiters.
+
+######What's the fastest way to make a million dollars?
+
+Obviously: marry someone with two million dollars. The paperwork for marriage is faster than insurance settlements, because insurance companies will always battle you in court to not give you the money. [[quote]]
+
+
+
+
+You can't sideline inheritance 
+
+It's a fundamental human right to be able to do what you want with your own money. (That's what "your money" is, right?) But actually, no. You can't hire a hitman, nor should you be able to. And the government steps in to take taxes
+
+http://www.econtalk.org/archives/2008/05/nye_on_wine_war.html
+
+[[[piketty]]]
+
+
+
+
+
 
 ### rich people in high places
 
@@ -138,7 +249,7 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - Alfred Nobel
 - Cecil Rhodes
 
-
+poet laureates
 
 ##### other topical issues
 
@@ -171,7 +282,7 @@ Milton Friedman's alternative to the minimum wage
 ###### venture capital
 
 
-Luigi Zingales, a "professor of entrepreneurship and risk" who has taken no risks and never started a company, cites venture capital as 
+Luigi Zingales, a "professor of entrepreneurship and risk" who has taken no risks and never started a company, cites venture capital as a great example of an American success story
 
 - kauffman report
 - crunchbase failures
@@ -249,3 +360,60 @@ But what if the minimum wage were multiplied by ten? What if not only you got a 
 Guru jerks will tell you that you should become rich enough to live off interest. This doesn't make sense for a variety of reasons, for example the obvious that if you can earn $20,000/year as a 2% coupon. Or that you risk spoiling your kids [[link]]. Or that work is not really that bad. But anyway it's all part of a pervasive ideology that wants to venerate wealth and capitalist achievement. Perhaps not surprising when buildings and chairs are named after capitalist donors rather than those who excelled in a field of human endeavour.
 
 It's the kind of thing that makes sense if you think about it for a minute, but not if you think about it for a long time.
+
+
+
+
+
+
+###### Long Term Capital Management
+
+This is a hedge fund whose blowup had systemic consequences.
+
+George Loewenstein's book notes that LTCM enjoyed lower haircuts because everyone wanted to do business with them.
+
+This is consistent with
+1. Aaron Brown's [[[[and many others]]]]] assertion that execution, details, and terms of trade are what make for successful profit margins---fighting over every last basis point.
+2. Renaissance job postings for tax advisors. Again, tax savings are risk-free basis points.
+
+
+Keynes, ___year, book____: 
+> The avoidance of taxes is the only intellectual pursuit that carries any reward.
+
+
+- nuclearphynance "It's easy to be a trader; be long vega and short gamma"
+- Maymin, Geneakouplos
+
+
+
+
+
+
+
+
+###### career advice & ego control
+
+http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=39814
+
+
+
+
+
+###### public and private ownership
+
+- AmPad
+- insurance quote (get out of it)
+- noise traders & capital structure (bonds)
+
+
+
+
+
+###### median wage growth vs wage growth for _me_
+
+I don't want to waste too much time lampooning economists because I could go on forever about that and it's probably better to just point to the stuff you _should_ read, rather than waste time engaging with the un-serious. I'll just point out that growth in the median (middle) purchasing power is a _proxy_ for an easier, better life for "people", but then again so is the purchasing power of the lowest person. It's not even possible to rank-order these things----but my preferred measure is the power, freedom, and quality-of-life of "the least among you". We can at least get closer by looking at the 10th-percentile wage instead of the 50th-percentile.
+
+
+www.youtube.com/watch?v=8Rn4CRu9pa4
+
+^ Cathedrals, the antithesis of the lowest man's utility. All are humbled by their greatness and they prize the peak over the average.
