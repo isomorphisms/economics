@@ -1,6 +1,6 @@
 # economics
 
-Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. This is what I wish someone would have told me X years ago.
+Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. It will be too obvious for some but hopefully not too advanced for anyone. This is what I wish someone would have told me X years ago.
 
 
 
@@ -10,10 +10,12 @@ Facts I think "everyone should know". I'll try to keep it short and theory-free.
 
 ## capitalism & communism
 
+Libertarians love to cite the following successes of capitalism:
 
-Competitive labor markets are meant to 
 
 
+
+Competitive labor markets are meant to empower workers exactly when employers are forced to 
 
 
 www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
@@ -83,7 +85,7 @@ You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1ol
 
 ## bonds
 
-Bonds are the most important conduit for how big-money flows affect your life 
+Every year $__ trillion worth of bonds change hands globally.
 
 
 ### muni bonds
@@ -110,6 +112,11 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 
 ### geography
 
+![wealth levels by geography of the eastern United States circa 1999](http://40.media.tumblr.com/tumblr_m9cb7bYGqq1qc38e9o1_r1_1280.png)
+
+
+[^ Has it changed much since then? I don't think so, and here's why: [[[pics]]] but if someone has more up-to-date geographic data then we can check.]
+
 - List of 100 wealthiest counties
 - Skaneatles Lake
 - ↑ spoils of war
@@ -127,7 +134,9 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 ### rich people in high places
 
 
-
+- Merryl Tisch 
+- Alfred Nobel
+- Cecil Rhodes
 
 
 
@@ -141,7 +150,7 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - asness (Wrong)
 - blair hull
 - haim bodek (not respected)
-- eric hunsader and 
+- eric hunsader and sal ____
 - mech markets
 - alexandre laumonier is respected by indsutry people
 - volcube
@@ -179,11 +188,18 @@ The legal theory is that a limited partner should be able to give money to a gen
 
 
 
+
+###### hedge funds
+
+You can look up how much money they took in here: www.formds.com.
+
+
+
 ###### leveraged buyouts
 
 - icahn interview
 - barbarians at the gate movie
-- 
+
 
 
 
@@ -223,3 +239,13 @@ we can look at who writes these HBR articles, because the authors are on linkedi
 You can probably imagine what would happen if small economic changes were made in your workplace, your friends' lives, your community. What would you do with a 5% raise?
 
 But what if the minimum wage were multiplied by ten? What if not only you got a million dollars, but so did everyone on your street? Big changes are harder to think about. The reaction to the initial "stimulus" (let's say it's a law) might become really important too.
+
+
+
+
+
+###### life goals
+
+Guru jerks will tell you that you should become rich enough to live off interest. This doesn't make sense for a variety of reasons, for example the obvious that if you can earn $20,000/year as a 2% coupon. Or that you risk spoiling your kids [[link]]. Or that work is not really that bad. But anyway it's all part of a pervasive ideology that wants to venerate wealth and capitalist achievement. Perhaps not surprising when buildings and chairs are named after capitalist donors rather than those who excelled in a field of human endeavour.
+
+It's the kind of thing that makes sense if you think about it for a minute, but not if you think about it for a long time.
