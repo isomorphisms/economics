@@ -1328,6 +1328,36 @@ watch out also when people start talking too much about black scholes.
 Like I said there is a lot, lot, lot of F.U.D. in finance. People at least think they can become important by saying stuff that's over your head and you can't critique it. Just don't bother. All you need to know is that BSM is an approximation. In maths terms I would just say it provides a better coördinate system (IV's) for traders, than dollars or percents. IV is a better scale for options traders to have their discussion in; things make better sense to both sides, it essentially cuts out a calculation that both sides would have to do anyway. The idea that traders worship the BSM model the way academics do is … what do you call it when you accuse someone else of committing the sin you commit? Freudian Transference?
 
 
+###### options
+
+Options on the other hand are not so complex. Buying a call north of the spot means you are bullish on a stock and expect it to end north of where it is today. (Calls have a fixed expiration date.) You need to pay premium to the seller for them to sell you the right to call them in the future.
+
+You can also sell options
+
+[m0ar theta ken griffin boat]
+[scammy "retirement plan" guy]
+
+I thought about paying my rent this way when I was poor ("Wait ... I can just *have money*? I don't have to actually do any work? Hellz yea!"), but they don't let poor people insure stock market players. You need to have tens of thousands of dollars at least (more like tens of millions if you want to trade for a living), and the exchange asks you for margin every time a position moves against you. In other words the exchange is going to make sure you are good for the money
+in case it expires ITM before they let you insure someone. This is one of the things the exchange does to make sure people from both sides want to trade there. (I.e., not the boys in the schoolyard punching each other because they aren't actually good for their word.)
+
+
+
+
+table of http://www.nasdaq.com/symbol/slb/option-chain
+
+Let's look at the volumes. Where are people able to come to a disagreement?
+
+
+
+
+
+
+
+
+###### eurodollar
+
+
+
 
 ###### how to value a company
 
