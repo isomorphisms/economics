@@ -51,8 +51,11 @@ However let's not stop there. A high average growth rate and high wealth levels 
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
-###### Race or ethnicity of respondent 																		
 
+† &mu; ≝ mean (average), `m` ≝ median (middle)
+
+Race or ethnicity of respondent 	| 1989  | 1989  | 1992 |	1992 |  1995  |	1995 |	1998  | 1998 |	2001  | 2001 |	2004  | 2004  | 2007  | 2007 |	2010  | 2010 |	2013  | 2013
+---------------------------------------------------------------------------------------------------------
 White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 	694.21 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
 Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
 
