@@ -1290,7 +1290,14 @@ You can derive this yourself and should. Write out the terms and then draw a big
 
 ###### CAPM and portfolio maths
 
-Don't spend too much time on the CAPM. Sums of independent dice are Gaussian distributed.  (My blog post on it.)
+Don't spend too much time on the CAPM. It's contentious theory [Buffett link].
+
+Sums of independent dice are Gaussian distributed.  (My blog post on it.) So if the price evolution were totally random it would still be a bit mean centric.
+
+Look at _differences_ in stock prices to see how the daily change is usually bounded. Look at [[this data example]] to see the "discussion" over price of some security over a trading day. (At tick level.) [[histo]]
+
+
+This tick data looks much more to me like I would imagine a bazaar in Tashkent, except electronic so everybody "goes to the market" with computers from their offices. Meaning more people can be there at once, which seems like a good thing.
 
 [^Gaussian probability is roughly proportional ½ to the distance from the average. So 1/2, 1/4, 1/8. We measure in square-root of distance so these numbers become 0σ ∝ 1, 1σ ∝ 1/4, 2σ≈1/16 ]
 
