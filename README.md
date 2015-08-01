@@ -1307,3 +1307,15 @@ require(magrittr)
 SLB %>% stem
 SLB %>% log %>% stem
 ```
+
+
+
+###### black scholes
+
+watch out also when people start talking too much about black scholes.
+
+- heading toward the blue
+- quant.se
+- NP: wrong, wrong, wrong
+
+Like I said there is a lot, lot, lot of F.U.D. in finance. People at least think they can become important by saying stuff that's over your head and you can't critique it. Just don't bother. All you need to know is that BSM is an approximation. In maths terms I would just say it provides a better coördinate system (IV's) for traders, than dollars or percents. IV is a better scale for options traders to have their discussion in; things make better sense to both sides, it essentially cuts out a calculation that both sides would have to do anyway. The idea that traders worship the BSM model the way academics do is … what do you call it when you accuse someone else of committing the sin you commit? Freudian Transference?
