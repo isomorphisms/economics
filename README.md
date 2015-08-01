@@ -382,7 +382,7 @@ Some shareholders are mutual funds, pensions, or ETF's. In other words groups th
 
 
 
-Companies also borrow money. Borrowing = − debt = bonds. Equity = ownership = shares &ne; bonds.
+Companies also borrow money. Borrowing = − debt = bonds. Equity = ownership = shares &ne; bonds. Corporate earnings go first to bondholders 
 
 
 
@@ -621,6 +621,52 @@ Anyway. It's the $10/hr - $15/hr number that we should be interested in increasi
 - http://www.equality-of-opportunity.org/
 - piketty saez
 - Tkacik Vyvanse
+
+
+
+
+
+
+
+
+# The corporate landscape
+
+People get the things they need and want in life from companies. They earn the paper to buy these things from working at one or a few companies. We have chosen capitalism as the way that things will get done.
+
+
+
+### Large firms anyone can buy a piece of
+
+https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+
+Company | What they do
+-- | -- 
+Dow Chemical | chemicals
+Adobe | pdf
+Electronic Arts | video games
+Facebook | sell ads to you
+Fifth Third Bancorp | originate mortgages
+
+
+
+### Large, privately owned firms
+
+http://www.forbes.com/largest-private-companies/
+
+Company | Yearly Sales | Market Cap | Location | # Emp | What they do
+-- | -- | --
+Cargill | a | b | Detroit | x | salt mines (sell road salt to cities for the winter)
+Bechtel | mining; Halliburton competitor; see [[world bank conspiracy
+
+
+
+##### Self-promotey upstarts
+
+
+
+
+
+
 
 
 # geography
