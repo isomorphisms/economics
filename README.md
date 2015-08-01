@@ -21,22 +21,6 @@ Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
 
 Libertarians love to cite the following successes of capitalism:
 
-
-
-
-However let's not stop there. A high average growth rate and high wealth levels aren't everything.
-
-
-Competitive labor markets are meant to empower workers exactly when employers are forced to 
-
-
-www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
-> My wife has learned that if she is unable to assure her employees that they will earn a total of at least $100 a day, nobody will work for her. 
-
-
-
-
-
 ![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
 
 ![material advances for bottom-quintile US citizens since 1971](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
@@ -46,14 +30,38 @@ www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
 ![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
 
 
+However let's not stop there. A high average growth rate and high wealth levels aren't everything.
 
 
 
-[[[[delong]]]]
+
+
+
+#### Pay
+
+Competitive labor markets are meant to empower workers exactly when employers are forced to pay more. For example:
+
+
+www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
+> My wife has learned that if she is unable to assure her employees that they will earn a total of at least $100 a day, nobody will work for her. 
+
+
+
+
+
+
+
+
+
+
+
+![pop quiz](http://36.media.tumblr.com/tumblr_lzdx1tJidd1qc38e9o1_1280.png)
+
+![capitalism vs communism](http://36.media.tumblr.com/tumblr_lzdx1tJidd1qc38e9o2_1280.png)
 
 Because of the stark differences between North & South Korea, East & West Germany, Taiwan & 大陆, and pre/post Deng Xiaoping's "opening" of China, you cannot argue that capitalism does not create greater wealth than communism.
 
-
+Capitalism created wealth in the 20th century. Communism created less and they had access to the same technology. Greater wealth means an easier and more comfortable life. So there is something that we want about capitalism. But what exactly is it? And how much of the bad stuff can we get rid of?
 
 
 
@@ -113,6 +121,21 @@ http://www.theworldeconomy.org/
 - homer/sylla
 - victorian economy
 - viet nam (jeff mcginn)
+
+
+
+
+
+
+#### the industrial revolution
+
+Was it about technology? Property rights? Limited-liability?
+
+
+And what do past periods of growth tell us 
+
+
+
 
 
 
@@ -196,6 +219,8 @@ Every year $__ trillion worth of bonds change hands globally.
 ### future money
 You can check right now here: http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-Yield-Data-Visualization.aspx
 ![yield curve](http://www.yieldandincome.com/graphing/valubond_compositeYield.asp?type=T&now=%3C?php%20print_r%28$adDateStr%29;?%3E)
+
+![future money](future money.png)
 
 
 That is the cost of future money. For example on `Sys.Date() == 2015-07-31` the yield on 1-year Treasury notes is `0.36%`, which means that $100 will become $100.36 and $10,000 will become $10,036 in one year's time. If you spent $10,000 on 1-years that day you would receive $10,036 in one year's time.
@@ -527,3 +552,16 @@ www.youtube.com/watch?v=8Rn4CRu9pa4
 - the federal government uses the highway fund to strong-arm states into doing what it wants [[[size]]]
 - social security + medicaid + medicare + 
 - https://en.wikipedia.org/wiki/United_States_federal_budget
+
+
+
+
+
+
+
+###### hyperinflation
+
+
+https://mises.org/system/tdf/The%20Economics%20of%20Inflation%20A%20Study%20of%20Currency%20Depreciation%20in%20Post-War%20Germany_2.pdf?file=1&type=document
+
+Constantino Bresciani-Turroni
