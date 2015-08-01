@@ -3,6 +3,9 @@
 Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. It will be too obvious for some but hopefully not too advanced for anyone. This is what I wish someone would have told me X years ago.
 
 
+I am generally going to speak about the US economy. That's not because it is the only economy, it's just where I have the most information about. It is a really large and important economy. It's also one of the most successful economies of the 20th century, so not representative of the whole. Maybe I'll add other information later.
+
+
 
 <!-- assemble.io/docs/Markdown.html eventually use this to "include" separate files -->
 
@@ -116,7 +119,7 @@ Does finance serve any useful purpose? The first way to argue it does is to thin
 
 
 
-(The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them
+(The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them so they would just do it as much as possible. [[student loans tkacik]]
 
 
 
@@ -185,15 +188,31 @@ Every year $__ trillion worth of bonds change hands globally.
 
 
 ### future money
-At different points in time, here is the cost of future US dollars
+You can check right now here: http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-Yield-Data-Visualization.aspx
 
-isomorphism.es/post/101890975168/treasury-yield-curve-from-the-volcker-era-through
 
-You can check right now here: http://www.bloomberg.com/markets/rates-bonds
+or http://www.bloomberg.com/markets/rates-bonds has some non-US bonds.
+
 
 
 
 I am being inaccurate by calling 3-month T-bills "dollars in 3 months" but it's close enough.
+
+
+
+
+
+
+
+
+Here is how that curve has moved over time:
+
+![yield curve over time](http://33.media.tumblr.com/67eefc25f650f56d0f2aa3b117172a8e/tumblr_na17r44bUx1qc38e9o1_400.gif)
+
+
+Here's the code to calculate that picture: isomorphism.es/post/101890975168/treasury-yield-curve-from-the-volcker-era-through The source is FRED.
+
+
 
 
 
@@ -472,3 +491,25 @@ I don't want to waste too much time lampooning economists because I could go on 
 www.youtube.com/watch?v=8Rn4CRu9pa4
 
 ^ Cathedrals, the antithesis of the lowest man's utility. All are humbled by their greatness and they prize the peak over the average.
+
+
+
+
+
+###### executive compensation
+
+- www.library.hbs.edu/go/execucomp.html
+- https://www.nber.org/papers/w21131
+- https://www.nber.org/feldstein_lecture_2012/feldsteinlecture_2012.html
+
+
+
+
+
+###### size of government
+
+
+
+- the federal government uses the highway fund to strong-arm states into doing what it wants [[[size]]]
+- social security + medicaid + medicare + 
+- https://en.wikipedia.org/wiki/United_States_federal_budget
