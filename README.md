@@ -1,4 +1,4 @@
-Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. It will be too obvious for some but hopefully not too advanced for anyone. This is what I wish someone would have told me X years ago.
+Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. It will be too obvious for some but hopefully not too advanced for anyone. This is what I wish someone would have told me X years ago. Alternately, if I were teaching a course in economics 101, this is what I would build a course around. This is (a very imperfect and incomplete draft of) what I think would serve the students' rather than the teachers' interests.
 
 
 -------------------------
@@ -664,7 +664,124 @@ Bechtel | mining; Halliburton competitor; see [[world bank conspiracy
 
 
 
+#### Franchises
+
+http://www.entrepreneur.com/franchises/sportclips/282819-0.html
+
+I saw an ad for SportsClips in Entrepreneur magazine one time (it's a shitty magazine but for some reason cowork spaces like to stock it. I guess it makes them look like everybody else?)
+
+
+
+##### Specialty magazines
+
+- Regional Banker magazine
+
+
+
+Since as a media owner your job is actually to sell ads, why not just start with a group of people you want to advertise to? Source some shitty articles from shitty writers that are vaguely on topic, figure out how to do glossy printing, and 
+
+
+#### Government bids
+
+Every customer is different and so is the government. Since governments have the power to tax and since they pool the resources of a community, they often have a lot of money. And they might not be very smart at spending it.
+
+Witness DoD contracts
+
+Witness [[[Medora, Texas
+
+
+
+###### Gyms
+
+If you want to sell your gym it will be valued proportional to how many credit cards you have permission to bill each month.
+
+###### Recurring revenues
+
+Recurring revenues are really important to businesses but don't fit the theory models. Serious problem with theory in my opinion.
+
+Check out Dan Davies' article on Medium, and his book.
+
+
 ##### Self-promotey upstarts
+
+http://autopsy.io/
+
+http://tmblr.co/ZdCxIyPwPOui
+
+<pre>
+Category	 Started Funded	 %F	∑Raised	 TC Posts
+Advertising	 3972	 631	 16	 $8B	 996
+Biotech	 	 2787	 1770	 64	 $42B	 43
+Cleantech	 1302	 719	 55	 $33B	 192
+Consulting	 3330	 176	 5	 $2B	 444
+Ecommerce	 5383	 868	 16	 $10B	 1587
+Education	 522	 60	 11	 $½B	 90
+Enterprise	 2389	 652	 27	 $10B	 993
+Games video	 3992	 910	 23	 $16B	 3625
+Hardware	 1726	 613	 36	 $12B	 3274
+Legal	 	 306	 23	 8	 $0.1B	 16
+Mobile	 	 4101	 1099	 27	 $20B	 4263
+Network hosting	 1782	 340	 19	 $8B	 1375
+Other	 	 33068	 2022	 6	 $24B	 2501
+Public relations 2531	 468	 7	 $7B	 765
+Search	 	 1437	 226	 16	 $2½B	 4625
+Security	 710	 218	 31	 $4B	 135
+Semiconductor	 620	 381	 61	 $9B	 27
+Software	 12405	 3039	 25	 $33B	 3733
+Web              12830	 2401	 19	 $29B	 14356
+
+
+Category	 Acqu	 %A	IPOs	%I 	% on TC	 Avg Funding
+Advertising	 221	 5½	15	½	 6½	 $2M
+Biotech	         332	 12	143	5	 ½	 $15M
+Cleantech	 72	 5½	39	3	 5½	 $25M
+Consulting	 107	 3	15	½ 	 1½	 $½M
+Ecommerce	 188	 3½	16	⅓	 12½	 $5M
+Education	 4	 ¾	1	¼	 3½	 $1M
+Enterprise	 257	 11	41	1½	 9	 $4M
+Games video	 285	 7	30	¾	 11	 $4M
+Hardware	 139	 8	81	4½	 6	 $7M
+Legal	 	 2	 ½	0	0	 1	 $⅓M
+Mobile	 	 275	 6½	34	1	 13	 $5M
+Network hosting	 154	 8½	22	1	 8	 $4½M
+Other	 	 2325	 7	101	½	 2½	 $½M
+Public relations 171	 18½	32	1½	 19	 $3M
+Search	 	 57	 4	4	¼	 10	 $2M
+Security	 96	 13½	12	2	 7	 $6M
+Semiconductor	 119	 19	51	8	 3	 $15M
+Software	 1101	 9	110	1	 5	 $2½M
+Web 		 827	 6½	57	½	 14	 $2½M
+</pre>
+Source: Smaeer Al-Sakhran
+
+
+
+
+
+##### Porno and tube sites
+
+- MANWIN
+- http://www.businessinsider.com/joanna-angel-burning-angel-2013-9
+
+
+###### Commission Junction, spam, and click arbitrage
+abc
+defg
+
+###### Plenty Of Fish
+
+This story demonstrated to a lot of people that advertising is dumb money. At that point they were paying for page views, so he just made the site worse by giving it more page views.
+
+† Corporations aren't here to serve you the best products that make you happy[^ Although this has become the conventional wisdom of the educated class, because you know, Adam Smith or something. Markets in everything!], they are just sometimes forced to do that through rigorous competition. However there is unbridled competition in websites and PoF was still providing a definitively inferior product to customers yet making more money off of it.
+
+That may have changed now, I think ad measurement is different but ad buyers still have a "monthly spend" as in --- I'm the boss, I delegated to you that you need to _find ways to spend **at least** this amount_ each month, be creative if necessary.[^ But you know, let's still teach Edgeworth boxes because, um. Guess the professors aren't there to serve your interests either? Bingo! Not that they're mean, I think they just have other priorities besides making the prefect truthful relevant class, when it requires fighting against the grain and is not where their bread is buttered. You could argue that it's students' fault for not choosing based on actual academic rigour but rather on how nice the buildings are. ]
+
+
+
+
+##### Professors and education
+
+Professing is a business these days. ((Was it always? Look at Mersenne
 
 
 
@@ -789,6 +906,15 @@ But the costs are way lower. Of course I'm typing this into GitHub which is one 
 
 
 
+- http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html
+- http://avc.com/2009/08/the-ideal-first-round-term-sheet/
+- http://antiventurecapital.com/raise-startup-capital/venture-capital-math/
+
+
+###### startups that have exited north of $1 billion
+
+
+- software investment size vs biotech investment size
 
 
 
