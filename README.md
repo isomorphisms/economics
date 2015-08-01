@@ -33,7 +33,7 @@ Hey, pretty nice. Wealth isn't everything (it's not love or art or fun), but it 
 
 
 
-# capitalism & communism
+# capitalism
 
 Libertarians love to cite the following successes of capitalism:
 
@@ -93,7 +93,7 @@ www.nybooks.com/blogs/nyrblog/2015/jul/25/nail-salons-new-york-times-got-wrong
 
 
 
-
+## Communism
 
 ![pop quiz](http://36.media.tumblr.com/tumblr_lzdx1tJidd1qc38e9o1_1280.png)
 
