@@ -1,0 +1,66 @@
+require(FRBData)
+#http://www.r-bloggers.com/easy-way-to-get-yield-curve-what-you-need-is-only-frbdata-package/
+GetInterestRates("TCMNOM")
+GetInterestRates("TCMNOM") -> treasury.yields
+treasury.yields %>% tail
+plot( treasury.yields %>% last, type='p')
+plot( treasury.yields %>% last)
+last( treasury.yields )
+last( treasury.yields ) %>% plot
+Sys.date()
+Sys.Date()
+Sys.time()
+dput( last( treasury.yields ) )
+plot( treasury.yields %>% last %>% as.numeric )
+plot( treasury.yields %>% last %>% as.numeric , pch=20)
+plot( treasury.yields %>% last %>% as.numeric , pch=19)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=3)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=3, ylab="Yield")
+treasury.yields %>% class
+?xlab
+?axis
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=3, ylab="Yield in ‱", main='Future money on 2015-07-31')
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31')
+?cex
+?plot
+?par
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=3)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=2)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=2)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (not evenly spaced)')
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)')
+?par
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=1.5)
+plot( treasury.yields %>% last %>% as.numeric , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+?par
+plot( y = treasury.yields %>% last %>% as.numeric x = treasury.yields %>% last %>% index , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+treasury.yields %>% last 
+treasury.yields %>% last %>% names
+plot( y = treasury.yields %>% last %>% as.numeric x = treasury.yields %>% last %>% names , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+?par
+axis('bottom', labels=treasury.yields %>% last %>% names )
+axis('bottom', labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) )
+axis('bottom', labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30)/30 )
+c(1/12,3/12,6/12,1,2,3,5,7,10,20,30)/30
+axis(1, labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30)/30 )
+axis(1, labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) )
+plot( y = treasury.yields %>% last %>% as.numeric x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, cex=2, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', xaxs='', mex=2)
+?par
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', xaxt='', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time (wrongly spaced)', xaxt='n', mex=2)
+axis(1, labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) )
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time', xaxt='', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Future money on 2015-07-31', cex.lab=1.5, xlab='Time', xaxt='n', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Cost of future money on 2015-07-31', cex.lab=1.5, xlab='Time', xaxt='n', mex=2)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Cost of future money on 2015-07-31', cex.lab=1.5, xlab='Time', xaxt='n', mex=2)
+axis(1, labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) )
+png("future money.png", width=1200, height=1000)
+plot( y = treasury.yields %>% last %>% as.numeric, x = c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) , pch=19, ylab="Yield in ‱", main='Cost of future money on 2015-07-31', cex.lab=1.5, xlab='Time', xaxt='n', mex=2)
+axis(1, labels=treasury.yields %>% last %>% names , at=c(1/12,3/12,6/12,1,2,3,5,7,10,20,30) )
+dev.off()
+savehistory('working TSY plot.Rhist')
