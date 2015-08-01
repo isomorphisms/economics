@@ -438,7 +438,12 @@ According to Tim Geithner's book _Stress Test_, repo is the main way that hedge 
 This seems like an important feature of today's economic, capitalistic setup. Because of specialisation most companies rely on a lot of other companies to do necessary parts of their business for them. In fact vertical integration is illegal [^ for other reasons]. Imagine that you ran an auto body shop and one day all the people who supply you with paint are gone. You could only serve the customers with the paint you had left. Maybe you talk them into getting a weird color that's "close"? And then what do you do when the paint suppliers are still gone a month later? Do you try to figure out how to make auto paints yourself? This is just one example of [[general equilibrium]] problems: the disappearance of auto-paint suppliers would cause a ripple effect.
 
 [^ Microsoft is an exception [[link]] ]
+[Microsoft going to the bond markets](http://www.forbes.com/sites/timworstall/2015/02/10/if-microsoft-has-92-billion-in-cash-then-why-has-it-just-borrowed-10-75-billion/)
 
+(A couple years ago business academics wrote papers about "hoarding cash" ... not coincidentally journalists in major newspapers were talking about "hoarding cash" ... not coincidentally people and their friends were losing theri jobs, fewer people were hiring, and corporate profits were high. Hence, "stop hoarding cash, you big bad corporations".)
+https://www.stlouisfed.org/Publications/Regional-Economist/January-2013/Why-Are-Corporations-Holding-So-Much-Cash
+http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-are-worlds-biggest-cash-hoarders-hurts-their
+[^ In case you didn't notice, "hoarding" is a negatively charged word for "having". ]
 
 
 
@@ -603,8 +608,11 @@ Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-ba
 
 
 
+###### psychological priming
 
-######crown royal velvet bag
+
+
+###### crown royal velvet bag
 ![](http://www.1-877-spirits.com/store/images/brand/Crown%20Royal%20Canadian%20Whisky%20Group2.jpg)
 ![crown royal](http://image.linotype.com/fontlounge/fontsinuse/crownroyal.jpg)
 
@@ -1229,3 +1237,22 @@ At the same time, governments with at least a few of their citizens watching hav
 
 - World Bank
 - FRED
+
+
+
+
+###### open source
+
+
+What kinds of things are companies ok to share with their competitors?
+
+[[[the current trend in talking-about-entrepreneurship is "scratch your own itch" ... like open source ...
+
+
+
+
+###### channels
+
+Generally a good sign if someone talks about this.
+If someone is talking about portfolio balance channels, 
+it means they are measuring mass behaviour
