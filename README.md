@@ -48,6 +48,7 @@ The middle country is Mexico.
 
 
 
+# Data and acronyms
 
 #### GDP and PPP
 
@@ -73,15 +74,21 @@ A [state-istic] ((link)) made by a mercantile theorist to convince the Bank of E
 
 #### ECI, CPI, PPP
 
-Although it might not make sense on the basis of individual transactions at constantly adjusting prices, deals struck for incommensurable goods [^no two houses are alike, for example] on ad-hoc terms, for the purpose of statistics advanced nations try to compute "general price levels". This is a hairy business but that is the only way you can get one summary number out of a zillion transactions ((((how many?)))) that take place every year.
+Although it might not make sense on the basis of individual transactions at constantly adjusting prices, deals struck for incommensurable goods [^no two houses are alike, for example] on ad-hoc terms, for job purpose of statistics advanced nations try to compute "general price levels". This is a hairy business but that is the only way you can get one summary number out of a zillion transactions ((((how many?)))) that take place every year.
 
 
 billion prices project
 
+###### PPP
 
 There is also a relatively unique price level at which currencies can be exchanged with each other. For example at `abcefg` the conversion between USD and JPY is 124¥:1USD. It did this over the last year:
 
 ![spot market](USD.JPY.png)
+
+That price level is not the right conversion to use to compare "general standards of living". Again this is not really a well defined concept because banh mi is better in Viet Nam by construction than anywhere else, and French food is better than English by culture. Houses in the South of France are more regulated in what you can and can't do with them. Etc. Nowhere is the same. But statisticians do at least try to make a better inter-country comparison than just using the spot rate. They compile Purchasing Power Parity numbers every few years which are meant to be used to make better cross-country comparisons. Read about it some time.
+
+
+ (The alternative is a hamburger index)
 
 
 
