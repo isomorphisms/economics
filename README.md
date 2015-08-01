@@ -1216,6 +1216,7 @@ Russell Horton Cownay, an evil guru who got rich selling self-hatred and cheapo 
 Of course there are also just a lot of bad rich people in history.
 
 - Alfred Nobel
+- William Andrews Clark, copper monopolist, senator, marrier of women 60 years his junior, in the words of Mark Twain "as rotten a human being as can be found anywhere under the flag; he is a shame to the American nation, and no one has helped to send him to the Senate who did not know that his proper place was the penitentiary, with a ball and chain on his legs. To my mind he is the most disgusting creature that the republic has produced since Tweed's time", Source: https://en.wikipedia.org/wiki/William_A._Clark#Political_career Clark County, Nevada is named after him.
 - Cecil Rhodes, racist, colonialist, 
 
 Wait, the Rhodes of Rhodes Scholarship? You betcha... 
