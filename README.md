@@ -1288,6 +1288,11 @@ You can derive this yourself and should. Write out the terms and then draw a big
 
 (my blog post on it)
 
+
+- DCF analysis videos
+
+
+
 ###### CAPM and portfolio maths
 
 Don't spend too much time on the CAPM. It's contentious theory [Buffett link].
