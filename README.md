@@ -24,6 +24,9 @@ Libertarians love to cite the following successes of capitalism:
 ![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
 ![work less earn more](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-3-1024.jpg?cb=1243403192)
 ![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
+Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html#lfHendersonCEE2-156_table_045 http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html http://mskousen.com/category/skousen-books/
+
+
 
 
 However let's not stop there. A high average growth rate and high wealth levels aren't everything.
@@ -123,15 +126,71 @@ http://www.theworldeconomy.org/
 
 
 
-#### the industrial revolution
+### the industrial revolution
 
 Was it about technology? Property rights? Limited-liability?
 
 
-And what do past periods of growth tell us 
+And what do past periods of growth tell us about our service economy and website adventurists in the low-growth 21st century?
 
 
 
+#### Mastery of Energy
+
+http://web.mit.edu/lienhard/www/ahtt.html
+
+[[[figures]]]
+
+> The life forms on our planet have necessarily evolved to match the
+magnitude of these energy flows. But while “natural man” is in balance
+with these heat flows, “technological man”1 has used his mind, his back,
+and his will to harness and control energy flows that are far more intense
+than those we experience naturally. To emphasize this point we suggest
+that the reader make an experiment.
+
+
+> Experiment 1.1
+Generate as much power as you can, in some way that permits you to
+measure your own work output. You might lift a weight, or run your own
+weight up a stairwell, against a stopwatch. Express the result in watts (W).
+Perhaps you might collect the results in your class. They should generally
+be less than 1 kW or even 1 horsepower (746 W). How much less might
+be surprising.
+
+> Thus, when we do so small a thing as turning on a 150 W light bulb,
+we are manipulating a quantity of energy substantially greater than a
+human being could produce in sustained effort. The power consumed
+by an oven, toaster, or hot water heater is an order of magnitude beyond
+our capacity. The power consumed by an automobile can easily be three
+orders of magnitude greater. If all the people in the United States worked
+continuously like galley slaves, they could barely equal the output of even
+a single city power plant.
+Our voracious appetite for energy has steadily driven the intensity
+of actual heat transfer processes upward until they are far greater than
+those normally involved with life forms on earth. Until the middle of the
+thirteenth century, the energy we use was drawn indirectly from the sun
+1
+Some anthropologists think that the term Homo technologicus (technological man)
+serves to define human beings, as apart from animals, better than the older term Homo
+sapiens (man, the wise). We may not be as much wiser than the animals as we think we
+are, but only we do serious sustained tool making.
+
+
+> using comparatively gentle processes — animal power, wind and water
+power, and the combustion of wood. Then population growth and defor-
+estation drove the English to using coal. By the end of the seventeenth
+century, England had almost completely converted to coal in place of
+wood. At the turn of the eighteenth century, the first commercial steam
+engines were developed, and that set the stage for enormously increased
+consumption of coal. Europe and America followed England in these
+developments.
+The development of fossil energy sources has been a bit like Jules
+Verne’s description in Around the World in Eighty Days in which, to win
+a race, a crew burns the inside of a ship to power the steam engine. The
+combustion of nonrenewable fossil energy sources (and, more recently,
+the fission of uranium) has led to remarkably intense energy releases in
+power-generating equipment. The energy transferred as heat in a nuclear
+reactor is on the order of one million watts per square meter.
 
 
 
