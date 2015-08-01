@@ -589,6 +589,10 @@ pepsi/coke fmri
 
 [[[[old ads website]]]]
 
+What's the difference between Folgers instant coffee and Starbucks instant coffee? Starbucks comes in a tiny packet (not a large can), it's decorated by the favourite small-daily-luxury brand of the median culture, and it's not called “instant coffee”. “Instant” is like pre-sliced bread: it speaks to the atomic-age not to the post-industrial organic age.
+![It's the best thing since unsliced bread.](http://imgc-cn.artprintimages.com/images/P-473-488-90/64/6478/A9G6100Z/posters/emily-flake-oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-new-yorker-cartoon.jpg)
+Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-New-Yorker-Cartoon-Prints_i9015840_.htm
+
 
 
 [[[crown royal velvet case]]]
@@ -973,6 +977,7 @@ Luigi Zingales, a "professor of entrepreneurship and risk" who has taken no risk
 - track record of TechStars
 
 [[cultural clout --- PG submarine // buying ideology time]]
+((institute for brand awareness — undergraduate essays))
 
 
 
