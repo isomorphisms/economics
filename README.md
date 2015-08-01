@@ -28,6 +28,65 @@ Hey, pretty nice. Wealth isn't everything (it's not love or art or fun), but it 
 
 
 
+### South versus North
+
+The poorest 5 countries in the world are _______ with populations of _.
+
+
+
+
+
+There are some tiny super-rich countries (more like principalities in size)
+
+After taking them out the richest countries per person are:
+
+
+
+
+The middle country is Mexico.
+
+
+
+
+
+#### GDP and PPP
+
+There are some technical definitions to GNP versus GDP which you should look up some day. 
+
+
+##### Linkage
+
+Everyone's expense is someone else's income. So economics is all about linkages. In a closed system, if there were $100 billion of spending then that would imply $100 billion of output. However things are more complicated since "spending" could be repairing depreciated capital (a recurring cost of roughly 10% per year --- source: Piketty) or investing in new projects that might not go anywhere. It is also complicated by residence and nationality. 
+
+
+balance of payments
+
+
+
+Some countries (think Germany) export more than they import. Things need to 
+
+[[[treasury pic William ... England
+
+
+A [state-istic] ((link)) made by a mercantile theorist to convince the Bank of England to do something.
+
+
+#### ECI, CPI, PPP
+
+Although it might not make sense on the basis of individual transactions at constantly adjusting prices, deals struck for incommensurable goods [^no two houses are alike, for example] on ad-hoc terms, for the purpose of statistics advanced nations try to compute "general price levels". This is a hairy business but that is the only way you can get one summary number out of a zillion transactions ((((how many?)))) that take place every year.
+
+
+billion prices project
+
+
+There is also a relatively unique price level at which currencies can be exchanged with each other. For example at `abcefg` the conversion between USD and JPY is 124¥:1USD. It did this over the last year:
+
+![spot market](USD.JPY.png)
+
+
+
+
+
 
 # capitalism
 
@@ -585,7 +644,7 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 
 - creditflux
 - munilass
-- CUSIP's
+- CUSIP's http://emma.msrb.org/
 - http://www.breckinridge.com/insights/podcasts.html
 
 
