@@ -657,6 +657,10 @@ or http://www.bloomberg.com/markets/rates-bonds has some non-US bonds.
 
 
 
+Obviously this is related to inflation (how much money will circulate in the future [[[[velocity]]]]
+
+
+
 
 
 
@@ -1256,3 +1260,43 @@ What kinds of things are companies ok to share with their competitors?
 Generally a good sign if someone talks about this.
 If someone is talking about portfolio balance channels, 
 it means they are measuring mass behaviour
+
+
+
+
+###### big dada
+
+- HBR cover
+
+
+
+###### chair of entrepreneurial risk
+
+
+###### McKinsey
+
+- reports
+- 60% Yale avocado
+
+
+
+###### NPV
+
+&sum; f^k = 1/(1−f), for 0<**f**raction<1.
+
+You can derive this yourself and should. Write out the terms and then draw a big box around them, call the box `F`, and then do `fF−F`.
+
+(my blog post on it)
+
+###### CAPM and portfolio maths
+
+Don't spend too much time on the CAPM. Sums of independent dice are Gaussian distributed.  (My blog post on it.)
+
+[^Gaussian probability is roughly proportional ½ to the distance from the average. So 1/2, 1/4, 1/8. We measure in square-root of distance so these numbers become 0σ ∝ 1, 1σ ∝ 1/4, 2σ≈1/16 ]
+
+```
+require(quantmod); getSymbols('SLB') #Schlumberger
+require(magrittr)
+SLB %>% stem
+SLB %>% log %>% stem
+```
