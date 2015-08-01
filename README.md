@@ -119,7 +119,7 @@ Does finance serve any useful purpose? The first way to argue it does is to thin
 (The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them
 
 
-ke
+
 
 
 
@@ -139,10 +139,11 @@ Over time consumer credit has expanded into car loans and credit-card loans. [[[
 
 
 
-
-
-
 Any way you slice it, the banking business is about borrowing cheap and lending dear. The economic question is how that goal set affects the rest of us.
+
+
+
+
 
 
 
@@ -151,7 +152,7 @@ Any way you slice it, the banking business is about borrowing cheap and lending 
 
 Carolyn Sissoko emphasises that lenders prefer to loan against collateral. If you don't pay them back then they get to take your thing.
 
-Treasury bills are considered so secure that they 
+Treasury bills are considered so secure that they make good collateral. I get money today while you hold my T-bill. If I don't pay you back with interest then you already have my T-bill and don't need to come looking for me. [^ Believe me --- if you've never run a business --- chasing customers down for money _they already owe you_ --- you've already "made the sale" and done the work --- is a huge pain in the ass and a feature of every business. That is why `accounts receivable` is a major accounting category. People try to wriggle out of paying, for real.]
 
 
 
@@ -159,14 +160,44 @@ You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1ol
 
 - libertystreeteconomics.newyorkfed.org/2011/04/everything-you-wanted-to-know-about-the-tri-party-repo-market-but-didnt-know-to-ask.html
 - geithner
-- 
 
-According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds 
+According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds financed trades. The problem with getting financing from the money markets is that, since the terms change every day, you can't count on them too much. Big companies need a department that does nothing but plan and predict treasury financing. In the crisis of 2008 the money markets just stopped offering companies money. Imagine that you are used to borrowing in ranges like 3, 4, or 5 percent and then one day the market was offering 500 percent at best. If your business runs on debt (most public companies do --- see [[LBO]], requires a lender to go through the basic operations of paying your vendors and employees, shipping your packages and            _____. Maybe for a while you can put people off. But what if the money markets aren't back next week? next month?
+
+
+This seems like an important feature of today's economic, capitalistic setup. Because of specialisation most companies rely on a lot of other companies to do necessary parts of their business for them. In fact vertical integration is illegal [^ for other reasons]. Imagine that you ran an auto body shop and one day all the people who supply you with paint are gone. You could only serve the customers with the paint you had left. Maybe you talk them into getting a weird color that's "close"? And then what do you do when the paint suppliers are still gone a month later? Do you try to figure out how to make auto paints yourself? This is just one example of [[general equilibrium]] problems: the disappearance of auto-paint suppliers would cause a ripple effect.
+
+[^ Microsoft is an exception [[link]] ]
+
+
+
+
+
+
 
 
 ## bonds
 
 Every year $__ trillion worth of bonds change hands globally.
+
+
+
+
+
+
+### future money
+At different points in time, here is the cost of future US dollars
+
+isomorphism.es/post/101890975168/treasury-yield-curve-from-the-volcker-era-through
+
+You can check right now here: http://www.bloomberg.com/markets/rates-bonds
+
+
+
+I am being inaccurate by calling 3-month T-bills "dollars in 3 months" but it's close enough.
+
+
+
+
 
 
 ### muni bonds
