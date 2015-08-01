@@ -131,10 +131,21 @@ Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |
 
 
 
-Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?
+Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
 
 
-blackboysreport.org
+http://blackboysreport.org
+
+
+
+http://finance.yahoo.com/news/how-chicago-has-used-financial-engineering-to-paper-over-its-massive-budget-gap-144515066.html
+
+http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
+
+> About $54 million from a tax-exempt bond helped cover a legal judgment awarded to African-Americans who were denied a chance to become firefighters by a 1990s entrance exam that favored white applicants. An additional $8 million in tax-exempt bond money went to pay legal fees related to the case, records show.
+
+> By using bond money, the city created an irony for many of those awarded damages, as their future property taxes will help pay interest on the debt. In 2033, when the city starts paying down the $54 million, interest will have more than doubled the total cost.
+
 
 
 
@@ -923,11 +934,11 @@ poet laureates
 ##### HFT and "fake liquidity"
 
 - asness (Wrong)
-- blair hull
-- haim bodek (not respected)
-- eric hunsader and sal ____
-- mech markets
-- alexandre laumonier is respected by indsutry people
+- Blair Hull [describes](https://www.youtube.com/watch?v=lEQ7a_JwWTg) "fake liquidity" where traders stand on queue only if they're at the front. If a big order comes in behind them and pushes them through, then it will hopefully be a big enough order that you can turn right around and go the other direction, making a tick in the process. 
+- haim bodek (not respected) describes something similar
+- eric hunsader and sal xxxx are not respected by industry people
+- mech markets https://mechanicalmarkets.wordpress.com/2015/01/13/trader-type-and-order-age/
+- alexandre laumonier is respected by indsutry people https://sniperinmahwah.wordpress.com/. An anthropologist, if you follow through his links you can see marketing by Mackay Brothers, who sell the microwave towers.
 - volcube
 
 - BATS BYX and the competitive landscape for exchanges
@@ -937,7 +948,11 @@ poet laureates
 
 ######EITC
 
-Milton Friedman's alternative to the minimum wage 
+Milton Friedman's alternative to the minimum wage is to pay low wage workers instead of taxing them. Even though he was a conservative, Friedman never thought the negative tax on low-paid workers was high enough during his lifetime.
+
+Software companies aren't "more ethical" than fast food companies because their employees happen to be white collar. Actually it's maybe the other way around, since providing employment to the least powerful is a social good. Anyway, however you slice it, poverty is everyone's problem, so everyone should contribute.
+
+A negative tax has the further upside that it increases tax-filing rates, and the further downside that you don't want your income to come all at once during the year, especially if you are scraping by.
 
 
 
