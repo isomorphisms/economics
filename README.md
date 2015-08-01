@@ -583,7 +583,9 @@ Anyway. Is this a more efficient means of social organisation? I am not sure, bu
 ###### advertising
 
 
-[[[[buy lucky strikes]]]]
+###### lucky strikes
+![it's toasted](https://a248.e.akamai.net/f/1202/1579/4m/i.dailymail.co.uk/i/pix/2013/09/23/article-2429980-1835784C00000578-793_634x898.jpg)
+Source: http://www.dailymail.co.uk/news/article-2429980/Mad-Men-sparks-cigarette-sales-boom-Lucky-Strike.html
 
 pepsi/coke fmri
 
@@ -593,9 +595,20 @@ What's the difference between Folgers instant coffee and Starbucks instant coffe
 ![It's the best thing since unsliced bread.](http://imgc-cn.artprintimages.com/images/P-473-488-90/64/6478/A9G6100Z/posters/emily-flake-oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-new-yorker-cartoon.jpg)
 Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-New-Yorker-Cartoon-Prints_i9015840_.htm
 
+(NB: After writing this I can't stop singing "The best part of waking up" in my head.)
 
 
-[[[crown royal velvet case]]]
+
+###### rappers mentions of Kristal and Err 4ce One's
+
+
+
+
+######crown royal velvet bag
+![](http://www.1-877-spirits.com/store/images/brand/Crown%20Royal%20Canadian%20Whisky%20Group2.jpg)
+![crown royal](http://image.linotype.com/fontlounge/fontsinuse/crownroyal.jpg)
+
+[[Case study about the packaging
 
 
 [[[wine labels]]]
