@@ -11,6 +11,12 @@ I am generally going to speak about the US economy. That's not because it is the
 
 
 
+
+![growth over history](http://41.media.tumblr.com/tumblr_l2pc70WnmF1qc38e9o1_500.png)
+
+Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
+
+
 ## capitalism & communism
 
 Libertarians love to cite the following successes of capitalism:
@@ -189,6 +195,14 @@ Every year $__ trillion worth of bonds change hands globally.
 
 ### future money
 You can check right now here: http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-Yield-Data-Visualization.aspx
+![yield curve](http://www.yieldandincome.com/graphing/valubond_compositeYield.asp?type=T&now=%3C?php%20print_r%28$adDateStr%29;?%3E)
+
+
+That is the cost of future money. For example on `Sys.Date() == 2015-07-31` the yield on 1-year Treasury notes is `0.36%`, which means that $100 will become $100.36 and $10,000 will become $10,036 in one year's time. If you spent $10,000 on 1-years that day you would receive $10,036 in one year's time.
+
+
+I am being inaccurate by calling it "future money" but it's close enough.
+
 
 
 or http://www.bloomberg.com/markets/rates-bonds has some non-US bonds.
@@ -196,7 +210,7 @@ or http://www.bloomberg.com/markets/rates-bonds has some non-US bonds.
 
 
 
-I am being inaccurate by calling 3-month T-bills "dollars in 3 months" but it's close enough.
+
 
 
 
