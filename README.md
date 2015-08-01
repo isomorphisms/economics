@@ -22,11 +22,7 @@ Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
 Libertarians love to cite the following successes of capitalism:
 
 ![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
-
-![material advances for bottom-quintile US citizens since 1971](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
-
 ![work less earn more](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-3-1024.jpg?cb=1243403192)
-
 ![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
 
 
