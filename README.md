@@ -1376,7 +1376,10 @@ Let's look at the volumes. Where are people able to come to a disagreement?
 
 ###### libraries
 
-ok, getting really far afield here. 
+ok, getting really far afield here. But software (esp web) is hot right now.
+
+Libraries are more important than languages. A library is code that someone else has already written that you can just call. For example it takes a lot of code to TCP/IP/UDP/serve/client/parse a HTML GET request [link] that's sent over the web. But a library like `curl` does it for you. `curl` is xyz lines long, it's been used by a lot of people, it's been edited by a lot of knowledgeable hackers. So just use that with a "scripting language" (a.k.a. an easy language) and in a few
+lines you can do what you want to do. For example look at bastards book of ruby.
 
 
 
