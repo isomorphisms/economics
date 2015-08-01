@@ -1233,6 +1233,7 @@ I don't know why the Quoran Reddit half of the internet thinks that capitalists 
 
 [[inheritance section
 
+[^ Maybe you will say that I'm just easily bilked by Wikipedia articles that are properly baited to my level and prejudices. [[The article on Mark Spitznagel for example did not work on me, it worked in reverse.]] That's fine if you think that, go read your own shit and educate yourself. You can come back and convince me with a pull request. ]
 
 
 
