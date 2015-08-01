@@ -51,11 +51,16 @@ However let's not stop there. A high average growth rate and high wealth levels 
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
+###### Race or ethnicity of respondent 																		
+
+White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 	694.21 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
+Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
+
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?
 
 
-
+blackboysreport.org
 
 
 
@@ -229,6 +234,44 @@ Electrification of the world: data.worldbank.org/indicator/EG.ELC.ACCS.ZS
 
 fuel sources in the us - http://tmblr.co/ZdCxIy13ixiO5
 
+
+![us petroleum and other liquid fuel supplies, 1970-2060](http://40.media.tumblr.com/66f4ee1e940929ce81b51bb4ab039bc9/tumblr_mxywmuxhkh1qc38e9o1_1280.png)
+
+![US energy imports](http://40.media.tumblr.com/5f41114430f89dac25a1e8251c48571f/tumblr_mxywmuxhkh1qc38e9o2_1280.png)
+
+
+
+
+###### The Marcellus Shale
+
+Not everybody gives the discovery and recovery of the Marcellus Shale patch in Pennsylvania the credit it is due for ending the US recession. [^ Geithner does not mention it in his book for example.]
+
+
+![location](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Marcellus_Bedrock.svg/220px-Marcellus_Bedrock.svg.png)
+
+![history](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eastern_North_American_Paleogeograpy_Middle_Devonian.png/220px-Eastern_North_American_Paleogeograpy_Middle_Devonian.png)
+
+![depth](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Catskill_Magnafacies.svg/550px-Catskill_Magnafacies.svg.png)
+
+[[[jobs numbers
+
+[[fracking
+
+The US tax code has a separate category for `depletion` so don't think this oil stuff is peanuts.
+
+[[[[figures on size and capital intensity of global oil industry]]]
+
+
+
+
+
+###### Fuel usage in the US
+
+![US energy consumption](http://40.media.tumblr.com/1e16a2200100e2582873d696f40e1a83/tumblr_mxywmuxhkh1qc38e9o3_1280.png)
+
+(Numbers go million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, ..... So quadrillion is 1,000,000,000,000,000. [[[W|A BTU's
+
+
 Electric power consumption per capita: http://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC/countries/1W?display=graph
 
 
@@ -351,6 +394,35 @@ In order to bring things to a market they need to be similar. Commodity exchange
 [[[gold delivery ]]]
 
 
+[[[fcoj history ... https://www.theice.com/publicdocs/ICE_FCOJ_Brochure.pdf ... http://www.ultimatecitrus.com/pdf/fcoj.pdf ... brown
+
+
+
+Think about rice. Only if the rices are all equivalated somehow can they be mixed together and sold en masse. If they can be mixed together then third-parties can trade it even if they don't want or make rice.
+
+For example wheat traders do not want to take delivery, they simply "make a market" for wheat. Pit traders would aggressively buy and sell slips of paper worth ____ bushels of wheat to each other throughout the day, speculating on the ultimate value at delivery.
+
+With things like steel people go to a lot of cost and might actually destroy value, to bring the steel to market. Say you have an awesome steel sculpture. If you can't find someone who agrees it is awesome and sell it to them and deliver it to them, you might melt it down so that its only value is as a commodity.
+
+
+
+
+
+###### RMBS's
+
+It's this drive to make things exchangeable at a unified trading point that makes it so hard to get a mortgage if you're self-employed. Maybe it is or isn't true that a W-2 job is more stable than the higher-paying 1099 one you have. What is sold on (in packets of 10,000 mortgages at a time [[[link]]) and traded to third-party financial institutions is a conforming mortgage.
+
+Local banks don't need to, themselves, hold enough money to buy every house in town. If they originate conforming mortgages and sell them on to people who *do* have boatloads of money, then they have a repeatable, scalable, fee-based business. Each conforming mortgage is so many dollars. It's a uniform process like an assembly line. It doesn't mean your job isn't valid, just that people who don't fit in the box are harder to pack together and sell as a conforming packet of 10,000.
+
+######Fairness
+
+Is it unfair of them not to loan you money? If I were a conservative I would say it's their prerogative and nobody owes you a loan, however the US has laws that make certain businesses to some extent public institutions. Even if you want to rent a room in your home you are not allowed to discriminate on certain bases. [[[craigslist -- fair housing]]]
+
+Some people like to pretend fairness isn't part of it but in a lawful society it is. We also regulate exchanges and securities offerings. You can't just do whatever you want, sort of like how you can't hire a hit man or tell certain kinds of lies with certain kinds of products. (For example you can lie about supplements all you want, but not about food or drugs.)
+
+In general the law balances freedom with fairness. Capitalism as we know it exists only within a system of laws, and capitalism as we know it has never arisen outside a system of laws. It would be inconceivable to make the kind of money Warren Buffett has made without policies to protect fairly earned wealth. Imagine two boys playing by themselves with no adults around. They make a bet for five dollars. The one who loses refuses to pay and they punch each other. No money is exchanged. This is what I think would happen instead of a carefully regulated system of trust that is necessary for the function of exchanges like the CME. [[[[link to CME stuff
+
+
 
 
 ###### labour markets are not markets
@@ -388,6 +460,8 @@ Stores are also "designed, not emergent". The ladies with the spices can sit whe
 
 
 https://books.google.de/books/about/Wal_Mart.html?id=2ReKQgAACAAJ&redir_esc=y
+
+http://muse.jhu.edu/journals/ens/summary/v010/10.4.bailey.html
 
 http://delong.typepad.com/sdj/2013/02/to-slee-no-one-makes-you-shop-at-wal-mart-chapter-1.html
 
