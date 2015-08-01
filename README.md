@@ -181,13 +181,33 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 
 ###### tax exempt bonds
 
-The federal government
-
 Who benefits the most from tax breaks? Those who pay the highest tax rate. So the federal government rewards the rich if they invest in communities and localities, without asking legislators to pick winners or do due diligence.
 
 
 
 ## rich & poor
+
+
+
+
+![income distribution](http://visualeconsite.s3.amazonaws.com/wp-content/uploads/2005_income_distribution.gif)
+
+due to Catherine Mulbrandon: http://visualizingeconomics.com/blog/2006/11/05/2005-us-income-distribution
+
+Notice that:
+1. not only do half of the households get by on less than $40k / year, there arearound just a ton of people who (combined, if multiple people work in the home) earn $20k or $30k.
+2. the rich live in their own world [^ I think you would need a `log(log($))` scale to fit the rich.]
+
+People who index around $100k or complain about how there exist others who make more money than they do (doctors, corporate lawyers, investment bankers, currency traders, whatever) are living in a bubble. Normal Americans make $20k or $30k. (If you assume full-time work = 50 weeks × 40 hours/week = 2000 hours/year, then that would be $10/hour – $15/hour. Normal.)
+
+
+There are some reasons the $0/year households aren't dead: they might be retired and living off of savings, or they might have negative business income for the year but generally be rich. [[mpls fed]]
+
+Anyway. It's the $10/hr - $15/hr number that we should be interested in increasing. In a capitalist world that means empowering those people. Their productivity needs to go up and/or they need to capture more of what they already produce.
+
+
+[[atlanta fed]]
+
 
 
 
@@ -208,6 +228,10 @@ Who benefits the most from tax breaks? Those who pay the highest tax rate. So th
 - Skaneatles Lake
 - ↑ spoils of war
 
+
+![USA geography](http://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/532a0530e4b05fcbbac9ed6b/1395262775099/?format=1000w)
+
+due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/average-household-income-by-us-counties
 
 
 #### inheritance 
