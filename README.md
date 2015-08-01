@@ -48,51 +48,6 @@ The middle country is Mexico.
 
 
 
-# Data and acronyms
-
-#### GDP and PPP
-
-There are some technical definitions to GNP versus GDP which you should look up some day. 
-
-
-##### Linkage
-
-Everyone's expense is someone else's income. So economics is all about linkages. In a closed system, if there were $100 billion of spending then that would imply $100 billion of output. However things are more complicated since "spending" could be repairing depreciated capital (a recurring cost of roughly 10% per year --- source: Piketty) or investing in new projects that might not go anywhere. It is also complicated by residence and nationality. 
-
-
-balance of payments
-
-
-
-Some countries (think Germany) export more than they import. Things need to 
-
-[[[treasury pic William ... England
-
-
-A [state-istic] ((link)) made by a mercantile theorist to convince the Bank of England to do something.
-
-
-#### ECI, CPI, PPP
-
-Although it might not make sense on the basis of individual transactions at constantly adjusting prices, deals struck for incommensurable goods [^no two houses are alike, for example] on ad-hoc terms, for job purpose of statistics advanced nations try to compute "general price levels". This is a hairy business but that is the only way you can get one summary number out of a zillion transactions ((((how many?)))) that take place every year.
-
-
-billion prices project
-
-###### PPP
-
-There is also a relatively unique price level at which currencies can be exchanged with each other. For example at `abcefg` the conversion between USD and JPY is 124¥:1USD. It did this over the last year:
-
-![spot market](USD.JPY.png)
-
-That price level is not the right conversion to use to compare "general standards of living". Again this is not really a well defined concept because banh mi is better in Viet Nam by construction than anywhere else, and French food is better than English by culture. Houses in the South of France are more regulated in what you can and can't do with them. Etc. Nowhere is the same. But statisticians do at least try to make a better inter-country comparison than just using the spot rate. They compile Purchasing Power Parity numbers every few years which are meant to be used to make better cross-country comparisons. Read about it some time.
-
-
- (The alternative is a hamburger index)
-
-
-
-
 
 
 # capitalism
@@ -432,7 +387,7 @@ You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1ol
 - libertystreeteconomics.newyorkfed.org/2011/04/everything-you-wanted-to-know-about-the-tri-party-repo-market-but-didnt-know-to-ask.html
 - geithner
 
-According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds financed trades. The problem with getting financing from the money markets is that, since the terms change every day, you can't count on them too much. Big companies need a department that does nothing but plan and predict treasury financing. In the crisis of 2008 the money markets just stopped offering companies money. Imagine that you are used to borrowing in ranges like 3, 4, or 5 percent and then one day the market was offering 500 percent at best. If your business runs on debt (most public companies do --- see [[LBO]], requires a lender to go through the basic operations of paying your vendors and employees, shipping your packages and            _____. Maybe for a while you can put people off. But what if the money markets aren't back next week? next month?
+According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds financed trades. The problem with getting financing from the money markets is that, since the terms change every day, you can't count on them too much. Big companies need a department that does nothing but plan and predict treasury financing. In the crisis of 2008 the money markets just stopped offering companies money. Imagine that you are used to borrowing in ranges like 3, 4, or 5 percent and then one day the market was offering 500 percent at best. If your business runs on debt (most public companies do --- see [[LBO]], requires a lender to go through the basic operations of paying your vendors and employees, shipping your packages and            . Maybe for a while you can put people off. But what if the money markets aren't back next week? next month?
 
 
 This seems like an important feature of today's economic, capitalistic setup. Because of specialisation most companies rely on a lot of other companies to do necessary parts of their business for them. In fact vertical integration is illegal [^ for other reasons]. Imagine that you ran an auto body shop and one day all the people who supply you with paint are gone. You could only serve the customers with the paint you had left. Maybe you talk them into getting a weird color that's "close"? And then what do you do when the paint suppliers are still gone a month later? Do you try to figure out how to make auto paints yourself? This is just one example of [[general equilibrium]] problems: the disappearance of auto-paint suppliers would cause a ripple effect.
@@ -955,6 +910,75 @@ It's a fundamental human right to be able to do what you want with your own mone
 
 poet laureates
 
+
+
+# Data and acronyms
+
+#### GDP and PPP
+
+There are some technical definitions to GNP versus GDP which you should look up some day. 
+
+
+##### Linkage
+
+Everyone's expense is someone else's income. So economics is all about linkages. In a closed system, if there were $100 billion of spending then that would imply $100 billion of output. However things are more complicated since "spending" could be repairing depreciated capital (a recurring cost of roughly 10% per year --- source: Piketty) or investing in new projects that might not go anywhere. It is also complicated by residence and nationality. 
+
+
+balance of payments
+
+
+
+Some countries (think Germany) export more than they import. Things need to 
+
+[[[treasury pic William ... England
+
+
+A [state-istic] ((link)) made by a mercantile theorist to convince the Bank of England to do something.
+
+
+#### ECI, CPI, PPP
+
+Although it might not make sense on the basis of individual transactions at constantly adjusting prices, deals struck for incommensurable goods [^no two houses are alike, for example] on ad-hoc terms, for job purpose of statistics advanced nations try to compute "general price levels". This is a hairy business but that is the only way you can get one summary number out of a zillion transactions ((((how many?)))) that take place every year.
+
+
+billion prices project
+
+###### PPP
+
+There is also a relatively unique price level at which currencies can be exchanged with each other. For example at `abcefg` the conversion between USD and JPY is 124¥:1USD. It did this over the last year:
+
+![spot market](USD.JPY.png)
+
+That price level is not the right conversion to use to compare "general standards of living". Again this is not really a well defined concept because banh mi is better in Viet Nam by construction than anywhere else, and French food is better than English by culture. Houses in the South of France are more regulated in what you can and can't do with them. Etc. Nowhere is the same. But statisticians do at least try to make a better inter-country comparison than just using the spot rate. They compile Purchasing Power Parity numbers every few years which are meant to be used to make better cross-country comparisons. Read about it some time.
+
+
+ (The alternative is a hamburger index)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### other topical issues
 
 
@@ -1337,7 +1361,7 @@ You can also sell options
 [m0ar theta ken griffin boat]
 [scammy "retirement plan" guy]
 
-I thought about paying my rent this way when I was poor ("Wait ... I can just *have money*? I don't have to actually do any work? Hellz yea!"), but they don't let poor people insure stock market players. You need to have tens of thousands of dollars at least (more like tens of millions if you want to trade for a living), and the exchange asks you for margin every time a position moves against you. In other words the exchange is going to make sure you are good for the money
+I thought about paying my rent this way when I was poor ("Wait ... I can just *have money*? Hellz yea!"), but they don't let poor people insure stock market players. You need to have tens of thousands of dollars at least (more like tens of millions if you want to trade for a living), and the exchange asks you for margin every time a position moves against you. In other words the exchange is going to make sure you are good for the money
 in case it expires ITM before they let you insure someone. This is one of the things the exchange does to make sure people from both sides want to trade there. (I.e., not the boys in the schoolyard punching each other because they aren't actually good for their word.)
 
 
@@ -1350,6 +1374,9 @@ Let's look at the volumes. Where are people able to come to a disagreement?
 
 
 
+###### libraries
+
+ok, getting really far afield here. 
 
 
 
