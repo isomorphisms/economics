@@ -26,6 +26,10 @@ Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
 Hey, pretty nice. Wealth isn't everything (it's not love or art or fun), but it makes life nicer. And now there's more total wealth? Sweet. How did that happen? And how do we make it happen? And how do _I_ make it happen to _me_?
 
 
+
+
+
+
 [[[wealth answer on quora ... land ]]]
 
 
@@ -229,6 +233,18 @@ http://www.theworldeconomy.org/
 
 
 
+### history of interest rates
+
+(ref: banking)
+
+https://twitter.com/isomorphisms/status/468241517027405824
+
+![r](https://pbs.twimg.com/media/Bn-HLYnCUAA37tv.png:large)
+
+http://t.co/VR4vjFNszW
+
+
+
 
 
 ## the industrial revolution
@@ -379,6 +395,9 @@ www.economist.com/node/16846402
 
 Does finance serve any useful purpose? The first way to argue it does is to think about home loans.
 
+http://t.co/GACtUB1v5A
+
+> Railways through Africa. Dams across the Nile. Plantations of ripening tea.
 
 
 (The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them so they would just do it as much as possible. [[student loans tkacik]]
@@ -519,7 +538,7 @@ It's this drive to make things exchangeable at a unified trading point that make
 
 Local banks don't need to, themselves, hold enough money to buy every house in town. If they originate conforming mortgages and sell them on to people who *do* have boatloads of money, then they have a repeatable, scalable, fee-based business. Each conforming mortgage is so many dollars. It's a uniform process like an assembly line. It doesn't mean your job isn't valid, just that people who don't fit in the box are harder to pack together and sell as a conforming packet of 10,000.
 
-######Fairness
+##### Fairness
 
 Is it unfair of them not to loan you money? If I were a conservative I would say it's their prerogative and nobody owes you a loan, however the US has laws that make certain businesses to some extent public institutions. Even if you want to rent a room in your home you are not allowed to discriminate on certain bases. [[[craigslist -- fair housing]]]
 
@@ -922,6 +941,12 @@ https://twitter.com/isomorphisms/status/604116555920613376
 why is 5 years of experience the magic number?
 
 
+https://twitter.com/isomorphisms/status/555751247131979776
+^ things that make no sense
+
+-  Ross (barbarian at gate guy) .. HR the last refuge of the worthless
+-  epicureandeal .. HR weenies
+
 
 
 ### Large, privately owned firms
@@ -1165,7 +1190,8 @@ https://twitter.com/isomorphisms/status/458513246136172544
 
 
 
-- non-lazy bakija cole heim
+- non-lazy bakija cole heim ![what jobs the rich have](https://pbs.twimg.com/media/B-NyLRRCUAAe_T2.jpg:large)
+- https://twitter.com/isomorphisms/status/568423516661370880 http://t.co/ykoIVjpWiH
 
 
 
