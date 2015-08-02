@@ -87,17 +87,20 @@ https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
 
 
-Race or ethnicity of respondent 	| 1989  | 1989  | 1992 |	1992 |  1995  |	1995 |	1998  | 1998 |	2001  | 2001 |	2004  | 2004  | 2007  | 2007 |	2010  | 2010 |	2013  | 2013
+Race or ethnicity of respondent 	| 1989  | μ 1989  | 1992 |	μ 1992 |  1995  |	μ 1995 |	1998  | μ 1998 |	2001  | μ 2001 |	2004  | μ 2004  | 2007  | μ 2007 |	2010  | μ 2010 |	2013  | μ 2013
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 | 	694.21 | 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
 Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
 
 Let's look at just the median because all the mean is telling us is how wealthy the entire country is. Of course total / middle is a measure of dispersion. There are a lot of ratios to look at. Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
 
-Race or ethnicity of respondent 	| 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
--- | -- | -- | -- | -- | -- | -- | -- | -- | --
+
+Race or ethnicity of respondent  | 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 White non-Hispanic | 130 | 113 | 116 | 137 | 161 | 174 | 193 | 139 | 142
-Non-white, or Hispanic | 11 | 20 | 24 | 24  | 24 | 30 | 31 | 22 | 18
+Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
+
+
 
 ###### Nonwhites = 11, Whites = 130.
 
@@ -148,6 +151,18 @@ Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeo
 
 
 http://blackboysreport.org
+
+
+
+If the capitalistic growth is mostly just benefiting rich white people, then I don't really see the point. In my opinion the wealth of the poor is a better gauge.
+
+(I am not saying Blacks are all poor or that all are descended from slaves, see my sheaf theory post.)
+
+
+[dumb cowen npv recompense thing? africa gdp thing?]
+
+
+
 
 
 
