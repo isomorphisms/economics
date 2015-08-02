@@ -102,16 +102,13 @@ http://t.co/SzbNKdgO1x Source: loc.gov
 
 
 
-https://ucfbelovedproject.wordpress.com/2012/04/23/sethes-chokecherry-tree/
 
 ![slave wounds](https://ucfbelovedproject.files.wordpress.com/2012/04/slave-wounds1.jpg)
 
-![into her back was carved a chokecherry tree](https://ucfbelovedproject.files.wordpress.com/2012/04/photo3.jpg)
-
-![chokecherry tree](http://www.plantreferenceguide.com/wp-content/uploads/2014/11/16700_CanadaRedCherry.jpg)
 
 
-((separate slavery section? GDP of south and value of slave assets citation))
+
+
 
 > I have no accurate knowledge of my age,
 never having seen any authentic record containing it. By far the larger part
