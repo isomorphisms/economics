@@ -394,7 +394,7 @@ https://twitter.com/isomorphisms/status/503060309318578176
 
 https://twitter.com/isomorphisms/status/494746764348784640
 
-
+https://twitter.com/isomorphisms/status/509950138488328192 (deprofessionalisation)
 
 
 
