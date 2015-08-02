@@ -534,15 +534,30 @@ Human brains have not had enough time to evolve since the invention of writing. 
 
 ### self-image and work in the atomic age versus internet age
 
-In the 1950's everyone wanted to be an astronaut. Now they want to be data scientists and app developers. What gives?
+In the 1950’s everyone wanted to be an astronaut. Now they want to be data scientists and app developers. What gives?
 
 http://www.chroniclecareers.com/article/Teach-or-Perish/151187/#sthash.GrO1hZRZ.dpuf
 
 > My undergraduates’ career plans are a peculiar mix of naked ambition and hair-shirt altruism. If they pursue investment banking, they do so not merely to make money. Rather, they wish to use their eventual wealth to distribute solar light bulbs to every resident of a developing nation. They’ll apply to the finest law schools in hopes of some day judging war criminals at The Hague. Countless want to code. They dream of engineering an app that will make tequila flow out of thin air into your outstretched shot glass. My students, I suspect, are receiving their professional advice from a council of emojis.  
 
-The role of self and employer has changed, too, I think toward the Randian. Everyone is the CEO of their own one-woman company now. ((sec:llc's)) 
+The role of self and employer has changed, too, I think toward the Randian. Everyone is the CEO of their own one-woman company now. ((sec:llc’s)) 
 
 (brown fox copy)
 (john wilkins ronin institute)
 
-Kids who have designed 3 iPhone apps whilst in university will tell you they have **founded three companies**. Nevermind the schizophrenic lack of focus that would imply if true. That someone would prize starting more companies over starting one company that churns out more products tells me that "making a company" is what's interesting.
+Kids who have designed 3 iPhone apps whilst in university will tell you they have **founded three companies**. Nevermind the schizophrenic lack of focus that would imply if true. That someone would prize starting more companies over starting one company that churns out more products tells me that "making a company" is what’s interesting.
+
+
+
+#### do professors have power?
+
+@zentree made this point on twitter
+
+- .edu domains
+- write in NYT
+- opinions taken seriously
+- people pay to listen to you
+
+Like most professions, there’s someone who makes more money than you do. (And since the .1% income stretches so far above the 1%, it’s quite a lot more.) In particular administrators 
+
+- stan fish administrators
