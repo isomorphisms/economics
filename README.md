@@ -622,6 +622,18 @@ a_
 
 
 
+#### universities 
+
+(most common ad for me to see online. so obviously ... they make money off these ads! will you make money off their product?)
+
+
+###### FUD / news
+https://twitter.com/isomorphisms/status/604712886598922240
+![reverse psychology](https://pbs.twimg.com/media/CGRfKmZUAAAy8Rk.png)
+
+
+
+
 ###### rappers mentions of Kristal and Err 4ce One's
 
 
@@ -868,6 +880,10 @@ Payment processing
 ###### SAP, Oracle, IBM
 
 
+###### tumblr business model
+
+https://twitter.com/isomorphisms/status/604116555920613376
+
 
 
 #### recruiter business
@@ -1083,6 +1099,8 @@ https://twitter.com/isomorphisms/timelines/476938509945962496
 #### class is sticky, not nailed down
 
 [[piketty heatmaps]]
+- https://twitter.com/isomorphisms/status/458528099697586176 ![ggplot piketty](https://pbs.twimg.com/media/Bl0E4JaCcAIwdwa.png:large)
+- 
 
 † By the way, it took only _thirty_ (cite) people to make this database.
 
