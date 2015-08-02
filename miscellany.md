@@ -390,6 +390,14 @@ https://twitter.com/isomorphisms/status/503060309318578176
 
 
 
+###### charter schools funded by #hackdisrupt0rz
+
+https://twitter.com/isomorphisms/status/494746764348784640
+
+
+
+
+
 ##### chair of entrepreneurial risk
 
 
