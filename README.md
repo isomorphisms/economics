@@ -96,12 +96,18 @@ Let's look at just the median because all the mean is telling us is how wealthy 
 
 Race or ethnicity of respondent 	| 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-White non-Hispanic | 130 | 113 | 116 | 137 | 161 | 173
-Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 24 | 30 | 31 | 22 | 18
+White non-Hispanic | 130 | 113 | 116 | 137 | 161 | 174 | 193 | 139 | 142
+Non-white, or Hispanic | 11 | 20 | 24 | 24  | 24 | 30 | 31 | 22 | 18
 
 ###### Nonwhites = 11, Whites = 130.
 
-Of course at the end of the period is was `Poc = 18, White = 141`. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years. [[[look at growth in Dixie wealths / home prices over the period]]]
+Of course at the end of the period is was `Poc = 18, White = 141`. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
+
+[[[look at growth in Dixie wealths / home prices over the period]]]
+
+(Remember this is wealth for Non-Whites, not for Blacks. Blacks being the poorest large category out of Asian/PI, Hispanic, Black, White.)
+
+
 
 > I'm tired of white people beating us. ―Bill Cosby
 
