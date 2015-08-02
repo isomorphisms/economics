@@ -294,6 +294,20 @@ Stay away while a newbie. The VIX is not a "fear index", and your home or rental
 
 There is an unbelievable amount of FUD, deception, and downright evil in economics debates. From think tanks that are funded by rich people
 
+- ravi batra
+- self-help gurus
+- self-appointed leadership experts
+
+![DOCTOR ravi batra](http://41.media.tumblr.com/8c3c1a954553890f86852091417f6eb6/tumblr_n63jzulejW1qc38e9o1_400.jpg)
+
+Source: https://en.wikipedia.org/wiki/The_Great_Depression_of_1990
+
+((pic of actual GDP from FRED))
+
+
+- tax dude .. laffer
+
+
 
 The worst example I know of
 http://isomorphism.es/post/46010268277/the-opportunity-to-get-rich-to-attain-unto-great
@@ -361,6 +375,19 @@ it means they are measuring mass behaviour
 What is in it for these bullshitters? My personal theory is that IBM spent __ developing Watson, MS spent __ developing Azure, and now they are going to tell people what to buy. I got this idea roughly from Robert X. Cringely, a longtime IBM critic:
 
 [[cite]]
+
+
+
+
+##### online learnings
+
+https://twitter.com/isomorphisms/status/472886185149227008
+
+
+###### analyticz0rs
+
+https://twitter.com/isomorphisms/status/503060309318578176
+
 
 
 ##### chair of entrepreneurial risk
