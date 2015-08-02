@@ -412,7 +412,7 @@ http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-a
 
 Every year $__ trillion worth of bonds change hands globally.
 
-For comparison the sum total value of all public companies [^ NB: calculating the price based on the marginal is not really correct because as you tried to sell all of the company's shares, the price might change.] is ~~. And ____ changes hands each year.
+For comparison the sum total value of all public companies [^ NB: calculating the price based on the marginal is not really correct because as you tried to sell all of the company's shares, the price might change.] is ~~. And xyzabc changes hands each year.
 
 
 ###### capital structure
@@ -447,11 +447,25 @@ In order to bring things to a market they need to be similar. Commodity exchange
 
 Think about rice. Only if the rices are all equivalated somehow can they be mixed together and sold en masse. If they can be mixed together then third-parties can trade it even if they don't want or make rice.
 
-For example wheat traders do not want to take delivery, they simply "make a market" for wheat. Pit traders would aggressively buy and sell slips of paper worth ____ bushels of wheat to each other throughout the day, speculating on the ultimate value at delivery.
+For example wheat traders do not want to take delivery, they simply "make a market" for wheat. Pit traders would aggressively buy and sell slips of paper worth __ bushels of wheat to each other throughout the day, speculating on the ultimate value at delivery.
 
 With things like steel people go to a lot of cost and might actually destroy value, to bring the steel to market. Say you have an awesome steel sculpture. If you can't find someone who agrees it is awesome and sell it to them and deliver it to them, you might melt it down so that its only value is as a commodity.
 
 
+###### Buttonwood
+
+![under the buttonwood tree](https://upload.wikimedia.org/wikipedia/commons/4/4d/Buttonwood.png)
+
+> Buttonwood Agreement, which took place on May 17, 1792, started the New York Stock & Exchange Board now called the New York Stock Exchange. This agreement was signed by 24 stockbrokers outside of 68 Wall Street New York under a buttonwood tree. The organization drafted its constitution on March 8, 1817, and named itself the "New York Stock & Exchange Board". In 1863, this name was shortened to its modern form, the "New York Stock Exchange".
+
+- the brokers were to deal only with each other, thereby eliminating the auctioneers, and 
+- the commissions were to be 0.25%
+
+> We the Subscribers, Brokers for the Purchase and Sale of the Public Stock, do hereby solemnly promise and pledge ourselves to each other, that we will not buy or sell from this day for any person whatsoever, any kind of Public Stock, at a less rate than one quarter percent Commission on the Specie value of and that we will give preference to each other in our Negotiations. In Testimony whereof we have set our hands this 17th day of May at New York, 1792.[1]
+
+![buttonwood agreement](buttonwood-0.png)
+
+Source: Wikipedia
 
 
 
@@ -766,6 +780,32 @@ Company | Yearly Sales | Market Cap | Location | # Emp | What they do
 -- | -- | --
 Cargill | a | b | Detroit | x | salt mines (sell road salt to cities for the winter)
 Bechtel | mining; Halliburton competitor; see [[world bank conspiracy
+
+
+
+
+## SIC codes and NAICS
+
+
+
+### forming a corporation
+
+
+
+Some losers will call themselves "CEO of [0-employee company]" to try to impress you. It's not impressive. I started a company (by which I mean I filed the paperwork and paid a minimal fee). I had a couple IC's
+
+
+It used to take an act of Parliament to create a limited liability company (eg, Verenigde Oostindische Compagnie). 
+
+#### IC's versus employees
+
+You can go to jail if you try to 1099 someone who needs a W-2. This is something you need to do our own legal reconnaissance on and take your own risks, but roughly: if you control the means, method, timing, tools, .......
+
+I applied to a job not too long ago that required on their application form that you are OK with them paying an LLC you control. (That way they don't have to file or pay taxes; you have to do that.) I'm not a lawyer but that sounds all kinds of illegal to me. Plus the CEO seemed shady and their application questions were dumb. But anyway, just because you *might* get away with it, you might also spend half a decade in a cement cell with six walls around you and an hour in the sun every day with other convicts. Great time to read books though.
+
+
+- Illinois dude who flouted the law and went to white collar prison
+- Orange County debacle
 
 
 
