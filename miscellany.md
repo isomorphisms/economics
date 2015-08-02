@@ -516,3 +516,26 @@ Here are some screen shots of stock market scammers.
 
 
 If you take money from people who produce value at a real job, then you'll never have to work a day in your life.
+
+
+
+Seth Godin is a creep. Ramit Sethi is a creep. I don't actually consider Tim Ferriss to be a creep, because he tends to focus on getting the most out of life, and he quotes Seneca.
+
+
+
+
+## sententiae latinae
+
+Human brains have not had enough time to evolve since the invention of writing. [theoretically] Our culture may be really different, but maybe in some ways it isn't. You can get decent advice just by reading the writing of old cynical dead people.
+
+
+
+
+
+### self-image and work in the atomic age versus internet age
+
+In the 1950's everyone wanted to be an astronaut. Now they want to be data scientists and app developers. What gives?
+
+http://www.chroniclecareers.com/article/Teach-or-Perish/151187/#sthash.GrO1hZRZ.dpuf
+
+> My undergraduates’ career plans are a peculiar mix of naked ambition and hair-shirt altruism. If they pursue investment banking, they do so not merely to make money. Rather, they wish to use their eventual wealth to distribute solar light bulbs to every resident of a developing nation. They’ll apply to the finest law schools in hopes of some day judging war criminals at The Hague. Countless want to code. They dream of engineering an app that will make tequila flow out of thin air into your outstretched shot glass. My students, I suspect, are receiving their professional advice from a council of emojis.  
