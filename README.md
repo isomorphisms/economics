@@ -772,6 +772,49 @@ Fifth Third Bancorp | originate mortgages
 
 
 
+
+
+#### working for a large company
+
+
+###### how many people are employed at small firms?
+
+- wildcatting in the Marcellus shale
+
+
+# How to be successful
+
+
+— John Paul Getty (yes, the Getty of Getty oil
+![Getty](http://i2.cdn.turner.com/money/2011/06/23/news/economy/spr_stimulus_oil_prices/getty-gas-cash-credit.jc.top.jpg)
+
+(Getty images?)
+
+
+By the way, it is a violation of your merchant agreement to charge different prices for cash or credit.
+
+Payment processing
+
+- Braintree
+- Authorize.net
+- PayPal
+- VenMo
+- Square
+- cash.me
+- the other one (Rails people like it?)
+
+
+###### payments business
+
+
+###### paypal, mastercard, visa, payment networks
+
+###### fraud (US dept of __)
+
+
+
+
+
 ### Large, privately owned firms
 
 http://www.forbes.com/largest-private-companies/
