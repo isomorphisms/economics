@@ -1009,6 +1009,10 @@ Every customer is different and so is the government. Since governments have the
 
 Witness DoD contracts
 
+- solve terrorism
+- blue sky research
+- big pitches ((relate to other section))
+
 Witness [[[Medora, Texas
 
 
