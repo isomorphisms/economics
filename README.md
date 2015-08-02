@@ -90,6 +90,8 @@ Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
 
+[ ^Whites means White Non-Hispanics. Non-whites includes Asians, who have more money than whites; Hispanics (even if they are white), Blacks (the lowest large group, despite some very materially successful blacks [[Ken, William, Ursula]]), Pacific Islanders, Alaskan & Aleutian, and various mainland American Indians, plus "Other Races" (Hmong, .......) ]
+
 
 http://blackboysreport.org
 
