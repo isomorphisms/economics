@@ -474,6 +474,13 @@ Source: Wikipedia
 
 
 
+#### information, coördination, competition, and advantage in intra-day trading = dealing = market-making
+
+https://books.google.com/books?id=Rd9hDRR1Yx4C&lpg=PP1&pg=PP1#v=onepage&q&f=true
+
+http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf
+
+
 ###### RMBS's
 
 It's this drive to make things exchangeable at a unified trading point that makes it so hard to get a mortgage if you're self-employed. Maybe it is or isn't true that a W-2 job is more stable than the higher-paying 1099 one you have. What is sold on (in packets of 10,000 mortgages at a time [[[link]]) and traded to third-party financial institutions is a conforming mortgage.
@@ -1029,6 +1036,13 @@ due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/avera
 - appanage and the definition of real property
 
 https://twitter.com/isomorphisms/timelines/476938509945962496
+
+
+#### class is sticky, not nailed down
+
+[[piketty heatmaps]]
+
+
 
 
 This young man seems to me like a totally nice person—the exact kind you don't want to see pulled in by the "logic" of supposedly hard-headed econ-baiters.
