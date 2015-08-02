@@ -1058,6 +1058,16 @@ As I said at the top I'm writing this for a 16- or 19-year-old and I think the f
 - henry f
 - danielson
 
+- munilass "a résumé doesn't keep them warm at night"
+- thiel 'the cycle never stops"
+
+Obviously this is the area where I have the least ability to say something universally true. It's also the most important. I guess my opinion I would most like to convince you of, because I think the opposite view is virulent oison, is that
+
+- profession is not personality 
+- (fuck "marry an architect because they have the best of both art and science" ... I can't believe mature people actually think that
+- avocation does not need to be vocation (tweet : "do what you love and you'll never have a weekend off in your life" // tshirt: "I suffer from cruel and unusual employment")
+
+ 
 
 ##### HFT and "fake liquidity"
 
