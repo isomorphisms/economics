@@ -1052,6 +1052,12 @@ As I said at the top I'm writing this for a 16- or 19-year-old and I think the f
 
 - financing of a home (interest payments)
 
+- amy poehler "you'll make it ... your friends getting houses and married"
+- GNU dude .. superiority
+- pg & vc's .. muy self-satisfied
+- henry f
+- danielson
+
 
 ##### HFT and "fake liquidity"
 
