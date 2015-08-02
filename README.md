@@ -985,6 +985,15 @@ Source: Smaeer Al-Sakhran
 - http://www.businessinsider.com/joanna-angel-burning-angel-2013-9
 
 
+
+
+###### writing a book
+
+"I don't know why everyone doesn't write a self-help book. It's such a lucrative market." ―a self-help guru (cite)
+
+> People only buy books in three categories: lose weight, make more money, and xyz. ―James Altucher (quora .. cite)
+
+
 ###### Commission Junction, spam, and click arbitrage
 abc
 defg
@@ -1158,24 +1167,4 @@ Here is a good example of (in my opinion) academic shenanigans from a prominent 
 
 
 The books you will find about this will tell you about p-values and H₀ and α and β and Bayesian maximum-likelihood lalalalalala..... Just think of a splotch without a precise shape. It is like a range except the stated value is more likely the ends. Maybe the likelihood is tilted north or south; whatever. Don't worry about moments which are just a way of quantifying the tilt, spread, warp, of where the numbers is "likely" to be. Just know that it doesn't have to be an exact Gaussian shape but it might be roughly mound-shaped.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
