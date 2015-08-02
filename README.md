@@ -26,6 +26,16 @@ Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
 Hey, pretty nice. Wealth isn't everything (it's not love or art or fun), but it makes life nicer. And now there's more total wealth? Sweet. How did that happen? And how do we make it happen? And how do _I_ make it happen to _me_?
 
 
+https://twitter.com/isomorphisms/status/436402440678539264, http://t.co/zK4HfR2Bg3
+![one of the many inequality visuals](https://pbs.twimg.com/media/Bg5ptShCAAAYXx7.png:large)
+
+Since the recession many such pictures have appeared (Reich NYT). ((sec:Rhodes)) What I don't like about these is there are so many ways to parameterise the pictures, and it's unclear whether this is bad or good. (What is "the appropriate" distribution? How would you even decide what that means, much less come to an answer?)
+
+
+
+
+
+
 [[[wealth answer on quora ... land ]]]
 
 
@@ -72,21 +82,53 @@ https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
 
 † &mu; ≝ mean (average), `m` ≝ median (middle)
+
 ‡ the ratio `mean / median` is a measure of dispersion (more total but the middle person doesn't have it)
 
+
+
 Race or ethnicity of respondent 	| 1989  | 1989  | 1992 |	1992 |  1995  |	1995 |	1998  | 1998 |	2001  | 2001 |	2004  | 2004  | 2007  | 2007 |	2010  | 2010 |	2013  | 2013
-
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-
 White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 	694.21 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
-
 Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
 
 
 
 ###### Nonwhites = 11, Whites = 130.
 
+http://t.co/SzbNKdgO1x Source: loc.gov
 
+![an agency to keep the Negro in idleness at the expense of the White Man](https://pbs.twimg.com/media/CExqIijUkAA6nVT.jpg:large)
+
+
+
+https://ucfbelovedproject.wordpress.com/2012/04/23/sethes-chokecherry-tree/
+
+![slave wounds](https://ucfbelovedproject.files.wordpress.com/2012/04/slave-wounds1.jpg)
+
+![into her back was carved a chokecherry tree](https://ucfbelovedproject.files.wordpress.com/2012/04/photo3.jpg)
+
+![chokecherry tree](http://www.plantreferenceguide.com/wp-content/uploads/2014/11/16700_CanadaRedCherry.jpg)
+
+
+((separate slavery section? GDP of south and value of slave assets citation))
+
+> I have no accurate knowledge of my age,
+never having seen any authentic record containing it. By far the larger part
+of the slaves know as little of their ages as horses know of theirs, and it
+is the wish of most masters within my knowledge to keep their slaves thus
+ignorant. I do not remember to have ever met a slave who could tell of his
+birthday. They seldom come nearer to it than planting-time, harvest-time,
+cherry-time, spring-time, or fall-time. A want of information concerning my
+own was a source of unhappiness to me even during childhood. The white
+children could tell their ages. I could not tell why I ought to be deprived
+of the same privilege. I was not allowed to make any inquiries of my master
+concerning it. He deemed all such inquiries on the part of a slave improper
+and impertinent, and evidence of a restless spirit. ―Frederick Douglass, self-taught reader and writer
+
+Source: https://www.gutenberg.org/files/23/23-h/23-h.htm   (who finances Gutenberg?)
+
+((cite self-taught greek/latin cave explorer .. kentucky .. jefferson .. DuPont))
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
 
@@ -194,6 +236,18 @@ http://www.theworldeconomy.org/
 - victorian economy
 - viet nam (jeff mcginn)
 
+
+
+
+### history of interest rates
+
+(ref: banking)
+
+https://twitter.com/isomorphisms/status/468241517027405824
+
+![r](https://pbs.twimg.com/media/Bn-HLYnCUAA37tv.png:large)
+
+http://t.co/VR4vjFNszW
 
 
 
@@ -347,6 +401,9 @@ www.economist.com/node/16846402
 
 Does finance serve any useful purpose? The first way to argue it does is to think about home loans.
 
+http://t.co/GACtUB1v5A
+
+> Railways through Africa. Dams across the Nile. Plantations of ripening tea.
 
 
 (The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them so they would just do it as much as possible. [[student loans tkacik]]
@@ -363,12 +420,132 @@ Over time consumer credit has expanded into car loans and credit-card loans. [[[
 
 
 
-- aaron brown on derivatives as the new money
-- Tkacik student loans
+#### aaron brown on derivatives as the new money
+
+http://www.minyanville.com/business-news/editors-pick/articles/2527The-Physics-of-Wall-Street2527253A-The/2/4/2013/id/47671
+
+> physical delivery is not the point of derivatives,
+mark-to-market payments are. The miller in last week's example will never
+deliver wheat into his futures contract; when each contract delivery comes
+up he will "roll" it into a future delivery month (that is, if he has a
+January contract to sell wheat, in January he will enter into a January
+contract to buy wheat, offsetting his existing contract, and also enter into
+an April contract to sell wheat). This is the same as a business that takes
+out a money loan, when that loan comes due the business will take out a new
+loan to repay it. It's not the principal that matters, it's the interest
+payments. Only when businesses change or liquidate are the derivative
+positions shut down and the loans repaid.
+
+> Now we can see why derivatives are so revolutionary. It's not the ancient
+notion of a fixed-price contract, it's the active exchange, the
+standardization and the clearinghouse that create a new form of money.
+That's what happened in 19th century in the Mississippi River system, and
+again in the 1960s and '70s all over the world. This is what makes
+derivatives something modern, not a 4,000-year-old concept.
+
+> Derivatives stimulate the economy by financing businesses and facilitating
+transactions, just like a banking system. We can also see why financial
+engineers worked so hard from around 1965 to 1980 to replace
+national-government-issued credit-backed money linked to gold with
+derivative money designed after the model of futures exchanges. Milton
+Friedman lobbied President Nixon to take the world off the gold standard,
+Merton Miller worked hard to get approval for trading of futures and options
+on financial underlyings, many other people worked to get approval of
+financial institutions outside the regulated banking system to take deposits
+(money market funds), make loans (mortgage lenders who securitized their
+product rather than lending deposits from the public) and invest money
+(public mutual index funds instead of broker-managed accounts).
+
+> Beginning in the 1980s, another important change was redefinition of bank
+capital. Credit-based bank capital is equity contributed by founders or
+earned as profit. It serves to cushion credit losses. If a borrower does not
 
 
 
 
+#### super-senior student loans
+http://daskrap.com/2012/8/unconstitutional-40-years-war-college-students
+> In December 1975, when
+Congress was debating the first law that made student loans
+non-dischargeable in bankruptcy, University of Connecticut law professor
+Philip Shuchman testified that students “should not be singled out for
+special and discriminatory treatment,” adding that the idea gave him “the
+further very literal feeling that this is almost a denial of their right to
+equal protection of the laws.”
+
+[shuchman1]
+
+> The thing was, discrimination was kinda the whole idea. Stagflation was
+sending an unprecedented number of Silent Majority members into bankruptcy,
+and the bank lobby was fighting back with a propaganda assault that
+scapegoated counterculture student delinquents who were allegedly taking
+loans with no goal of paying them. As Shuchman and others explained in
+hearings, only about 4% of people who filed for bankruptcy protection in
+1975 had student loans on their balance sheets, and of those fewer than one
+fifth did not have substantial other debts motivating them to file.
+
+> But try telling that to anyone who'd been reading the papers! A typical
+syndicated dispatch on the surge in student deadbeats was the August 27,
+1972 expose of Los Angeles Times reporter Linda Mathews, which began with
+the personal anecdote of an anonymous “Washington banker” who purported to
+have once “handed a $1500 check” for the year’s tuition to a nameless “
+18-year-old college freshman” only to be insouciantly told, “Oh, I never
+intend to repay this loan.” The kid was merely acting on the advice of “
+underground newspapers,” the anonymous banker—who had since joined “the
+staff of the American Banking[sic]Association”—helpfully explained.
+
+[Picture]
+
+> “Elitist cheaters” and “professional deadbeats” had driven default rates “as
+high as 40 percent in some cases,” the Chicago Tribune fumed. “Sometimes
+when I see someone come out before me with a job and no other debt but a
+
+
+
+
+https://books.google.com/books?id=aASnQujNgzoC&printsec=frontcover&dq=sidney+homer+sylla&hl=en&sa=X&ved=0CCAQuwUwAGoVChMIkpqV556LxwIVh1eSCh0bNgDO
+
+> Credit was in general
+use in ancient and in medieval times. Credit long antedated industry,
+banking, and even coinage; it probably antedated primitive forms of
+money. Loans at interest may be said to have begun when the Neolithic
+farmer made a loan of seed to a cousin and expected more back at har-
+vesttime. Be this as it may, we know that the recorded legal history of sev-
+eral great civilizations started with elaborate regulation of credit.
+For example, about 1800
+B
+.
+C
+., Hammurabi, a king of the first dynasty
+of ancient Babylonia, gave his people their earliest known formal code of
+laws. A number of the chief provisions of this code regulated the relation
+of debtor to creditor. The maximum rate of interest was set at 33
+1
+⁄
+3
+% per
+annum for loans of grain, repayable in kind, and at 20% per annum for
+loans of silver by weight. All loans had to be accompanied by written con-
+tracts witnessed before officials. If a higher than legal interest rate was
+collected by subterfuge, the principal of the debt was canceled. Land and
+movables could be pledged for debt, as could the person of the creditor,
+his wife, concubine, children, or slaves. Personal slavery for debt, how-
+ever, was limited to three years.
+Twelve hundred years later, around 600
+B
+.
+C
+., the legal history of clas-
+sical Greece began with the laws of Solon. At that time, drastic reforms
+were necessitated by an economic crisis in Athens, stemming in part from
+excessive debt and widespread personal slavery for debt. In contrast to
+the Code of Hammurabi, the laws of Solon did away with all limits on the
+rate of interest. They reduced or canceled many debts. They permitted
+hypothecation, but they forbade personal slavery for debt. These laws
+endured for centuries.
+The Romans also began their legal history with a body of laws regu-
+lating credit. This, too, was forced by a crisis characterized by excessive
+debt. The famous semitraditional Twelve Tables, dating from around
 
 
 
@@ -487,7 +664,7 @@ It's this drive to make things exchangeable at a unified trading point that make
 
 Local banks don't need to, themselves, hold enough money to buy every house in town. If they originate conforming mortgages and sell them on to people who *do* have boatloads of money, then they have a repeatable, scalable, fee-based business. Each conforming mortgage is so many dollars. It's a uniform process like an assembly line. It doesn't mean your job isn't valid, just that people who don't fit in the box are harder to pack together and sell as a conforming packet of 10,000.
 
-######Fairness
+##### Fairness
 
 Is it unfair of them not to loan you money? If I were a conservative I would say it's their prerogative and nobody owes you a loan, however the US has laws that make certain businesses to some extent public institutions. Even if you want to rent a room in your home you are not allowed to discriminate on certain bases. [[[craigslist -- fair housing]]]
 
@@ -568,14 +745,15 @@ Anyway. Is this a more efficient means of social organisation? I am not sure, bu
 
 
 
-###### advertising
+# Advertising
 
+pepsi/coke fmri
 
 ###### lucky strikes
 ![it's toasted](https://a248.e.akamai.net/f/1202/1579/4m/i.dailymail.co.uk/i/pix/2013/09/23/article-2429980-1835784C00000578-793_634x898.jpg)
 Source: http://www.dailymail.co.uk/news/article-2429980/Mad-Men-sparks-cigarette-sales-boom-Lucky-Strike.html
 
-pepsi/coke fmri
+
 
 [[[[old ads website]]]]
 
@@ -586,6 +764,18 @@ Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-ba
 a_
 
 (NB: After writing this I can't stop singing "The best part of waking up" in my head.)
+
+
+
+#### universities 
+
+(most common ad for me to see online. so obviously ... they make money off these ads! will you make money off their product?)
+
+
+###### FUD / news
+https://twitter.com/isomorphisms/status/604712886598922240
+![reverse psychology](https://pbs.twimg.com/media/CGRfKmZUAAAy8Rk.png)
+
 
 
 
@@ -615,7 +805,31 @@ a_
 - low prices
 - high end (eg jeans)
 - freakonomics example
+- barbasol
 
+
+
+
+###### reversed psychologies
+
+https://twitter.com/isomorphisms/status/522532271614476289
+
+![clever & tricky](https://pbs.twimg.com/media/B0BoVOCCEAEYo48.png:large)
+
+
+###### blowing smoke up your arse
+
+https://twitter.com/isomorphisms/status/522680282730991616
+
+![YOUR influence, not Ted's](https://pbs.twimg.com/media/B0Du8ntIQAA3Ecl.png:large)
+
+TED talks backed by Goldman Sachs, letting you know all the answers that rich people and professors will solve the world with
+
+[[easterly, adam __, zizek obscene bribe]]
+
+
+
+###### Sal Khan versus less well-connected people who did the same thing better
 
 
 
@@ -835,6 +1049,13 @@ Payment processing
 ###### SAP, Oracle, IBM
 
 
+###### tumblr business model
+
+![co marketing of relevant products](https://pbs.twimg.com/media/CGJAzluUYAEwI9Y.png)
+https://twitter.com/isomorphisms/status/604116555920613376
+
+
+![you are the product]()
 
 
 #### recruiter business
@@ -845,6 +1066,12 @@ Payment processing
 
 why is 5 years of experience the magic number?
 
+
+https://twitter.com/isomorphisms/status/555751247131979776
+^ things that make no sense
+
+-  Ross (barbarian at gate guy) .. HR the last refuge of the worthless
+-  epicureandeal .. HR weenies
 
 
 
@@ -907,6 +1134,10 @@ Since as a media owner your job is actually to sell ads, why not just start with
 Every customer is different and so is the government. Since governments have the power to tax and since they pool the resources of a community, they often have a lot of money. And they might not be very smart at spending it.
 
 Witness DoD contracts
+
+- solve terrorism
+- blue sky research
+- big pitches ((relate to other section))
 
 Witness [[[Medora, Texas
 
@@ -1037,6 +1268,32 @@ Professing is a business these days. ((Was it always? Look at Mersenne
 due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/average-household-income-by-us-counties
 
 
+
+https://twitter.com/isomorphisms/status/458558578853289984
+https://twitter.com/isomorphisms/status/458538467295637504
+
+
+
+https://twitter.com/isomorphisms/status/608128054842388481
+![average home price in fairfield county, connecticut](https://pbs.twimg.com/media/CHCBPkWUcAAwjqp.png)
+
+"middle class" https://twitter.com/isomorphisms/status/608126343683940352
+
+
+the actual middle class → https://twitter.com/isomorphisms/status/524277308484747264  + mulbrandon
+
+https://twitter.com/isomorphisms/status/542580058268110848
+
+![normal people's jobs](https://pbs.twimg.com/media/B0abbvEIIAEo--_.png:large)
+
+(vs thiel / valorisation of rich / TED)
+
+
+
+https://twitter.com/isomorphisms/status/572848345527541760
+^ derman career crap, ruby payne
+
+
 ### inheritance 
 
 - quora person
@@ -1046,11 +1303,34 @@ due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/avera
 
 https://twitter.com/isomorphisms/timelines/476938509945962496
 
+###### Rhodes
+
+> Them who's got gets more, while the weak ones fade. Empty pockets won't ever make the grade. Momma may have; Poppa may have; but G-d bless the child who's got his own.
+---Billy Holliday
+
+- a
+- b
+- c
+
 
 #### class is sticky, not nailed down
 
-[[piketty heatmaps]]
+https://twitter.com/isomorphisms/status/458513246136172544
+![excel heatmap](https://pbs.twimg.com/media/Blz2R6xCcAAMZcy.png:large "conditional colouring of cells")
+- https://twitter.com/isomorphisms/status/458528099697586176 ![ggplot piketty](https://pbs.twimg.com/media/Bl0E4JaCcAIwdwa.png:large)
+- 
 
+† By the way, it took only _thirty_ (cite) people to make this database.
+
+> Never doubt that a small committed group can change the world. ---Trotsky (cite)
+
+> I believe great research can change the world. ---Alberto @macrocredit
+
+
+
+
+- non-lazy bakija cole heim ![what jobs the rich have](https://pbs.twimg.com/media/B-NyLRRCUAAe_T2.jpg:large)
+- https://twitter.com/isomorphisms/status/568423516661370880 http://t.co/ykoIVjpWiH
 
 
 
@@ -1076,6 +1356,33 @@ It's a fundamental human right to be able to do what you want with your own mone
 
 
 
+pictures of beautiful white people .. something to make it intense
+
+http://t.co/c9NrQN45z3
+
+doing cool things (osheaga)
+
+![rocking ](http://cdn.osheaga.com/wp-content/uploads/2015/01/haim_bypatbeaudry_005_resize-600x600.jpg)
+![the fans](http://cdn.osheaga.com/wp-content/uploads/2015/01/xihmrij_jy7gc5c4hvro26kcqvhcp5edgomzx9li6ke-420x280.png)
+http://t.co/rRudKxFZre
+
+
+###### scams people will believe
+
+https://twitter.com/isomorphisms/status/353735295881052162
+
+
+
+###### role of preconceptions
+
+- https://twitter.com/isomorphisms/status/345318286638059520
+- slate article on resumes named jamal
+- historically black colleges
+- lauren rivera on elite hiring
+- kaplan fakey argument ("can't exist bc competition" (sec:labour is not a market))
+
+
+
 
 ## rich people in high places
 
@@ -1087,4 +1394,23 @@ It's a fundamental human right to be able to do what you want with your own mone
 poet laureates
 
 
+
+
+
+
+### Beggars
+
+![Diogenes](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
+> He would be a beggar should practice on statues. ---Diogenes
+
+http://t.co/u7IucK5BIp
+
+$3/hr begging in Los Angeles
+
+- Youtube kid selling gums
+- beggars sawing off their legs
+- S Viet Nam spending rates 1964
+- incomes in primitive areas
+- Moken people
+- Amazonian / subsistence level / Andhara Pradesh
 
