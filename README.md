@@ -546,6 +546,44 @@ endured for centuries.
 The Romans also began their legal history with a body of laws regu-
 lating credit. This, too, was forced by a crisis characterized by excessive
 debt. The famous semitraditional Twelve Tables, dating from around
+450
+B
+.
+C
+., insofar as they deal with credit, resembled the Code of Ham-
+murabi more than they did the laws of Solon. Interest on loans was limited
+to no more than 8
+1
+⁄
+3
+% per annum. Higher than legal interest was penal-
+ized by fourfold damages. Personal slavery for debt was permitted, but
+the physical well-being of the slave was protected.
+These three examples from the earliest days of historical Babylonia,
+Greece, and Rome are enough to support the conclusion that credit at
+interest was widespread enough to create major political problems before
+the emergence of written history. The entire 5,000-year span of written
+history, however, is equal to only about one-half of one percent of the
+duration of human life on this planet. People had plenty of time to learn
+a lot about credit and interest before they began to write it down.
+Moving forward in time, we note that the Capitularies of Charlemagne,
+circa 800
+A
+.
+D
+., also dealt with credit. They
+flatly forbade all
+incre
+ments on
+loans. The sin of usury, and the desire for legal exceptions, provoked
+major theological and legal controversies for more than a thousand years
+of the Middle Ages. After the Reformation had justified the charging of
+interest in northern Europe, the interest rate controversy was taken up
+by economists, financiers, and politicians, usually in terms of laissez faire
+versus state control. England eventually followed Solon and abandoned
+all fixed legal limits on the rate of interest. The states of the United States
+in their usury laws set fixed maximum rates of interest and in this respect
+continued the legal traditions of Hammurabi and Rome.
 
 
 
