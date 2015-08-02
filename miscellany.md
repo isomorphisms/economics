@@ -585,3 +585,27 @@ Like most professions, there’s someone who makes more money than you do. (And 
 ##### "smart" as a proxy for "thinking like a rich person"
 
 - admissions ("international experience", violin, water polo)
+
+
+
+
+### price points and sticking things together
+
+let's say you wanted to start an MBA program (price point: $150k χ Ĩ100? students)
+
+you would need
+
+a. a school of repute (established brand)
+b. attract professors to it (cost = ??  Can they get the money frmo other sources within the institution as well?)
+c. diverse students but also rich students
+
+
+People come for the connections and perhaps for the illusion of learning. (harvard extension MBA — value = putting "Harvard Business" on your resume — instant eye candy)
+
+
+What you deliver from there may or may not matter particularly a lot.
+
+
+###### GDP
+
+We usually think of more GDP as being  a good thing. However I would submit that since the $150k is overpriced and maybe having more MBA's running around is even of a negative social value,  more of these transacting in the year is not a good thing. That is not to speak of the deleterious consequences of the jobs that are produced for professors by more MBA's being sold, and the opinions / disinformation that are validated by them getting high salary cheques.
