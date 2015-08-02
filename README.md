@@ -882,8 +882,11 @@ Payment processing
 
 ###### tumblr business model
 
+![co marketing of relevant products](https://pbs.twimg.com/media/CGJAzluUYAEwI9Y.png)
 https://twitter.com/isomorphisms/status/604116555920613376
 
+
+![you are the product]()
 
 
 #### recruiter business
@@ -1084,6 +1087,18 @@ Professing is a business these days. ((Was it always? Look at Mersenne
 ![USA geography](http://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/532a0530e4b05fcbbac9ed6b/1395262775099/?format=1000w)
 
 due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/average-household-income-by-us-counties
+
+
+
+
+
+https://twitter.com/isomorphisms/status/608128054842388481
+![average home price in fairfield county, connecticut](https://pbs.twimg.com/media/CHCBPkWUcAAwjqp.png)
+
+"middle class" https://twitter.com/isomorphisms/status/608126343683940352
+
+
+
 
 
 ### inheritance 
