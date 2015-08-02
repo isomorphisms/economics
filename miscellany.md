@@ -614,3 +614,19 @@ We usually think of more GDP as being  a good thing. However I would submit that
 
 
 ### when do bosses make less than employees?
+
+
+###### hernan avella
+
+> earn kudos early in career .. gather aum, scale back to beta
+
+
+np thread
+
+> lever .. kill first fund 
+
+evidence from formds.com
+
+saba capital
+
+osprey capital
