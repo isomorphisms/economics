@@ -1236,6 +1236,17 @@ It's a fundamental human right to be able to do what you want with your own mone
 
 
 
+pictures of beautiful white people .. something to make it intense
+
+http://t.co/c9NrQN45z3
+
+doing cool things (osheaga)
+
+![rocking ](http://cdn.osheaga.com/wp-content/uploads/2015/01/haim_bypatbeaudry_005_resize-600x600.jpg)
+![the fans](http://cdn.osheaga.com/wp-content/uploads/2015/01/xihmrij_jy7gc5c4hvro26kcqvhcp5edgomzx9li6ke-420x280.png)
+
+
+
 
 ## rich people in high places
 
