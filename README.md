@@ -1320,6 +1320,8 @@ https://twitter.com/isomorphisms/status/608128054842388481
 
 the actual middle class → https://twitter.com/isomorphisms/status/524277308484747264  + mulbrandon
 
+### What do normal people do for work?
+
 https://twitter.com/isomorphisms/status/542580058268110848
 
 ![normal people's jobs](https://pbs.twimg.com/media/B0abbvEIIAEo--_.png:large)
@@ -1351,7 +1353,7 @@ https://twitter.com/isomorphisms/timelines/476938509945962496
 - c
 
 
-#### class is sticky, not nailed down
+### class is sticky, not nailed down
 
 https://twitter.com/isomorphisms/status/458513246136172544
 ![excel heatmap](https://pbs.twimg.com/media/Blz2R6xCcAAMZcy.png:large "conditional colouring of cells")
@@ -1367,6 +1369,7 @@ https://twitter.com/isomorphisms/status/458513246136172544
 
 
 
+#### What do rich people do for work?
 - non-lazy bakija cole heim ![what jobs the rich have](https://pbs.twimg.com/media/B-NyLRRCUAAe_T2.jpg:large)
 - https://twitter.com/isomorphisms/status/568423516661370880 http://t.co/ykoIVjpWiH
 
