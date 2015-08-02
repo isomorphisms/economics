@@ -1113,7 +1113,8 @@ https://twitter.com/isomorphisms/timelines/476938509945962496
 
 #### class is sticky, not nailed down
 
-[[piketty heatmaps]]
+https://twitter.com/isomorphisms/status/458513246136172544
+![excel heatmap](https://pbs.twimg.com/media/Blz2R6xCcAAMZcy.png:large "conditional colouring of cells")
 - https://twitter.com/isomorphisms/status/458528099697586176 ![ggplot piketty](https://pbs.twimg.com/media/Bl0E4JaCcAIwdwa.png:large)
 - 
 
