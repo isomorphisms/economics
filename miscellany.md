@@ -432,7 +432,7 @@ Let's look at the volumes. Where are people able to come to a disagreement?
 
 ok, getting really far afield here. But software (esp web) is hot right now.
 
-Libraries are more important than languages. A library is code that someone else has already written that you can just call. For example it takes a lot of code to TCP/IP/UDP/serve/client/parse a HTML GET request [link] that's sent over the web. But a library like `curl` does it for you. `curl` is xyz lines long, it's been used by a lot of people, it's been edited by a lot of knowledgeable hackers. So just use that with a "scripting language" (a.k.a. an easy language) and in a few
+Libraries are more important than languages. A library is code that someone else has already written that you can just call. For example it takes a lot of code to TCP/IP/UDP/serve/client/parse a HTML GET request [link] that’s sent over the web. But a library like `curl` does it for you. `curl` is xyz lines long, it’s been used by a lot of people, it’s been edited by a lot of knowledgeable hackers. So just use that with a "scripting language" (a.k.a. an easy language) and in a few
 lines you can do what you want to do. For example look at bastards book of ruby.
 
 
@@ -461,9 +461,9 @@ lines you can do what you want to do. For example look at bastards book of ruby.
 
 #### people who confuse "the stock market" with "the economy"
 
-Run, don't walk, away from these people. `XOM` is the largest component of the S&P with a market cap of __ (all 500 companies total __). [[source]]
+Run, don’t walk, away from these people. `XOM` is the largest component of the S&P with a market cap of __ (all 500 companies total __). [[source]]
 
-North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for those with significant equity holdings [^remember this skews rich. Approximately top 20% [[cite]], although it's certainly possible for others to shop down in house price and stick money in the stock market.] their retirement savings / bequeathals / endowments will drop when the S&P drops.
+North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for those with significant equity holdings [^remember this skews rich. Approximately top 20% [[cite]], although it’s certainly possible for others to shop down in house price and stick money in the stock market.] their retirement savings / bequeathals / endowments will drop when the S&P drops.
 
 [[[ Are pension funds unbalanced in this way? I suspect not. cite.
 
@@ -485,7 +485,7 @@ North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for t
 - falcone
 - the one blair hull mentions
 - booktalk with janet tavakoli
-- bats o'brien video (ok it's mostly just funny, but you can also see the face of BATS BYX CEO
+- bats o’brien video (ok it’s mostly just funny, but you can also see the face of BATS BYX CEO
 - inverted exchanges?
 
 
@@ -496,9 +496,9 @@ North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for t
 #### "tail risk" and "short-term profits"
 
 
-long term profits don't exist. neither do tails when you're collecting premium. Unless the trader knows intuitively that the good times can't last or that it's a very risky move. (buying HY)
+long term profits don’t exist. neither do tails when you’re collecting premium. Unless the trader knows intuitively that the good times can’t last or that it’s a very risky move. (buying HY)
 
-But let's say you run a composite strategy whose tenth portfolio moments are not obvious.
+But let’s say you run a composite strategy whose tenth portfolio moments are not obvious.
 
 How does Blair Hull know if his assessment of his strategy is sane? Looks at the statistics. [link]
 
@@ -515,18 +515,18 @@ Here are some screen shots of stock market scammers.
 
 
 
-If you take money from people who produce value at a real job, then you'll never have to work a day in your life.
+If you take money from people who produce value at a real job, then you’ll never have to work a day in your life.
 
 
 
-Seth Godin is a creep. Ramit Sethi is a creep. I don't actually consider Tim Ferriss to be a creep, because he tends to focus on getting the most out of life, and he quotes Seneca.
+Seth Godin is a creep. Ramit Sethi is a creep. I don’t actually consider Tim Ferriss to be a creep, because he tends to focus on getting the most out of life, and he quotes Seneca.
 
 
 
 
 ## sententiae latinae
 
-Human brains have not had enough time to evolve since the invention of writing. [theoretically] Our culture may be really different, but maybe in some ways it isn't. You can get decent advice just by reading the writing of old cynical dead people.
+Human brains have not had enough time to evolve since the invention of writing. [theoretically] Our culture may be really different, but maybe in some ways it isn’t. You can get decent advice just by reading the writing of old cynical dead people.
 
 
 
@@ -539,3 +539,10 @@ In the 1950's everyone wanted to be an astronaut. Now they want to be data scien
 http://www.chroniclecareers.com/article/Teach-or-Perish/151187/#sthash.GrO1hZRZ.dpuf
 
 > My undergraduates’ career plans are a peculiar mix of naked ambition and hair-shirt altruism. If they pursue investment banking, they do so not merely to make money. Rather, they wish to use their eventual wealth to distribute solar light bulbs to every resident of a developing nation. They’ll apply to the finest law schools in hopes of some day judging war criminals at The Hague. Countless want to code. They dream of engineering an app that will make tequila flow out of thin air into your outstretched shot glass. My students, I suspect, are receiving their professional advice from a council of emojis.  
+
+The role of self and employer has changed, too, I think toward the Randian. Everyone is the CEO of their own one-woman company now. ((sec:llc's)) 
+
+(brown fox copy)
+(john wilkins ronin institute)
+
+Kids who have designed 3 iPhone apps whilst in university will tell you they have **founded three companies**. Nevermind the schizophrenic lack of focus that would imply if true. That someone would prize starting more companies over starting one company that churns out more products tells me that "making a company" is what's interesting.
