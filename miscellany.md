@@ -487,3 +487,17 @@ North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for t
 - booktalk with janet tavakoli
 - bats o'brien video (ok it's mostly just funny, but you can also see the face of BATS BYX CEO
 - inverted exchanges?
+
+
+
+
+
+
+#### "tail risk" and "short-term profits"
+
+
+long term profits don't exist. neither do tails when you're collecting premium. Unless the trader knows intuitively that the good times can't last or that it's a very risky move. (buying HY)
+
+But let's say you run a composite strategy whose tenth portfolio moments are not obvious.
+
+How does Blair Hull know if his assessment of his strategy is sane? Looks at the statistics. [link]
