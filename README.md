@@ -579,6 +579,16 @@ a_
 - guarantee (one per person .. get your $3 back)
 - answer objections (enamel)
 - façade of scientificity (80%)
+- "what the customer wants" ((Conwell)) — white teeth (sex appeal, professionalism, are they so different?), not "they won't fall out"
+
+
+
+###### hardware stores
+
+- feature marketing
+- low prices
+- high end (eg jeans)
+- freakonomics example
 
 
 
