@@ -501,3 +501,18 @@ long term profits don't exist. neither do tails when you're collecting premium. 
 But let's say you run a composite strategy whose tenth portfolio moments are not obvious.
 
 How does Blair Hull know if his assessment of his strategy is sane? Looks at the statistics. [link]
+
+
+
+
+
+## scams and liars
+
+
+Some people are on your side. Most people are indifferent to you but will be polite to you. Some people dislike you personally. And then there are evil people who want to murder and cheat whoever falls into their fly trap.
+
+Here are some screen shots of stock market scammers.
+
+
+
+If you take money from people who produce value at a real job, then you'll never have to work a day in your life.
