@@ -26,6 +26,12 @@ Source: Brad DeLong http://delong.typepad.com/print/20061012_LRWGDP.pdf
 Hey, pretty nice. Wealth isn't everything (it's not love or art or fun), but it makes life nicer. And now there's more total wealth? Sweet. How did that happen? And how do we make it happen? And how do _I_ make it happen to _me_?
 
 
+https://twitter.com/isomorphisms/status/436402440678539264, http://t.co/zK4HfR2Bg3
+![one of the many inequality visuals](https://pbs.twimg.com/media/Bg5ptShCAAAYXx7.png:large)
+
+Since the recession many such pictures have appeared (Reich NYT). ((sec:Rhodes)) What I don't like about these is there are so many ways to parameterise the pictures, and it's unclear whether this is bad or good. (What is "the appropriate" distribution? How would you even decide what that means, much less come to an answer?)
+
+
 
 
 
@@ -1176,6 +1182,15 @@ https://twitter.com/isomorphisms/status/572848345527541760
 - appanage and the definition of real property
 
 https://twitter.com/isomorphisms/timelines/476938509945962496
+
+###### Rhodes
+
+> Them who's got gets more, while the weak ones fade. Empty pockets won't ever make the grade. Momma may have; Poppa may have; but G-d bless the child who's got his own.
+---Billy Holliday
+
+- a
+- b
+- c
 
 
 #### class is sticky, not nailed down
