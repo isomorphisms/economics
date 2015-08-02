@@ -571,6 +571,16 @@ a_
 
 
 
+###### Crest 3D White
+
+- surface stains
+- http://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/whitening-toothpaste/faq-20058411
+- active ingredients
+- guarantee (one per person .. get your $3 back)
+- answer objections (enamel)
+- façade of scientificity (80%)
+
+
 
 
 ###### Bon Hiver
