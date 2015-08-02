@@ -789,6 +789,7 @@ Fifth Third Bancorp | originate mortgages
 
 # How to be successful
 
+> Rise early, work late, and strike oil.
 
 — John Paul Getty (yes, the Getty of Getty oil
 ![Getty](http://i2.cdn.turner.com/money/2011/06/23/news/economy/spr_stimulus_oil_prices/getty-gas-cash-credit.jc.top.jpg)
@@ -816,6 +817,26 @@ Payment processing
 
 ###### fraud (US dept of __)
 
+
+###### medical devices
+
+
+
+###### EY, BDO, PWC: big 4 accounting firms
+
+
+###### SAP, Oracle, IBM
+
+
+
+
+#### recruiter business
+
+- duffy (cheeky articles)
+- returns per fill
+- don't need an engineering degree
+
+why is 5 years of experience the magic number?
 
 
 
