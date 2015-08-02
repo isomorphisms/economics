@@ -1042,6 +1042,17 @@ The books you will find about this will tell you about p-values and H₀ and α 
 
 
 
+###### career and avocation
+
+What job areas pay well? What does it mean in terms of the feeling-of-life to have a job that pays well, or poorly? What about "starving artists who are happy"? What about adjunct professors of theatre who work at a liquor store on the side .... for 20 years ... before getting a shot at a full-time "real job"?
+
+What is the emotional life-cycle that goes along with middle-class life (job, marriage, house, kids, retirement)? How do the bo-ho's who step aside for a braver death feel in their day-to-day doings, what's it like to "be a poet" and work in the same kitchen for 25 years without any recognition of your greatness? [[See again my notes about poet laureates and where they com from economically.  [[brodsky.  harvard brooklyn couple i read about.]] ...]]
+
+As I said at the top I'm writing this for a 16- or 19-year-old and I think the flimsy suppositions about work's effect on life are as powerful today as they were when I was that age.
+
+- financing of a home (interest payments)
+
+
 ##### HFT and "fake liquidity"
 
 - asness (Wrong)
