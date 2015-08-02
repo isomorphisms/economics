@@ -230,6 +230,9 @@ Perhaps you might collect the results in your class. They should generally
 be less than 1 kW or even 1 horsepower (746 W). How much less might
 be surprising.
 
+www.youtube.com/watch?v=S4O5voOCqAQ (Olympic cyclist with huge legs cannot toast a piece of toast)
+
+
 > Thus, when we do so small a thing as turning on a 150 W light bulb,
 we are manipulating a quantity of energy substantially greater than a
 human being could produce in sustained effort. The power consumed
