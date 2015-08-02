@@ -150,7 +150,17 @@ we can look at who writes these HBR articles, because the authors are on linkedi
 
 
 
+#### analytics
 
+https://twitter.com/isomorphisms/status/600123330851688448
+https://t.co/loZXOEeQmJ
+![analyticz0rs](https://pbs.twimg.com/media/CFQQ_UHWAAAmF3_.png:large)
+
+###### list of analytics firms
+
+- smarter remarketer
+- datacamp ? who advertised "still using spreadsheets? use our dashboard"
+- twitter profiles with "i 3 dataz"
 
 
 
