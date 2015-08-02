@@ -1244,6 +1244,22 @@ doing cool things (osheaga)
 
 ![rocking ](http://cdn.osheaga.com/wp-content/uploads/2015/01/haim_bypatbeaudry_005_resize-600x600.jpg)
 ![the fans](http://cdn.osheaga.com/wp-content/uploads/2015/01/xihmrij_jy7gc5c4hvro26kcqvhcp5edgomzx9li6ke-420x280.png)
+http://t.co/rRudKxFZre
+
+
+###### scams people will believe
+
+https://twitter.com/isomorphisms/status/353735295881052162
+
+
+
+###### role of preconceptions
+
+- https://twitter.com/isomorphisms/status/345318286638059520
+- slate article on resumes named jamal
+- historically black colleges
+- lauren rivera on elite hiring
+- kaplan fakey argument ("can't exist bc competition" (sec:labour is not a market))
 
 
 
@@ -1258,4 +1274,23 @@ doing cool things (osheaga)
 poet laureates
 
 
+
+
+
+
+### Beggars
+
+![Diogenes](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
+> He would be a beggar should practice on statues. ---Diogenes
+
+http://t.co/u7IucK5BIp
+
+$3/hr begging in Los Angeles
+
+- Youtube kid selling gums
+- beggars sawing off their legs
+- S Viet Nam spending rates 1964
+- incomes in primitive areas
+- Moken people
+- Amazonian / subsistence level / Andhara Pradesh
 
