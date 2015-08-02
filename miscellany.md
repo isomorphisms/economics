@@ -467,6 +467,20 @@ North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for t
 
 [[[ Are pension funds unbalanced in this way? I suspect not. cite.
 
+www.tail-risk.com/#!A-Nutty-Rule-Broken/c95u/55bbef8d0cf285bbf301ef5a
+
+> In a rational world where governments have taxation authority to screw businesses as they need to in order to balance the books, it makes sense that a corporate bond will never have a higher credit rating than the sovereign government that has taxation authority over them.
+
+multilateral corps not confined to one sovereign nation
+
+
+
+
+## living with a boss
+
+- http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=150932
+- more lucy kelloway links
+- more ft links
 
 
 
