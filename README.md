@@ -1,5 +1,7 @@
 Facts I think "everyone should know". I'll try to keep it short and theory-free. That said, this is an _opinionated_ selection of facts. It will be too obvious for some but hopefully not too advanced for anyone. This is what I wish someone would have told me X years ago. Alternately, if I were teaching a course in economics 101, this is what I would build a course around. This is (a very imperfect and incomplete draft of) what I think would serve the students' rather than the teachers' interests.
 
+I guess this is aimed at something like a 16-year-old or 19-year-old, someone without much life experience who does not deserve to be steered wrong in the self-interest of a professor's career path.
+
 
 -------------------------
 
@@ -555,6 +557,8 @@ What's the difference between Folgers instant coffee and Starbucks instant coffe
 ![It's the best thing since unsliced bread.](http://imgc-cn.artprintimages.com/images/P-473-488-90/64/6478/A9G6100Z/posters/emily-flake-oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-new-yorker-cartoon.jpg)
 Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-batch-artisanal-unsliced-bread-New-Yorker-Cartoon-Prints_i9015840_.htm
 
+a_
+
 (NB: After writing this I can't stop singing "The best part of waking up" in my head.)
 
 
@@ -564,6 +568,20 @@ Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-ba
 
 
 ###### psychological priming
+
+
+
+
+
+###### Bon Hiver
+
+There are certain stories that always get told alongside a product.
+
+Whenever anyone mentions Alfred Kinsey, they say he was an entomologist _first_ (disarming the notion he was a pervert).
+
+Whenever anyone talks about Bon Iver's album "For Emma, Forever Ago", they mention where it was composed: in a cabin, in Wisconsin, after a breakup. The cabin-in-Wisconsin narrative (it's a little longer than what I said) sticks to your ribs. It stays with you and colours the experience of the album. I don't think the album would have worked as well without the story.
+
+[^ On the other hand, Grey's Anatomy featured the song in the background without context, so what do I know? ]
 
 
 
