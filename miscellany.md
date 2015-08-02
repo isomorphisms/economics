@@ -609,3 +609,8 @@ What you deliver from there may or may not matter particularly a lot.
 ###### GDP
 
 We usually think of more GDP as being  a good thing. However I would submit that since the $150k is overpriced and maybe having more MBA's running around is even of a negative social value,  more of these transacting in the year is not a good thing. That is not to speak of the deleterious consequences of the jobs that are produced for professors by more MBA's being sold, and the opinions / disinformation that are validated by them getting high salary cheques.
+
+
+
+
+### when do bosses make less than employees?
