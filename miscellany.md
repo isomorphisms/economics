@@ -1,4 +1,4 @@
-#### newsy issues
+### newsy issues
 
 I started ranting about some stuff while I was writing the main section. I can't really consider this "need to know" information and I said I would keep the main section short. However I feel like I can provide some warnings that you will hopefully benefit from.
 
@@ -6,7 +6,7 @@ I started ranting about some stuff while I was writing the main section. I can't
 
 
 
-###### career and avocation
+##### career and avocation
 
 What job areas pay well? What does it mean in terms of the feeling-of-life to have a job that pays well, or poorly? What about "starving artists who are happy"? What about adjunct professors of theatre who work at a liquor store on the side .... for 20 years ... before getting a shot at a full-time "real job"?
 
@@ -33,7 +33,7 @@ Obviously this is the area where I have the least ability to say something unive
 
  
 
-##### HFT and "fake liquidity"
+#### HFT and "fake liquidity"
 
 - asness (Wrong)
 - Blair Hull [describes](https://www.youtube.com/watch?v=lEQ7a_JwWTg) "fake liquidity" where traders stand on queue only if they're at the front. If a big order comes in behind them and pushes them through, then it will hopefully be a big enough order that you can turn right around and go the other direction, making a tick in the process. 
@@ -60,7 +60,7 @@ A negative tax has the further upside that it increases tax-filing rates, and th
 
 
 
-##### venture capital
+#### venture capital
 
 
 Luigi Zingales, a "professor of entrepreneurship and risk" who has taken no risks and never started a company, cites venture capital as a great example of an American success story
@@ -95,14 +95,14 @@ But the costs are way lower. Of course I'm typing this into GitHub which is one 
 - http://antiventurecapital.com/raise-startup-capital/venture-capital-math/
 
 
-###### startups that have exited north of $1 billion
+##### startups that have exited north of $1 billion
 
 
 - software investment size vs biotech investment size
 
 
 
-##### carried interest exemption
+#### carried interest exemption
 
 The legal theory is that a limited partner should be able to give money to a general partner who will do all the work.
 
@@ -112,13 +112,13 @@ The legal theory is that a limited partner should be able to give money to a gen
 
 
 
-##### hedge funds
+#### hedge funds
 
 You can look up how much money they took in here: www.formds.com.
 
 
 
-##### leveraged buyouts
+#### leveraged buyouts
 
 - icahn interview
 - barbarians at the gate movie
@@ -127,7 +127,7 @@ You can look up how much money they took in here: www.formds.com.
 
 
 
-##### rise of the robots
+#### rise of the robots
 
 People with big mouths who don't like to actually think or critically examine their own ideas are big on "the rise of the robots" now. The logic goes:
 
@@ -150,13 +150,13 @@ we can look at who writes these HBR articles, because the authors are on linkedi
 
 
 
-#### analytics
+### analytics
 
 https://twitter.com/isomorphisms/status/600123330851688448
 https://t.co/loZXOEeQmJ
 ![analyticz0rs](https://pbs.twimg.com/media/CFQQ_UHWAAAmF3_.png:large)
 
-###### list of analytics firms
+##### list of analytics firms
 
 - smarter remarketer
 - datacamp ? who advertised "still using spreadsheets? use our dashboard"
@@ -167,7 +167,7 @@ https://t.co/loZXOEeQmJ
 
 
 
-##### general equilibrium
+#### general equilibrium
 
 You can probably imagine what would happen if small economic changes were made in your workplace, your friends' lives, your community. What would you do with a 5% raise?
 
@@ -177,7 +177,7 @@ But what if the minimum wage were multiplied by ten? What if not only you got a 
 
 
 
-##### life goals
+#### life goals
 
 Guru jerks will tell you that you should become rich enough to live off interest. This doesn't make sense for a variety of reasons, for example the obvious that if you can earn $20,000/year as a 2% coupon. Or that you risk spoiling your kids [[link]]. Or that work is not really that bad. But anyway it's all part of a pervasive ideology that wants to venerate wealth and capitalist achievement. Perhaps not surprising when buildings and chairs are named after capitalist donors rather than those who excelled in a field of human endeavour.
 
@@ -188,7 +188,7 @@ It's the kind of thing that makes sense if you think about it for a minute, but 
 
 
 
-##### Long Term Capital Management
+#### Long Term Capital Management
 
 This is a hedge fund whose blowup had systemic consequences.
 
@@ -213,7 +213,7 @@ Keynes, ___year, book____:
 
 
 
-##### career advice & ego control
+#### career advice & ego control
 
 http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=39814
 
@@ -221,7 +221,7 @@ http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=39814
 
 
 
-##### public and private ownership
+#### public and private ownership
 
 - AmPad
 - insurance quote (get out of it)
@@ -231,7 +231,7 @@ http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=39814
 
 
 
-##### median wage growth vs wage growth for _me_
+#### median wage growth vs wage growth for _me_
 
 I don't want to waste too much time lampooning economists because I could go on forever about that and it's probably better to just point to the stuff you _should_ read, rather than waste time engaging with the un-serious. I'll just point out that growth in the median (middle) purchasing power is a _proxy_ for an easier, better life for "people", but then again so is the purchasing power of the lowest person. It's not even possible to rank-order these things----but my preferred measure is the power, freedom, and quality-of-life of "the least among you". We can at least get closer by looking at the 10th-percentile wage instead of the 50th-percentile.
 
@@ -244,7 +244,7 @@ www.youtube.com/watch?v=8Rn4CRu9pa4
 
 
 
-##### executive compensation
+#### executive compensation
 
 - www.library.hbs.edu/go/execucomp.html
 - https://www.nber.org/papers/w21131
@@ -255,7 +255,7 @@ www.youtube.com/watch?v=8Rn4CRu9pa4
 
 
 
-##### size of government
+#### size of government
 
 
 
@@ -269,7 +269,7 @@ www.youtube.com/watch?v=8Rn4CRu9pa4
 
 
 
-##### hyperinflation
+#### hyperinflation
 
 
 https://mises.org/system/tdf/The%20Economics%20of%20Inflation%20A%20Study%20of%20Currency%20Depreciation%20in%20Post-War%20Germany_2.pdf?file=1&type=document
@@ -279,7 +279,7 @@ Constantino Bresciani-Turroni
 
 
 
-###### "information" and "volatility"
+##### "information" and "volatility"
 
 Stay away while a newbie. The VIX is not a "fear index", and your home or rental price is not affected by "market information".
 
@@ -287,7 +287,7 @@ Stay away while a newbie. The VIX is not a "fear index", and your home or rental
 
 
 
-###### FUD
+##### FUD
 
 There is an unbelievable amount of FUD, deception, and downright evil in economics debates. From think tanks that are funded by rich people
 
@@ -331,7 +331,7 @@ At the same time, governments with at least a few of their citizens watching hav
 
 
 
-###### open source
+##### open source
 
 
 What kinds of things are companies ok to share with their competitors?
@@ -341,7 +341,7 @@ What kinds of things are companies ok to share with their competitors?
 
 
 
-###### channels
+##### channels
 
 Generally a good sign if someone talks about this.
 If someone is talking about portfolio balance channels, 
@@ -350,7 +350,7 @@ it means they are measuring mass behaviour
 
 
 
-###### big dada
+##### big dada
 
 - HBR cover
 - https://twitter.com/isomorphisms/status/608317267793846272
@@ -360,10 +360,10 @@ What is in it for these bullshitters? My personal theory is that IBM spent __ de
 [[cite]]
 
 
-###### chair of entrepreneurial risk
+##### chair of entrepreneurial risk
 
 
-###### McKinsey
+##### McKinsey
 
 - reports
 - 60% Yale avocado
@@ -372,12 +372,12 @@ What is in it for these bullshitters? My personal theory is that IBM spent __ de
 
 
 
-###### eurodollar
+##### eurodollar
 
 
 
 
-###### how to value a company
+##### how to value a company
 
 - buffett
 - damn sal khan
@@ -393,7 +393,7 @@ What is in it for these bullshitters? My personal theory is that IBM spent __ de
 
 
 
-#### people who confuse "the stock market" with "the economy"
+### people who confuse "the stock market" with "the economy"
 
 Run, don’t walk, away from these people. `XOM` is the largest component of the S&P with a market cap of __ (all 500 companies total __). [[source]]
 
@@ -420,7 +420,7 @@ multilateral corps not confined to one sovereign nation
 
 
 
-### why did this fail?
+## why did this fail?
 
 - Case Shiller index
 - TIPS
@@ -428,7 +428,7 @@ multilateral corps not confined to one sovereign nation
 
 
 
-#### good C-SPAN videos
+### good C-SPAN videos
 
 - falcone
 - the one blair hull mentions
@@ -441,7 +441,7 @@ multilateral corps not confined to one sovereign nation
 
 
 
-#### "tail risk" and "short-term profits"
+### "tail risk" and "short-term profits"
 
 
 long term profits don’t exist. neither do tails when you’re collecting premium. Unless the trader knows intuitively that the good times can’t last or that it’s a very risky move. (buying HY)
@@ -480,7 +480,7 @@ Human brains have not had enough time to evolve since the invention of writing. 
 
 
 
-### self-image and work in the atomic age versus internet age
+## self-image and work in the atomic age versus internet age
 
 In the 1950’s everyone wanted to be an astronaut. Now they want to be data scientists and app developers. What gives?
 
@@ -497,7 +497,7 @@ Kids who have designed 3 iPhone apps whilst in university will tell you they hav
 
 
 
-#### do professors have power?
+### do professors have power?
 
 @zentree made this point on twitter
 
