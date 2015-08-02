@@ -82,3 +82,83 @@ Here is a good example of (in my opinion) academic shenanigans from a prominent 
 
 The books you will find about this will tell you about p-values and H₀ and α and β and Bayesian maximum-likelihood lalalalalala..... Just think of a splotch without a precise shape. It is like a range except the stated value is more likely the ends. Maybe the likelihood is tilted north or south; whatever. Don't worry about moments which are just a way of quantifying the tilt, spread, warp, of where the numbers is "likely" to be. Just know that it doesn't have to be an exact Gaussian shape but it might be roughly mound-shaped.
 
+
+
+
+
+###### NPV
+
+&sum; f^k = 1/(1−f), for 0<**f**raction<1.
+
+You can derive this yourself and should. Write out the terms and then draw a big box around them, call the box `F`, and then do `fF−F`.
+
+(my blog post on it)
+
+
+- DCF analysis videos
+
+
+
+###### CAPM and portfolio maths
+
+Don't spend too much time on the CAPM. It's contentious theory [Buffett link].
+
+Sums of independent dice are Gaussian distributed.  (My blog post on it.) So if the price evolution were totally random it would still be a bit mean centric.
+
+Look at _differences_ in stock prices to see how the daily change is usually bounded. Look at [[this data example]] to see the "discussion" over price of some security over a trading day. (At tick level.) [[histo]]
+
+
+This tick data looks much more to me like I would imagine a bazaar in Tashkent, except electronic so everybody "goes to the market" with computers from their offices. Meaning more people can be there at once, which seems like a good thing.
+
+[^Gaussian probability is roughly proportional ½ to the distance from the average. So 1/2, 1/4, 1/8. We measure in square-root of distance so these numbers become 0σ ∝ 1, 1σ ∝ 1/4, 2σ≈1/16 ]
+
+```
+require(quantmod); getSymbols('SLB') #Schlumberger
+require(magrittr)
+SLB %>% stem
+SLB %>% log %>% stem
+```
+
+
+
+###### black scholes
+
+watch out also when people start talking too much about black scholes.
+
+- heading toward the blue
+- quant.se
+- NP: wrong, wrong, wrong
+
+Like I said there is a lot, lot, lot of F.U.D. in finance. People at least think they can become important by saying stuff that's over your head and you can't critique it. Just don't bother. All you need to know is that BSM is an approximation. In maths terms I would just say it provides a better coördinate system (IV's) for traders, than dollars or percents. IV is a better scale for options traders to have their discussion in; things make better sense to both sides, it essentially cuts out a calculation that both sides would have to do anyway. The idea that traders worship the BSM model the way academics do is … what do you call it when you accuse someone else of committing the sin you commit? Freudian Transference?
+
+
+###### options
+
+Options on the other hand are not so complex. Buying a call north of the spot means you are bullish on a stock and expect it to end north of where it is today. (Calls have a fixed expiration date.) You need to pay premium to the seller for them to sell you the right to call them in the future.
+
+You can also sell options
+
+[m0ar theta ken griffin boat]
+[scammy "retirement plan" guy]
+
+I thought about paying my rent this way when I was poor ("Wait ... I can just *have money*? Hellz yea!"), but they don't let poor people insure stock market players. You need to have tens of thousands of dollars at least (more like tens of millions if you want to trade for a living), and the exchange asks you for margin every time a position moves against you. In other words the exchange is going to make sure you are good for the money
+in case it expires ITM before they let you insure someone. This is one of the things the exchange does to make sure people from both sides want to trade there. (I.e., not the boys in the schoolyard punching each other because they aren't actually good for their word.)
+
+
+
+
+table of http://www.nasdaq.com/symbol/slb/option-chain
+
+Let's look at the volumes. Where are people able to come to a disagreement?
+
+
+
+
+###### libraries
+
+ok, getting really far afield here. But software (esp web) is hot right now.
+
+Libraries are more important than languages. A library is code that someone else has already written that you can just call. For example it takes a lot of code to TCP/IP/UDP/serve/client/parse a HTML GET request [link] that’s sent over the web. But a library like `curl` does it for you. `curl` is xyz lines long, it’s been used by a lot of people, it’s been edited by a lot of knowledgeable hackers. So just use that with a "scripting language" (a.k.a. an easy language) and in a few
+lines you can do what you want to do. For example look at bastards book of ruby.
+
+
