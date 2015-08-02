@@ -170,13 +170,6 @@ https://t.co/loZXOEeQmJ
 
 
 
-#### general equilibrium
-
-You can probably imagine what would happen if small economic changes were made in your workplace, your friends' lives, your community. What would you do with a 5% raise?
-
-But what if the minimum wage were multiplied by ten? What if not only you got a million dollars, but so did everyone on your street? Big changes are harder to think about. The reaction to the initial "stimulus" (let's say it's a law) might become really important too.
-
-
 
 
 
@@ -585,3 +578,10 @@ Like most professions, there’s someone who makes more money than you do. (And 
 
 - "technology"
 - total factor productivity
+
+
+
+
+##### "smart" as a proxy for "thinking like a rich person"
+
+- admissions ("international experience", violin, water polo)

@@ -1473,3 +1473,11 @@ $3/hr begging in Los Angeles
 - Moken people
 - Amazonian / subsistence level / Andhara Pradesh
 
+
+### general equilibrium
+
+You can probably imagine what would happen if small economic changes were made in your workplace, your friends' lives, your community. What would you do with a 5% raise?
+
+But what if the minimum wage were multiplied by ten? What if not only you got a million dollars, but so did everyone on your street? Big changes are harder to think about. The reaction to the initial "stimulus" (let's say it's a law) might become really important too.
+
+
