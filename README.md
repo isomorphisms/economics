@@ -1377,7 +1377,28 @@ https://twitter.com/isomorphisms/status/458513246136172544
 
 This young man seems to me like a totally nice person—the exact kind you don't want to see pulled in by the "logic" of supposedly hard-headed econ-baiters.
 
-######What's the fastest way to make a million dollars?
+
+
+
+
+
+
+
+##### What did famous artists, musicians, and poets do for money?
+
+- new orleans trombonist who worked at factory
+- thelonious monk had a benefactress (heiress)
+
+
+
+
+
+
+
+
+
+
+## What's the fastest way to make a million dollars?
 
 Obviously: marry someone with two million dollars. The paperwork for marriage is faster than insurance settlements, because insurance companies will always battle you in court to not give you the money. [[quote]]
 
