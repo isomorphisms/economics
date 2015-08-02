@@ -528,3 +528,12 @@ Like most professions, there’s someone who makes more money than you do. (And 
 - random subsampling
 
 (statistics part)
+
+
+
+
+
+#### Solow's cosmological constant
+
+- "technology"
+- total factor productivity
