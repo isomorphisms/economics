@@ -581,3 +581,12 @@ Like most professions, there’s someone who makes more money than you do. (And 
 - people working overtime when they get 1.5×
 - tax breaks for uni’s to pay their students in credits
 - internships at uni’s
+
+
+
+
+
+- resampling
+- random subsampling
+
+(statistics part)
