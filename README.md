@@ -420,12 +420,132 @@ Over time consumer credit has expanded into car loans and credit-card loans. [[[
 
 
 
-- aaron brown on derivatives as the new money
-- Tkacik student loans
+#### aaron brown on derivatives as the new money
+
+http://www.minyanville.com/business-news/editors-pick/articles/2527The-Physics-of-Wall-Street2527253A-The/2/4/2013/id/47671
+
+> physical delivery is not the point of derivatives,
+mark-to-market payments are. The miller in last week's example will never
+deliver wheat into his futures contract; when each contract delivery comes
+up he will "roll" it into a future delivery month (that is, if he has a
+January contract to sell wheat, in January he will enter into a January
+contract to buy wheat, offsetting his existing contract, and also enter into
+an April contract to sell wheat). This is the same as a business that takes
+out a money loan, when that loan comes due the business will take out a new
+loan to repay it. It's not the principal that matters, it's the interest
+payments. Only when businesses change or liquidate are the derivative
+positions shut down and the loans repaid.
+
+> Now we can see why derivatives are so revolutionary. It's not the ancient
+notion of a fixed-price contract, it's the active exchange, the
+standardization and the clearinghouse that create a new form of money.
+That's what happened in 19th century in the Mississippi River system, and
+again in the 1960s and '70s all over the world. This is what makes
+derivatives something modern, not a 4,000-year-old concept.
+
+> Derivatives stimulate the economy by financing businesses and facilitating
+transactions, just like a banking system. We can also see why financial
+engineers worked so hard from around 1965 to 1980 to replace
+national-government-issued credit-backed money linked to gold with
+derivative money designed after the model of futures exchanges. Milton
+Friedman lobbied President Nixon to take the world off the gold standard,
+Merton Miller worked hard to get approval for trading of futures and options
+on financial underlyings, many other people worked to get approval of
+financial institutions outside the regulated banking system to take deposits
+(money market funds), make loans (mortgage lenders who securitized their
+product rather than lending deposits from the public) and invest money
+(public mutual index funds instead of broker-managed accounts).
+
+> Beginning in the 1980s, another important change was redefinition of bank
+capital. Credit-based bank capital is equity contributed by founders or
+earned as profit. It serves to cushion credit losses. If a borrower does not
 
 
 
 
+#### super-senior student loans
+http://daskrap.com/2012/8/unconstitutional-40-years-war-college-students
+> In December 1975, when
+Congress was debating the first law that made student loans
+non-dischargeable in bankruptcy, University of Connecticut law professor
+Philip Shuchman testified that students “should not be singled out for
+special and discriminatory treatment,” adding that the idea gave him “the
+further very literal feeling that this is almost a denial of their right to
+equal protection of the laws.”
+
+[shuchman1]
+
+> The thing was, discrimination was kinda the whole idea. Stagflation was
+sending an unprecedented number of Silent Majority members into bankruptcy,
+and the bank lobby was fighting back with a propaganda assault that
+scapegoated counterculture student delinquents who were allegedly taking
+loans with no goal of paying them. As Shuchman and others explained in
+hearings, only about 4% of people who filed for bankruptcy protection in
+1975 had student loans on their balance sheets, and of those fewer than one
+fifth did not have substantial other debts motivating them to file.
+
+> But try telling that to anyone who'd been reading the papers! A typical
+syndicated dispatch on the surge in student deadbeats was the August 27,
+1972 expose of Los Angeles Times reporter Linda Mathews, which began with
+the personal anecdote of an anonymous “Washington banker” who purported to
+have once “handed a $1500 check” for the year’s tuition to a nameless “
+18-year-old college freshman” only to be insouciantly told, “Oh, I never
+intend to repay this loan.” The kid was merely acting on the advice of “
+underground newspapers,” the anonymous banker—who had since joined “the
+staff of the American Banking[sic]Association”—helpfully explained.
+
+[Picture]
+
+> “Elitist cheaters” and “professional deadbeats” had driven default rates “as
+high as 40 percent in some cases,” the Chicago Tribune fumed. “Sometimes
+when I see someone come out before me with a job and no other debt but a
+
+
+
+
+https://books.google.com/books?id=aASnQujNgzoC&printsec=frontcover&dq=sidney+homer+sylla&hl=en&sa=X&ved=0CCAQuwUwAGoVChMIkpqV556LxwIVh1eSCh0bNgDO
+
+> Credit was in general
+use in ancient and in medieval times. Credit long antedated industry,
+banking, and even coinage; it probably antedated primitive forms of
+money. Loans at interest may be said to have begun when the Neolithic
+farmer made a loan of seed to a cousin and expected more back at har-
+vesttime. Be this as it may, we know that the recorded legal history of sev-
+eral great civilizations started with elaborate regulation of credit.
+For example, about 1800
+B
+.
+C
+., Hammurabi, a king of the first dynasty
+of ancient Babylonia, gave his people their earliest known formal code of
+laws. A number of the chief provisions of this code regulated the relation
+of debtor to creditor. The maximum rate of interest was set at 33
+1
+⁄
+3
+% per
+annum for loans of grain, repayable in kind, and at 20% per annum for
+loans of silver by weight. All loans had to be accompanied by written con-
+tracts witnessed before officials. If a higher than legal interest rate was
+collected by subterfuge, the principal of the debt was canceled. Land and
+movables could be pledged for debt, as could the person of the creditor,
+his wife, concubine, children, or slaves. Personal slavery for debt, how-
+ever, was limited to three years.
+Twelve hundred years later, around 600
+B
+.
+C
+., the legal history of clas-
+sical Greece began with the laws of Solon. At that time, drastic reforms
+were necessitated by an economic crisis in Athens, stemming in part from
+excessive debt and widespread personal slavery for debt. In contrast to
+the Code of Hammurabi, the laws of Solon did away with all limits on the
+rate of interest. They reduced or canceled many debts. They permitted
+hypothecation, but they forbade personal slavery for debt. These laws
+endured for centuries.
+The Romans also began their legal history with a body of laws regu-
+lating credit. This, too, was forced by a crisis characterized by excessive
+debt. The famous semitraditional Twelve Tables, dating from around
 
 
 
