@@ -1,6 +1,7 @@
+#### newsy issues
 
+I started ranting about some stuff while I was writing the main section. I can't really consider this "need to know" information and I said I would keep the main section short. However I feel like I can provide some warnings that you will hopefully benefit from.
 
-#### other topical issues
 
 
 
@@ -238,6 +239,7 @@ www.youtube.com/watch?v=8Rn4CRu9pa4
 - www.library.hbs.edu/go/execucomp.html
 - https://www.nber.org/papers/w21131
 - https://www.nber.org/feldstein_lecture_2012/feldsteinlecture_2012.html
+- john h. biggs
 
 
 
@@ -341,7 +343,11 @@ it means they are measuring mass behaviour
 ###### big dada
 
 - HBR cover
+- https://twitter.com/isomorphisms/status/608317267793846272
 
+What is in it for these bullshitters? My personal theory is that IBM spent __ developing Watson, MS spent __ developing Azure, and now they are going to tell people what to buy. I got this idea roughly from Robert X. Cringely, a longtime IBM critic:
+
+[[cite]]
 
 
 ###### chair of entrepreneurial risk
@@ -448,3 +454,36 @@ lines you can do what you want to do. For example look at bastards book of ruby.
 - famous mergers
 - instawhap
 - other web exits
+
+
+
+
+
+#### people who confuse "the stock market" with "the economy"
+
+Run, don't walk, away from these people. `XOM` is the largest component of the S&P with a market cap of __ (all 500 companies total __). [[source]]
+
+North Americans do invest preferentially in the NYSE and NASDAQ (cite). So for those with significant equity holdings [^remember this skews rich. Approximately top 20% [[cite]], although it's certainly possible for others to shop down in house price and stick money in the stock market.] their retirement savings / bequeathals / endowments will drop when the S&P drops.
+
+[[[ Are pension funds unbalanced in this way? I suspect not. cite.
+
+
+
+
+
+
+### why did this fail?
+
+- Case Shiller index
+- TIPS
+
+
+
+
+#### good C-SPAN videos
+
+- falcone
+- the one blair hull mentions
+- booktalk with janet tavakoli
+- bats o'brien video (ok it's mostly just funny, but you can also see the face of BATS BYX CEO
+- inverted exchanges?
