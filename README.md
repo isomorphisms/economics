@@ -660,7 +660,31 @@ https://twitter.com/isomorphisms/status/604712886598922240
 - low prices
 - high end (eg jeans)
 - freakonomics example
+- barbasol
 
+
+
+
+###### reversed psychologies
+
+https://twitter.com/isomorphisms/status/522532271614476289
+
+![clever & tricky](https://pbs.twimg.com/media/B0BoVOCCEAEYo48.png:large)
+
+
+###### blowing smoke up your arse
+
+https://twitter.com/isomorphisms/status/522680282730991616
+
+![YOUR influence, not Ted's](https://pbs.twimg.com/media/B0Du8ntIQAA3Ecl.png:large)
+
+TED talks backed by Goldman Sachs, letting you know all the answers that rich people and professors will solve the world with
+
+[[easterly, adam __, zizek obscene bribe]]
+
+
+
+###### Sal Khan versus less well-connected people who did the same thing better
 
 
 
@@ -1090,6 +1114,9 @@ due to Catherine Mulbrandon http://visualizingeconomics.com/blog/2014/3/19/avera
 
 
 
+https://twitter.com/isomorphisms/status/458558578853289984
+https://twitter.com/isomorphisms/status/458538467295637504
+
 
 
 https://twitter.com/isomorphisms/status/608128054842388481
@@ -1098,7 +1125,18 @@ https://twitter.com/isomorphisms/status/608128054842388481
 "middle class" https://twitter.com/isomorphisms/status/608126343683940352
 
 
+the actual middle class → https://twitter.com/isomorphisms/status/524277308484747264  + mulbrandon
 
+https://twitter.com/isomorphisms/status/542580058268110848
+
+![normal people's jobs](https://pbs.twimg.com/media/B0abbvEIIAEo--_.png:large)
+
+(vs thiel / valorisation of rich / TED)
+
+
+
+https://twitter.com/isomorphisms/status/572848345527541760
+^ derman career crap, ruby payne
 
 
 ### inheritance 
