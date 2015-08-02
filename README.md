@@ -568,14 +568,15 @@ Anyway. Is this a more efficient means of social organisation? I am not sure, bu
 
 
 
-###### advertising
+# Advertising
 
+pepsi/coke fmri
 
 ###### lucky strikes
 ![it's toasted](https://a248.e.akamai.net/f/1202/1579/4m/i.dailymail.co.uk/i/pix/2013/09/23/article-2429980-1835784C00000578-793_634x898.jpg)
 Source: http://www.dailymail.co.uk/news/article-2429980/Mad-Men-sparks-cigarette-sales-boom-Lucky-Strike.html
 
-pepsi/coke fmri
+
 
 [[[[old ads website]]]]
 
