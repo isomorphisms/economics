@@ -567,6 +567,12 @@ Source: https://www.condenaststore.com/-sp/Oh-it-s-the-best-thing-since-small-ba
 
 
 
+
+###### gumdrops
+
+Does the shape of gumdrops matter? Or Hershey kisses?
+
+
 ###### crown royal velvet bag
 ![](http://www.1-877-spirits.com/store/images/brand/Crown%20Royal%20Canadian%20Whisky%20Group2.jpg)
 ![crown royal](http://image.linotype.com/fontlounge/fontsinuse/crownroyal.jpg)
