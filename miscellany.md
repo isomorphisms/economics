@@ -561,3 +561,23 @@ Kids who have designed 3 iPhone apps whilst in university will tell you they hav
 Like most professions, there’s someone who makes more money than you do. (And since the .1% income stretches so far above the 1%, it’s quite a lot more.) In particular administrators 
 
 - stan fish administrators
+
+
+
+
+
+
+- bernstein deep risk data set
+- stylised facts kuznets (invntor of "stylised fact")
+- everyone deserves to know where they sit in the world
+- WSJ headline misrepresenting income
+- sowell on ages of blacks
+- population spread in US
+- black pop. density in US
+- http://www.nuclearphynance.com/User%20Files/1491/image019.jpg
+- make poverty history history (easterly - $1 trn wasted)
+- envir. efficiency of planes
+- "work less, live more" 1990’s NYT
+- people working overtime when they get 1.5×
+- tax breaks for uni’s to pay their students in credits
+- internships at uni’s
