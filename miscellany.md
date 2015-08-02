@@ -48,7 +48,7 @@ Obviously this is the area where I have the least ability to say something unive
 
 
 
-######EITC
+##### EITC
 
 Milton Friedman's alternative to the minimum wage is to pay low wage workers instead of taxing them. Even though he was a conservative, Friedman never thought the negative tax on low-paid workers was high enough during his lifetime.
 
@@ -135,7 +135,10 @@ People with big mouths who don't like to actually think or critically examine th
 - .....
 - jobz b gone!
 
+https://twitter.com/isomorphisms/status/608317267793846272
+![the next big thing](https://pbs.twimg.com/media/CHEtVN-WQAAA-wf.png)
 
+What's in it for people throwing this kind of BS? I dunno. ((look up?))
 
 
 Sissoko "economist's `K` to confuse us"
