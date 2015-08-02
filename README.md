@@ -86,6 +86,11 @@ Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |
 
 ###### Nonwhites = 11, Whites = 130.
 
+http://t.co/SzbNKdgO1x Source: loc.gov
+
+![an agency to keep the Negro in idleness at the expense of the White Man](https://pbs.twimg.com/media/CExqIijUkAA6nVT.jpg:large)
+
+
 
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
