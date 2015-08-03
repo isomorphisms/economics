@@ -69,31 +69,25 @@ Libertarians love to cite the following successes of capitalism:
 ![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
 ![work less earn more](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-3-1024.jpg?cb=1243403192)
 ![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
-Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html#lfHendersonCEE2-156_table_045 http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html http://mskousen.com/category/skousen-books/
+Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html#lfHendersonCEE2-156_table_045  http://mskousen.com/category/skousen-books/
 
 
 
 
 However let's not stop there. A high average growth rate and high wealth levels aren't everything.
 
-#### Non whites
+### Non whites
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
+Let's look at just the median because all the mean is telling us is how wealthy the entire country is.† There are also a lot of ratios we could look at.‡ Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
 
-† &mu; ≝ mean (average), `m` ≝ median (middle)
+† the average is the total, adjusted for population size (or subpopulation, like White wealth per White)
 
 ‡ the ratio `mean / median` is a measure of dispersion (more total but the middle person doesn't have it)
 
 
-
-Race or ethnicity of respondent 	| 1989  | μ 1989  | 1992 |	μ 1992 |  1995  |	μ 1995 |	1998  | μ 1998 |	2001  | μ 2001 |	2004  | μ 2004  | 2007  | μ 2007 |	2010  | μ 2010 |	2013  | μ 2013
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 | 	694.21 | 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
-Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
-
-Let's look at just the median because all the mean is telling us is how wealthy the entire country is. Of course total / middle is a measure of dispersion. There are a lot of ratios to look at. Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
-
+_in thousands of dollars of net worth_
 
 Race or ethnicity of respondent  | 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
@@ -102,7 +96,7 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 
 
 
-###### Nonwhites = 11, Whites = 130.
+##### Nonwhites have $20k, Whites have $140k.
 
 Of course you could also look at Poc wealth growth over the period. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
 
