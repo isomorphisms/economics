@@ -77,6 +77,10 @@ Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://
 However let's not stop there. A high average growth rate and high wealth levels aren't everything.
 
 ### Non whites
+http://t.co/SzbNKdgO1x Source: loc.gov
+
+![an agency to keep the Negro in idleness at the expense of the White Man](https://pbs.twimg.com/media/CExqIijUkAA6nVT.jpg:large)
+
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
@@ -101,16 +105,13 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 Of course you could also look at Poc wealth growth over the generation. Wealth growth from $11k to $18k is 60% better. Nothing to sneeze at, and from 1989 to 1992 was a 72% improvement in just 3 years.
 
 [[[look at growth in Dixie wealths / home prices over the period]]]
+[[ transition into credit / debt remarks? ]]
 
 (Remember this is wealth for Non-Whites, not for Blacks. Blacks being the poorest large category out of Asian/PI, Hispanic, Black, White.)
 
 
 
 > I'm tired of white people beating us. ―Bill Cosby
-
-http://t.co/SzbNKdgO1x Source: loc.gov
-
-![an agency to keep the Negro in idleness at the expense of the White Man](https://pbs.twimg.com/media/CExqIijUkAA6nVT.jpg:large)
 
 
 
@@ -877,6 +878,7 @@ https://twitter.com/isomorphisms/status/604712886598922240
 - low prices
 - high end (eg jeans)
 - freakonomics example
+- toothpicks "nice 'n' strong"
 - barbasol
 
 
