@@ -76,14 +76,18 @@ Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://
 
 However let's not stop there. A high average growth rate and high wealth levels aren't everything.
 
-#### Non whites
+### Non whites
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
-Let's look at just the median because all the mean is telling us is how wealthy the entire country is.‡ There are a lot of ratios to look at. Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
+Let's look at just the median because all the mean is telling us is how wealthy the entire country is.† There are also a lot of ratios we could look at.‡ Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
+
+† the average is the total, adjusted for population size (or subpopulation, like White wealth per White)
 
 ‡ the ratio `mean / median` is a measure of dispersion (more total but the middle person doesn't have it)
 
+
+_in thousands of dollars of net worth_
 
 Race or ethnicity of respondent  | 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
@@ -92,7 +96,7 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 
 
 
-###### Nonwhites = 11, Whites = 130.
+##### Nonwhites have $11k, Whites have $130k.
 
 Of course at the end of the period is was `Poc = 18, White = 141`. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
 
