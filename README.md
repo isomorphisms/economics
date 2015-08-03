@@ -98,7 +98,7 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 
 ##### Nonwhites have $20k, Whites have $140k.
 
-Of course you could also look at Poc wealth growth over the period. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
+Of course you could also look at Poc wealth growth over the generation. Wealth growth from $11k to $18k is 60% better. Nothing to sneeze at, and from 1989 to 1992 was a 72% improvement in just 3 years.
 
 [[[look at growth in Dixie wealths / home prices over the period]]]
 
