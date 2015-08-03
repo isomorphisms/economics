@@ -104,7 +104,7 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 
 ###### Nonwhites = 11, Whites = 130.
 
-Of course at the end of the period is was `Poc = 18, White = 141`. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
+Of course you could also look at Poc wealth growth over the period. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
 
 [[[look at growth in Dixie wealths / home prices over the period]]]
 
@@ -650,6 +650,19 @@ http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-a
 [^ In case you didn't notice, "hoarding" is a negatively charged word for "having". ]
 
 
+
+
+
+
+
+
+
+
+### a day at the exchange
+
+- rgm test example
+
+this is "the truth" (at least on that day). When traders talk about a "1000 sigma day" in the Weimar hyperinflation, they mean *this* sigma. (Not the religious "population sigma" of bell curve veneration)
 
 
 
