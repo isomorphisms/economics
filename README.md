@@ -96,7 +96,7 @@ Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
 
 
 
-##### Nonwhites have $11k, Whites have $130k.
+##### Nonwhites have $20k, Whites have $140k.
 
 Of course at the end of the period is was `Poc = 18, White = 141`. Growth from 11 to 18 is wealth growth of 60%. Nothing to sneeze at, and from 1989 to 1992 was a 72% growth in just 3 years.
 
