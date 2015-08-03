@@ -69,7 +69,7 @@ Libertarians love to cite the following successes of capitalism:
 ![more stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-2-1024.jpg?cb=1243403192)
 ![work less earn more](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-3-1024.jpg?cb=1243403192)
 ![better stuff](https://image.slidesharecdn.com/somemoreinterestingnumbersshort-124271641263-phpapp01/95/things-that-make-you-go-hmmmm-4-1024.jpg?cb=1243403192)
-Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html#lfHendersonCEE2-156_table_045 http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html http://mskousen.com/category/skousen-books/
+Source: https://books.google.com/books?isbn=1596985453  "Economic logic" http://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html#lfHendersonCEE2-156_table_045  http://mskousen.com/category/skousen-books/
 
 
 
