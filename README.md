@@ -80,19 +80,9 @@ However let's not stop there. A high average growth rate and high wealth levels 
 
 https://en.wikipedia.org/wiki/Wealth_in_the_United_States#Statistics
 
-
-† &mu; ≝ mean (average), `m` ≝ median (middle)
+Let's look at just the median because all the mean is telling us is how wealthy the entire country is.‡ There are a lot of ratios to look at. Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
 
 ‡ the ratio `mean / median` is a measure of dispersion (more total but the middle person doesn't have it)
-
-
-
-Race or ethnicity of respondent 	| 1989  | μ 1989  | 1992 |	μ 1992 |  1995  |	μ 1995 |	1998  | μ 1998 |	2001  | μ 2001 |	2004  | μ 2004  | 2007  | μ 2007 |	2010  | μ 2010 |	2013  | μ 2013
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-White non-Hispanic | 	130.47 |	418.12 |	113.25 |	362.34 |	116.57 |	383.13| 	137.21 |	484.34| 	161.39 |	642.12 |	173.84 | 	694.21 | 	192.58 |	777.65 |	139.05| 	695.69 |	141.9 |	696.51
-Nonwhite or Hispanic |	11.37 |	117.06 |	19.5 |	126.01 |	23.53 |	117.04 |	23.73 |	143.6 |	23.66 |	154.39 |	30.64 |	189.1 |	31.66 |	257.55 |	21.97 |	188.11 |	18.1 |	184.23
-
-Let's look at just the median because all the mean is telling us is how wealthy the entire country is. Of course total / middle is a measure of dispersion. There are a lot of ratios to look at. Let's pick the dispersion between mean white and median poc, i.e. rich whites versus normal nonwhites. Then let's look at normal whites vs normal nonwhites.  (`tidyr`)
 
 
 Race or ethnicity of respondent  | 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 2007 | 2010 | 2013
