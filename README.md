@@ -419,294 +419,6 @@ www.economist.com/node/16846402
 
 
 
-# banking
-
-Does finance serve any useful purpose? The first way to argue it does is to think about home loans.
-
-http://t.co/GACtUB1v5A
-
-> Railways through Africa. Dams across the Nile. Plantations of ripening tea.
-
-
-(The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them so they would just do it as much as possible. [[student loans tkacik]]
-
-
-
-
-
-
-
-Over time consumer credit has expanded into car loans and credit-card loans. [[[frb research on cc debt]]]
-
-
-
-
-
-#### aaron brown on derivatives as the new money
-
-http://www.minyanville.com/business-news/editors-pick/articles/2527The-Physics-of-Wall-Street2527253A-The/2/4/2013/id/47671
-
-> physical delivery is not the point of derivatives,
-mark-to-market payments are. The miller in last week's example will never
-deliver wheat into his futures contract; when each contract delivery comes
-up he will "roll" it into a future delivery month (that is, if he has a
-January contract to sell wheat, in January he will enter into a January
-contract to buy wheat, offsetting his existing contract, and also enter into
-an April contract to sell wheat). This is the same as a business that takes
-out a money loan, when that loan comes due the business will take out a new
-loan to repay it. It's not the principal that matters, it's the interest
-payments. Only when businesses change or liquidate are the derivative
-positions shut down and the loans repaid.
-
-> Now we can see why derivatives are so revolutionary. It's not the ancient
-notion of a fixed-price contract, it's the active exchange, the
-standardization and the clearinghouse that create a new form of money.
-That's what happened in 19th century in the Mississippi River system, and
-again in the 1960s and '70s all over the world. This is what makes
-derivatives something modern, not a 4,000-year-old concept.
-
-> Derivatives stimulate the economy by financing businesses and facilitating
-transactions, just like a banking system. We can also see why financial
-engineers worked so hard from around 1965 to 1980 to replace
-national-government-issued credit-backed money linked to gold with
-derivative money designed after the model of futures exchanges. Milton
-Friedman lobbied President Nixon to take the world off the gold standard,
-Merton Miller worked hard to get approval for trading of futures and options
-on financial underlyings, many other people worked to get approval of
-financial institutions outside the regulated banking system to take deposits
-(money market funds), make loans (mortgage lenders who securitized their
-product rather than lending deposits from the public) and invest money
-(public mutual index funds instead of broker-managed accounts).
-
-> Beginning in the 1980s, another important change was redefinition of bank
-capital. Credit-based bank capital is equity contributed by founders or
-earned as profit. It serves to cushion credit losses. If a borrower does not
-
-
-
-
-#### super-senior student loans
-http://daskrap.com/2012/8/unconstitutional-40-years-war-college-students
-> In December 1975, when
-Congress was debating the first law that made student loans
-non-dischargeable in bankruptcy, University of Connecticut law professor
-Philip Shuchman testified that students “should not be singled out for
-special and discriminatory treatment,” adding that the idea gave him “the
-further very literal feeling that this is almost a denial of their right to
-equal protection of the laws.”
-
-[shuchman1]
-
-> The thing was, discrimination was kinda the whole idea. Stagflation was
-sending an unprecedented number of Silent Majority members into bankruptcy,
-and the bank lobby was fighting back with a propaganda assault that
-scapegoated counterculture student delinquents who were allegedly taking
-loans with no goal of paying them. As Shuchman and others explained in
-hearings, only about 4% of people who filed for bankruptcy protection in
-1975 had student loans on their balance sheets, and of those fewer than one
-fifth did not have substantial other debts motivating them to file.
-
-> But try telling that to anyone who'd been reading the papers! A typical
-syndicated dispatch on the surge in student deadbeats was the August 27,
-1972 expose of Los Angeles Times reporter Linda Mathews, which began with
-the personal anecdote of an anonymous “Washington banker” who purported to
-have once “handed a $1500 check” for the year’s tuition to a nameless “
-18-year-old college freshman” only to be insouciantly told, “Oh, I never
-intend to repay this loan.” The kid was merely acting on the advice of “
-underground newspapers,” the anonymous banker—who had since joined “the
-staff of the American Banking[sic]Association”—helpfully explained.
-
-[Picture]
-
-> “Elitist cheaters” and “professional deadbeats” had driven default rates “as
-high as 40 percent in some cases,” the Chicago Tribune fumed. “Sometimes
-when I see someone come out before me with a job and no other debt but a
-
-
-
-
-https://books.google.com/books?id=aASnQujNgzoC&printsec=frontcover&dq=sidney+homer+sylla&hl=en&sa=X&ved=0CCAQuwUwAGoVChMIkpqV556LxwIVh1eSCh0bNgDO
-
-> Credit was in general
-use in ancient and in medieval times. Credit long antedated industry,
-banking, and even coinage; it probably antedated primitive forms of
-money. Loans at interest may be said to have begun when the Neolithic
-farmer made a loan of seed to a cousin and expected more back at har-
-vesttime. Be this as it may, we know that the recorded legal history of sev-
-eral great civilizations started with elaborate regulation of credit.
-For example, about 1800
-B
-.
-C
-., Hammurabi, a king of the first dynasty
-of ancient Babylonia, gave his people their earliest known formal code of
-laws. A number of the chief provisions of this code regulated the relation
-of debtor to creditor. The maximum rate of interest was set at 33
-1
-⁄
-3
-% per
-annum for loans of grain, repayable in kind, and at 20% per annum for
-loans of silver by weight. All loans had to be accompanied by written con-
-tracts witnessed before officials. If a higher than legal interest rate was
-collected by subterfuge, the principal of the debt was canceled. Land and
-movables could be pledged for debt, as could the person of the creditor,
-his wife, concubine, children, or slaves. Personal slavery for debt, how-
-ever, was limited to three years.
-Twelve hundred years later, around 600
-B
-.
-C
-., the legal history of clas-
-sical Greece began with the laws of Solon. At that time, drastic reforms
-were necessitated by an economic crisis in Athens, stemming in part from
-excessive debt and widespread personal slavery for debt. In contrast to
-the Code of Hammurabi, the laws of Solon did away with all limits on the
-rate of interest. They reduced or canceled many debts. They permitted
-hypothecation, but they forbade personal slavery for debt. These laws
-endured for centuries.
-The Romans also began their legal history with a body of laws regu-
-lating credit. This, too, was forced by a crisis characterized by excessive
-debt. The famous semitraditional Twelve Tables, dating from around
-450
-B
-.
-C
-., insofar as they deal with credit, resembled the Code of Ham-
-murabi more than they did the laws of Solon. Interest on loans was limited
-to no more than 8
-1
-⁄
-3
-% per annum. Higher than legal interest was penal-
-ized by fourfold damages. Personal slavery for debt was permitted, but
-the physical well-being of the slave was protected.
-These three examples from the earliest days of historical Babylonia,
-Greece, and Rome are enough to support the conclusion that credit at
-interest was widespread enough to create major political problems before
-the emergence of written history. The entire 5,000-year span of written
-history, however, is equal to only about one-half of one percent of the
-duration of human life on this planet. People had plenty of time to learn
-a lot about credit and interest before they began to write it down.
-Moving forward in time, we note that the Capitularies of Charlemagne,
-circa 800
-A
-.
-D
-., also dealt with credit. They
-flatly forbade all
-incre
-ments on
-loans. The sin of usury, and the desire for legal exceptions, provoked
-major theological and legal controversies for more than a thousand years
-of the Middle Ages. After the Reformation had justified the charging of
-interest in northern Europe, the interest rate controversy was taken up
-by economists, financiers, and politicians, usually in terms of laissez faire
-versus state control. England eventually followed Solon and abandoned
-all fixed legal limits on the rate of interest. The states of the United States
-in their usury laws set fixed maximum rates of interest and in this respect
-continued the legal traditions of Hammurabi and Rome.
-
-
-
-Any way you slice it, the banking business is about borrowing cheap and lending dear. The economic question is how that goal set affects the rest of us.
-
-
-
-
-
-
-
-
-## repo markets
-
-Carolyn Sissoko emphasises that lenders prefer to loan against collateral. If you don't pay them back then they get to take your thing.
-
-Treasury bills are considered so secure that they make good collateral. I get money today while you hold my T-bill. If I don't pay you back with interest then you already have my T-bill and don't need to come looking for me. [^ Believe me --- if you've never run a business --- chasing customers down for money _they already owe you_ --- you've already "made the sale" and done the work --- is a huge pain in the ass and a feature of every business. That is why `accounts receivable` is a major accounting category. People try to wriggle out of paying, for real.]
-
-
-
-You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1olbQ4LyfFA) a few times before you get it.
-
-- libertystreeteconomics.newyorkfed.org/2011/04/everything-you-wanted-to-know-about-the-tri-party-repo-market-but-didnt-know-to-ask.html
-- geithner
-
-According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds financed trades. The problem with getting financing from the money markets is that, since the terms change every day, you can't count on them too much. Big companies need a department that does nothing but plan and predict treasury financing. In the crisis of 2008 the money markets just stopped offering companies money. Imagine that you are used to borrowing in ranges like 3, 4, or 5 percent and then one day the market was offering 500 percent at best. If your business runs on debt (most public companies do --- see [[LBO]], requires a lender to go through the basic operations of paying your vendors and employees, shipping your packages and            . Maybe for a while you can put people off. But what if the money markets aren't back next week? next month?
-
-
-This seems like an important feature of today's economic, capitalistic setup. Because of specialisation most companies rely on a lot of other companies to do necessary parts of their business for them. In fact vertical integration is illegal [^ for other reasons]. Imagine that you ran an auto body shop and one day all the people who supply you with paint are gone. You could only serve the customers with the paint you had left. Maybe you talk them into getting a weird color that's "close"? And then what do you do when the paint suppliers are still gone a month later? Do you try to figure out how to make auto paints yourself? This is just one example of [[general equilibrium]] problems: the disappearance of auto-paint suppliers would cause a ripple effect.
-
-[^ Microsoft is an exception [[link]] ]
-[Microsoft going to the bond markets](http://www.forbes.com/sites/timworstall/2015/02/10/if-microsoft-has-92-billion-in-cash-then-why-has-it-just-borrowed-10-75-billion/)
-
-(A couple years ago business academics wrote papers about "hoarding cash" ... not coincidentally journalists in major newspapers were talking about "hoarding cash" ... not coincidentally people and their friends were losing theri jobs, fewer people were hiring, and corporate profits were high. Hence, "stop hoarding cash, you big bad corporations".)
-https://www.stlouisfed.org/Publications/Regional-Economist/January-2013/Why-Are-Corporations-Holding-So-Much-Cash
-http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-are-worlds-biggest-cash-hoarders-hurts-their
-[^ In case you didn't notice, "hoarding" is a negatively charged word for "having". ]
-
-
-
-
-
-
-
-
-
-
-### a day at the exchange
-
-
-http://money.stackexchange.com/questions/23593/what-happens-if-my-order-exceeds-the-bid-or-ask-sizes
-
-
-![Larry Harris AT&T](www bcf.usc.edu  lharris Trading Book Book extract.pdf.png)
-Source: http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf
-
-†NB: Madoff! When he was still seen as clean (20**0**2).
-
-
-"The" market price is a misleading concept.  [^Matters for the "mark to market" geeks. ((delong: "mark our beliefs to market" . economist articles)) If you view the bids & asks as two histograms moving left & right over time and rarely crossing, _across multiple exchanges_, then this is "the market", cheaters and tricksters and all. What is the relevance of the last print --- let's say in a low-volume stock it was two months ago? Or should you use the midpoint of bid & ask? What if there happen to be more tricksters on the upside waiting for dumb people to jump in because of a news story? What if just by chance (or because it's easier to value in their model) someone happens to list way-out limit orders in the ? And how the hell does any of this relate to "bets on opinions" and Surowieckian Intrade market-price fetishism?]
-
-
-- prints vs non-crossing arguments
-- Is it that much more significant when two bids & asks momentarily cross? What about a "continuous" measure based on the nearness of the b & a?
-- real estate deals ((("you're talking to the wrong guy" --- story of the handshake --- charisma .... NP comment that friendly midwestern guy and priests do better than NYC rude bond salesmen
-- (((and again when it's a conversation power of sales, it's no longer a transaction stripped down only to price and don't care whom you get it from ... small businesses, dealing with family, dealing with repeat clients, etc ...... "mark to market" gfy
-- OTC (phone conversations .... volcube chat)
-- what you need to say on your economics test to pass as a sophomore, versus [[[the economists don't actually think about actual arguments .. it's just "market magic"
-- peter cotton .. crossing the magenta line
-
-
-
-Let's take a look also at another visual of an order book. Here is a bitcoin exchange snapshot, taken at roughly Thu Aug  6 18:45 UTC 2015.
-
-
-
-![bitcoin order book on some exchange](bitcoin live.png)
-Source: http://bitcointicker.co/ 
-
-
-[mt gox scam. photo of "short bitcoin" libertarian jerk guy / goog search. lot of people like him showing up]
-
-
-
-
-- rgm test example http://rgmadvisors.com/problems/orderbook/
-
-
-Here are the prices that were listed throughout the day.
-
-
-You can see the "conversation" / "argument" about the value of this stock stays within a remarkably small band. [^So maybe it has to do with the players who were arguing that day? A lot of traders looking to make a tick simply by gaming the others' mistakes or filling random small-lots orders as they came in from individual investors / brokerages, and nobody with a strong opinion about the fundamentals of the company?]
-
-
-
-
-
-
-
-this is "the truth" (at least on that day). When traders talk about a "1000 sigma day" in the Weimar hyperinflation, they mean *this* sigma. (Not the religious "population sigma" of bell curve veneration)
-
 
 
 
@@ -1567,4 +1279,311 @@ You can probably imagine what would happen if small economic changes were made i
 
 But what if the minimum wage were multiplied by ten? What if not only you got a million dollars, but so did everyone on your street? Big changes are harder to think about. The reaction to the initial "stimulus" (let's say it's a law) might become really important too.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# banking
+
+Does finance serve any useful purpose? The first way to argue it does is to think about home loans.
+
+http://t.co/GACtUB1v5A
+
+> Railways through Africa. Dams across the Nile. Plantations of ripening tea.
+
+
+(The bank will repossess your house if you get too far behind on your mortgage. However they will likely take a loss so it is bad for both parties. Otherwise you could expect that banks would loan to whomever. If they could resell the house at face then a mortgage would involve no risk to them so they would just do it as much as possible. [[student loans tkacik]]
+
+
+
+
+
+
+
+Over time consumer credit has expanded into car loans and credit-card loans. [[[frb research on cc debt]]]
+
+
+
+
+
+#### aaron brown on derivatives as the new money
+
+http://www.minyanville.com/business-news/editors-pick/articles/2527The-Physics-of-Wall-Street2527253A-The/2/4/2013/id/47671
+
+> physical delivery is not the point of derivatives,
+mark-to-market payments are. The miller in last week's example will never
+deliver wheat into his futures contract; when each contract delivery comes
+up he will "roll" it into a future delivery month (that is, if he has a
+January contract to sell wheat, in January he will enter into a January
+contract to buy wheat, offsetting his existing contract, and also enter into
+an April contract to sell wheat). This is the same as a business that takes
+out a money loan, when that loan comes due the business will take out a new
+loan to repay it. It's not the principal that matters, it's the interest
+payments. Only when businesses change or liquidate are the derivative
+positions shut down and the loans repaid.
+
+> Now we can see why derivatives are so revolutionary. It's not the ancient
+notion of a fixed-price contract, it's the active exchange, the
+standardization and the clearinghouse that create a new form of money.
+That's what happened in 19th century in the Mississippi River system, and
+again in the 1960s and '70s all over the world. This is what makes
+derivatives something modern, not a 4,000-year-old concept.
+
+> Derivatives stimulate the economy by financing businesses and facilitating
+transactions, just like a banking system. We can also see why financial
+engineers worked so hard from around 1965 to 1980 to replace
+national-government-issued credit-backed money linked to gold with
+derivative money designed after the model of futures exchanges. Milton
+Friedman lobbied President Nixon to take the world off the gold standard,
+Merton Miller worked hard to get approval for trading of futures and options
+on financial underlyings, many other people worked to get approval of
+financial institutions outside the regulated banking system to take deposits
+(money market funds), make loans (mortgage lenders who securitized their
+product rather than lending deposits from the public) and invest money
+(public mutual index funds instead of broker-managed accounts).
+
+> Beginning in the 1980s, another important change was redefinition of bank
+capital. Credit-based bank capital is equity contributed by founders or
+earned as profit. It serves to cushion credit losses. If a borrower does not
+
+
+
+
+#### super-senior student loans
+http://daskrap.com/2012/8/unconstitutional-40-years-war-college-students
+> In December 1975, when
+Congress was debating the first law that made student loans
+non-dischargeable in bankruptcy, University of Connecticut law professor
+Philip Shuchman testified that students “should not be singled out for
+special and discriminatory treatment,” adding that the idea gave him “the
+further very literal feeling that this is almost a denial of their right to
+equal protection of the laws.”
+
+[shuchman1]
+
+> The thing was, discrimination was kinda the whole idea. Stagflation was
+sending an unprecedented number of Silent Majority members into bankruptcy,
+and the bank lobby was fighting back with a propaganda assault that
+scapegoated counterculture student delinquents who were allegedly taking
+loans with no goal of paying them. As Shuchman and others explained in
+hearings, only about 4% of people who filed for bankruptcy protection in
+1975 had student loans on their balance sheets, and of those fewer than one
+fifth did not have substantial other debts motivating them to file.
+
+> But try telling that to anyone who'd been reading the papers! A typical
+syndicated dispatch on the surge in student deadbeats was the August 27,
+1972 expose of Los Angeles Times reporter Linda Mathews, which began with
+the personal anecdote of an anonymous “Washington banker” who purported to
+have once “handed a $1500 check” for the year’s tuition to a nameless “
+18-year-old college freshman” only to be insouciantly told, “Oh, I never
+intend to repay this loan.” The kid was merely acting on the advice of “
+underground newspapers,” the anonymous banker—who had since joined “the
+staff of the American Banking[sic]Association”—helpfully explained.
+
+[Picture]
+
+> “Elitist cheaters” and “professional deadbeats” had driven default rates “as
+high as 40 percent in some cases,” the Chicago Tribune fumed. “Sometimes
+when I see someone come out before me with a job and no other debt but a
+
+
+
+
+https://books.google.com/books?id=aASnQujNgzoC&printsec=frontcover&dq=sidney+homer+sylla&hl=en&sa=X&ved=0CCAQuwUwAGoVChMIkpqV556LxwIVh1eSCh0bNgDO
+
+> Credit was in general
+use in ancient and in medieval times. Credit long antedated industry,
+banking, and even coinage; it probably antedated primitive forms of
+money. Loans at interest may be said to have begun when the Neolithic
+farmer made a loan of seed to a cousin and expected more back at har-
+vesttime. Be this as it may, we know that the recorded legal history of sev-
+eral great civilizations started with elaborate regulation of credit.
+For example, about 1800
+B
+.
+C
+., Hammurabi, a king of the first dynasty
+of ancient Babylonia, gave his people their earliest known formal code of
+laws. A number of the chief provisions of this code regulated the relation
+of debtor to creditor. The maximum rate of interest was set at 33
+1
+⁄
+3
+% per
+annum for loans of grain, repayable in kind, and at 20% per annum for
+loans of silver by weight. All loans had to be accompanied by written con-
+tracts witnessed before officials. If a higher than legal interest rate was
+collected by subterfuge, the principal of the debt was canceled. Land and
+movables could be pledged for debt, as could the person of the creditor,
+his wife, concubine, children, or slaves. Personal slavery for debt, how-
+ever, was limited to three years.
+Twelve hundred years later, around 600
+B
+.
+C
+., the legal history of clas-
+sical Greece began with the laws of Solon. At that time, drastic reforms
+were necessitated by an economic crisis in Athens, stemming in part from
+excessive debt and widespread personal slavery for debt. In contrast to
+the Code of Hammurabi, the laws of Solon did away with all limits on the
+rate of interest. They reduced or canceled many debts. They permitted
+hypothecation, but they forbade personal slavery for debt. These laws
+endured for centuries.
+The Romans also began their legal history with a body of laws regu-
+lating credit. This, too, was forced by a crisis characterized by excessive
+debt. The famous semitraditional Twelve Tables, dating from around
+450
+B
+.
+C
+., insofar as they deal with credit, resembled the Code of Ham-
+murabi more than they did the laws of Solon. Interest on loans was limited
+to no more than 8
+1
+⁄
+3
+% per annum. Higher than legal interest was penal-
+ized by fourfold damages. Personal slavery for debt was permitted, but
+the physical well-being of the slave was protected.
+These three examples from the earliest days of historical Babylonia,
+Greece, and Rome are enough to support the conclusion that credit at
+interest was widespread enough to create major political problems before
+the emergence of written history. The entire 5,000-year span of written
+history, however, is equal to only about one-half of one percent of the
+duration of human life on this planet. People had plenty of time to learn
+a lot about credit and interest before they began to write it down.
+Moving forward in time, we note that the Capitularies of Charlemagne,
+circa 800
+A
+.
+D
+., also dealt with credit. They
+flatly forbade all
+incre
+ments on
+loans. The sin of usury, and the desire for legal exceptions, provoked
+major theological and legal controversies for more than a thousand years
+of the Middle Ages. After the Reformation had justified the charging of
+interest in northern Europe, the interest rate controversy was taken up
+by economists, financiers, and politicians, usually in terms of laissez faire
+versus state control. England eventually followed Solon and abandoned
+all fixed legal limits on the rate of interest. The states of the United States
+in their usury laws set fixed maximum rates of interest and in this respect
+continued the legal traditions of Hammurabi and Rome.
+
+
+
+Any way you slice it, the banking business is about borrowing cheap and lending dear. The economic question is how that goal set affects the rest of us.
+
+
+
+
+
+
+
+
+## repo markets
+
+Carolyn Sissoko emphasises that lenders prefer to loan against collateral. If you don't pay them back then they get to take your thing.
+
+Treasury bills are considered so secure that they make good collateral. I get money today while you hold my T-bill. If I don't pay you back with interest then you already have my T-bill and don't need to come looking for me. [^ Believe me --- if you've never run a business --- chasing customers down for money _they already owe you_ --- you've already "made the sale" and done the work --- is a huge pain in the ass and a feature of every business. That is why `accounts receivable` is a major accounting category. People try to wriggle out of paying, for real.]
+
+
+
+You'll need to think through the [mechanics](https://www.youtube.com/watch?v=1olbQ4LyfFA) a few times before you get it.
+
+- libertystreeteconomics.newyorkfed.org/2011/04/everything-you-wanted-to-know-about-the-tri-party-repo-market-but-didnt-know-to-ask.html
+- geithner
+
+According to Tim Geithner's book _Stress Test_, repo is the main way that hedge funds financed trades. The problem with getting financing from the money markets is that, since the terms change every day, you can't count on them too much. Big companies need a department that does nothing but plan and predict treasury financing. In the crisis of 2008 the money markets just stopped offering companies money. Imagine that you are used to borrowing in ranges like 3, 4, or 5 percent and then one day the market was offering 500 percent at best. If your business runs on debt (most public companies do --- see [[LBO]], requires a lender to go through the basic operations of paying your vendors and employees, shipping your packages and            . Maybe for a while you can put people off. But what if the money markets aren't back next week? next month?
+
+
+This seems like an important feature of today's economic, capitalistic setup. Because of specialisation most companies rely on a lot of other companies to do necessary parts of their business for them. In fact vertical integration is illegal [^ for other reasons]. Imagine that you ran an auto body shop and one day all the people who supply you with paint are gone. You could only serve the customers with the paint you had left. Maybe you talk them into getting a weird color that's "close"? And then what do you do when the paint suppliers are still gone a month later? Do you try to figure out how to make auto paints yourself? This is just one example of [[general equilibrium]] problems: the disappearance of auto-paint suppliers would cause a ripple effect.
+
+[^ Microsoft is an exception [[link]] ]
+[Microsoft going to the bond markets](http://www.forbes.com/sites/timworstall/2015/02/10/if-microsoft-has-92-billion-in-cash-then-why-has-it-just-borrowed-10-75-billion/)
+
+(A couple years ago business academics wrote papers about "hoarding cash" ... not coincidentally journalists in major newspapers were talking about "hoarding cash" ... not coincidentally people and their friends were losing theri jobs, fewer people were hiring, and corporate profits were high. Hence, "stop hoarding cash, you big bad corporations".)
+https://www.stlouisfed.org/Publications/Regional-Economist/January-2013/Why-Are-Corporations-Holding-So-Much-Cash
+http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-are-worlds-biggest-cash-hoarders-hurts-their
+[^ In case you didn't notice, "hoarding" is a negatively charged word for "having". ]
+
+
+
+
+
+
+
+
+
+
+## a day at the exchange
+
+
+http://money.stackexchange.com/questions/23593/what-happens-if-my-order-exceeds-the-bid-or-ask-sizes
+
+
+![Larry Harris AT&T](www bcf.usc.edu  lharris Trading Book Book extract.pdf.png)
+Source: http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf
+
+†NB: Madoff! When he was still seen as clean (20**0**2).
+
+
+"The" market price is a misleading concept.  [^Matters for the "mark to market" geeks. ((delong: "mark our beliefs to market" . economist articles)) If you view the bids & asks as two histograms moving left & right over time and rarely crossing, _across multiple exchanges_, then this is "the market", cheaters and tricksters and all. What is the relevance of the last print --- let's say in a low-volume stock it was two months ago? Or should you use the midpoint of bid & ask? What if there happen to be more tricksters on the upside waiting for dumb people to jump in because of a news story? What if just by chance (or because it's easier to value in their model) someone happens to list way-out limit orders in the ? And how the hell does any of this relate to "bets on opinions" and Surowieckian Intrade market-price fetishism?]
+
+
+- prints vs non-crossing arguments
+- Is it that much more significant when two bids & asks momentarily cross? What about a "continuous" measure based on the nearness of the b & a?
+- real estate deals ((("you're talking to the wrong guy" --- story of the handshake --- charisma .... NP comment that friendly midwestern guy and priests do better than NYC rude bond salesmen
+- (((and again when it's a conversation power of sales, it's no longer a transaction stripped down only to price and don't care whom you get it from ... small businesses, dealing with family, dealing with repeat clients, etc ...... "mark to market" gfy
+- OTC (phone conversations .... volcube chat)
+- what you need to say on your economics test to pass as a sophomore, versus [[[the economists don't actually think about actual arguments .. it's just "market magic"
+- peter cotton .. crossing the magenta line
+
+
+
+Let's take a look also at another visual of an order book. Here is a bitcoin exchange snapshot, taken at roughly Thu Aug  6 18:45 UTC 2015.
+
+
+
+![bitcoin order book on some exchange](bitcoin live.png)
+Source: http://bitcointicker.co/ 
+
+
+[mt gox scam. photo of "short bitcoin" libertarian jerk guy / goog search. lot of people like him showing up]
+
+
+
+
+- rgm test example http://rgmadvisors.com/problems/orderbook/
+
+
+Here are the prices that were listed throughout the day.
+
+
+You can see the "conversation" / "argument" about the value of this stock stays within a remarkably small band. [^So maybe it has to do with the players who were arguing that day? A lot of traders looking to make a tick simply by gaming the others' mistakes or filling random small-lots orders as they came in from individual investors / brokerages, and nobody with a strong opinion about the fundamentals of the company?]
+
+
+
+
+
+
+
+this is "the truth" (at least on that day). When traders talk about a "1000 sigma day" in the Weimar hyperinflation, they mean *this* sigma. (Not the religious "population sigma" of bell curve veneration)
 
