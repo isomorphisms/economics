@@ -655,7 +655,44 @@ http://www.economist.com/news/leaders/21620203-japanese-and-south-korean-firms-a
 
 ### a day at the exchange
 
-- rgm test example
+
+![Larry Harris AT&T](www bcf.usc.edu  lharris Trading Book Book extract.pdf.png)
+Source: http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf
+
+†NB: Madoff! When he was still seen as clean (20**0**2).
+
+
+"The" market price is a misleading concept.  [^Matters for the "mark to market" geeks. ((delong: "mark our beliefs to market" . economist articles)) If you view the bids & asks as two histograms moving left & right over time and rarely crossing, _across multiple exchanges_, then this is "the market", cheaters and tricksters and all. What is the relevance of the last print --- let's say in a low-volume stock it was two months ago? Or should you use the midpoint of bid & ask? What if there happen to be more tricksters on the upside waiting for dumb people to jump in because of a news story? What if just by chance (or because it's easier to value in their model) someone happens to list way-out limit orders in the ? And how the hell does any of this relate to "bets on opinions" and Surowieckian Intrade market-price fetishism?]
+
+
+
+
+Let's take a look also at another visual of an order book. Here is a bitcoin exchange snapshot, taken at roughly Thu Aug  6 18:00 UTC 2015.
+
+
+
+![bitcoin order book on some exchange](bitcoin live.png)
+
+
+
+[mt gox scam. photo of "short bitcoin" libertarian jerk guy / goog search. lot of people like him showing up]
+
+
+
+
+- rgm test example http://rgmadvisors.com/problems/orderbook/
+
+
+Here are the prices that were listed throughout the day.
+
+
+You can see the "conversation" / "argument" about the value of this stock stays within a remarkably small band. [^So maybe it has to do with the players who were arguing that day? A lot of traders looking to make a tick simply by gaming the others' mistakes or filling random small-lots orders as they came in from individual investors / brokerages, and nobody with a strong opinion about the fundamentals of the company?]
+
+
+
+
+
+
 
 this is "the truth" (at least on that day). When traders talk about a "1000 sigma day" in the Weimar hyperinflation, they mean *this* sigma. (Not the religious "population sigma" of bell curve veneration)
 
