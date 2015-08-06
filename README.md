@@ -1548,17 +1548,22 @@ Source: http://www-bcf.usc.edu/~lharris/Trading/Book/Book-extract.pdf
 "The" market price is a misleading concept.  [^Matters for the "mark to market" geeks. ((delong: "mark our beliefs to market" . economist articles)) If you view the bids & asks as two histograms moving left & right over time and rarely crossing, _across multiple exchanges_, then this is "the market", cheaters and tricksters and all. What is the relevance of the last print --- let's say in a low-volume stock it was two months ago? Or should you use the midpoint of bid & ask? What if there happen to be more tricksters on the upside waiting for dumb people to jump in because of a news story? What if just by chance (or because it's easier to value in their model) someone happens to list way-out limit orders in the ? And how the hell does any of this relate to "bets on opinions" and Surowieckian Intrade market-price fetishism?]
 
 
+Let's say the last print was two days ago at $13. Since then the bids & asks have moved up to argue around $14, but haven't crossed again in that time. Are you still going to say "the market price" is $13? <!-- unrealistic .. balance between readable / imaginable numbers to non-trader ("What difference does 10 cents make?") versus realistic / would actually happen numbers -->
+
+
+
+
 - prints vs non-crossing arguments
 - Is it that much more significant when two bids & asks momentarily cross? What about a "continuous" measure based on the nearness of the b & a?
 - real estate deals ((("you're talking to the wrong guy" --- story of the handshake --- charisma .... NP comment that friendly midwestern guy and priests do better than NYC rude bond salesmen
 - (((and again when it's a conversation power of sales, it's no longer a transaction stripped down only to price and don't care whom you get it from ... small businesses, dealing with family, dealing with repeat clients, etc ...... "mark to market" gfy
 - OTC (phone conversations .... volcube chat)
-- what you need to say on your economics test to pass as a sophomore, versus [[[the economists don't actually think about actual arguments .. it's just "market magic"
+- what you need to say on your economics test to pass as a sophomore, versus [[[the economists don’t actually think about actual arguments .. it’s just "market magic"
 - peter cotton .. crossing the magenta line
 
 
 
-Let's take a look also at another visual of an order book. Here is a bitcoin exchange snapshot, taken at roughly Thu Aug  6 18:45 UTC 2015.
+Let’s take a look also at another visual of an order book. Here is a bitcoin exchange snapshot, taken at roughly Thu Aug  6 18:45 UTC 2015.
 
 
 
