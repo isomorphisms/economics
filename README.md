@@ -1254,7 +1254,7 @@ https://twitter.com/isomorphisms/status/353735295881052162
 - Merryl Tisch sits atop the New York public school system. Her husband inherited the chair to the Loews Corporation.
 - Alfred Nobel
 - Cecil Rhodes—white supremacist, commodity monopolist, 
-- John B Duke
+- James B Duke
 - William Andrews Clark
 
 
@@ -1275,6 +1275,14 @@ https://en.wikipedia.org/wiki/Lawrence_Summers
 President of Harvard; advisor to Presidents
 
 > the son of two economists, Robert Summers (who changed the family surname from Samuelson) and Anita Summers …. He is also the nephew of two Nobel laureates in economics: Paul Samuelson (brother of Robert Summers) and Kenneth Arrow (brother of Anita Summers).
+
+
+James B Duke. http://www.neh.gov/about/awards/jefferson-lecture/wendell-e-berry-lecture
+
+> The economic hardship of my family and of many others, a century ago, was caused by a monopoly, the American Tobacco Company, which had eliminated all competitors and thus was able to reduce as it pleased the prices it paid to farmers. The American Tobacco Company was the work of James B. Duke of Durham, North Carolina, and New York City, who, disregarding any other consideration, followed a capitalist logic to absolute control of his industry and, incidentally, of the economic fate of thousands of families such as my own.
+> …
+> on my first visit to Duke University, and by surprise, I came face-to-face with James B. Duke in his dignity, his glory perhaps, as the founder of that university. He stands imperially in bronze in front of a Methodist chapel aspiring to be a cathedral. He holds between two fingers of his left hand a bronze cigar. On one side of his pedestal is the legend: INDUSTRIALIST. On the other side is another single word: PHILANTHROPIST. The man thus commemorated seemed to me terrifyingly ignorant, even terrifyingly innocent, of the connection between his industry and his philanthropy. But I did know the connection. I felt it instantly and physically. The connection was my grandparents and thousands of others more or less like them. If you can appropriate for little or nothing the work and hope of enough such farmers, then you may dispense the grand charity of “philanthropy.”
+
 
 
 
