@@ -822,6 +822,7 @@ http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
 
 Who benefits the most from tax breaks? Those who pay the highest tax rate. So the federal government rewards the rich if they invest in communities and localities, without asking legislators to pick winners or do due diligence.
 
+Lazy critiques of politicians ignore what a good idea this is. National level rule-makers have incented the rich to give back to communities and locales, with low incentive / price distortion.
 
 
 # rich & poor
