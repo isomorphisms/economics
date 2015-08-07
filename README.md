@@ -44,21 +44,134 @@ Since the recession many such pictures have appeared (Reich NYT). ((sec:Rhodes))
 
 The poorest 5 countries in the world are _______ with populations of _.
 
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
 
 
 
-
-There are some tiny super-rich countries (more like principalities in size)
+There are some tiny super-rich countries (more like principalities in size --- Liechtenstein, Macau, Bermuda, Isle of Man [[tax haven article]], Monaco [[Monte Carlo gambling article]]], Singapore, Sint Maarten [[tax haven]]], Jersey [[tax haven]], Las Malvinas, Schweitz (tax shelter), Hong Kong (libertarian paradise & trade/financial centre), Gran Caymán (tax haven), Guernsey (tax haven), Belgium (a principality or a country? head of EU and half German/half French), Andorra, Saint Pierre & Miquelon )
 
 After taking them out the richest countries per person are:
 
 
+- United States
+- Norway (oil)
+- Ireland
+- Australia
+- Austria
+- Sweden
+- Germany
+- Canada
+- Denmark (oil?)
+- Belgium
+- Finland
+- France
+- Japan
+- UK
+- South Korea
+- New Zealand
+- Italy
+- Israel
+- Spain
 
 
-The middle country is Mexico.
+Notice how many of these are Anglophone (reflecting British occupation in 18th c. [[["there's something about les anglophones"]]] or Deutschephone
+
+
+![exports and imports of the United States](https://upload.wikimedia.org/wikipedia/commons/e/e8/2012_United_States_Products_Imports_Treemap.png)
+
+<!-- lo igual de argentina -->
+
+http://www.atlas.cid.harvard.edu/explore/tree_map/export/usa/all/show/2012/
 
 
 
+- Mali
+- Central African Republic (Upper Ubangui / French equagorial guinea / Scramble for Africa / civil wars)
+- Democratic of the Congo (formerly Za&iuml;re)
+- Burundi
+- Somalia
+- Burundi
+- Liberia (Gadafi)
+- Niger
+- Mozambique
+- Eritrea / Ethiopia
+- Burkina Faso
+- The Gambia
+- Rwanda
+- Uganda
+- North Korea
+- Haiti
+- South Sudan
+- Sierra Leone ((actually some success after civil war))
+- Zimbabwe ((hyperinflation --- Weimar Deutschland))
+
+
+[pics of the places to show some individuality]
+
+
+Middle countries are Mexico, Bulgaria, Lithuania, Greece, Slovakia, Russia, Poland, Seychelles, Chile, Argentina, Croatia, Romania, Byelorussia, Thailand, China
+
+
+### Important numbers: commit to memory.
+
+
+- US income per head ~ $50,000
+- Colombian income per head ~ $13,000
+- Niger income per head ~ $1,000
+
+
+
+The variety in each country cannot be reduced to a single number, and the estimates are all flawed. However
+
+###### this is the scale of world economics. A ratio of 30:1 or 50:1.
+
+The scale from astronomy to microscopy is __, so physicists consider [[40]] orders of magnitude.
+
+- The richest man in the world controls ~72 bn standard IOU's. [[cite Carlos Slim]]
+- Subsistence farmers [[the bottom billion -- link]] take in ~300 standard IOU's per year and control [[0? not sure how to estimate that as a wealth.]]
+- ("Primitive livers" like Amazonians, Papuans, Andhara Pradesh mountaineers I am leaving off of the scale.) 
+
+So 10^9 people have 10^2 dollars and 10^0 people have 10^10 dollars. http://globalrichlist.org
+
+These are the marker posts of the scale of economic variation.  (They do not cover its variety; just a reductive one-dimensional summary.)
+
+
+
+
+Some obvious geographical patterns:
+
+- tax haven islands, in El Caribe & near the UK (the world's financial centre before NYC was London [[back to Vereenigde Oost Indische compagnie / Portuguese exploration]])
+- Anglophone / Commonwealth
+- Da Germans / Prussia
+- Lat Am
+- Asian Tigers
+- oil giants [[[what's the big reservoir called?]]]
+- African basket cases / post-colonial civil war zones  [^ @AfricasACountry twitter / succes stories in Afrique]
+- post-Soviet states
+
+
+
+###### Oil
+
+- [[[piketty on oil]]]
+- [[[conventional wisdom on natural-resource hell ---- acemoglu / robinson]]]]
+
+
+You can see how great it is to have legal claim to an abundance of crude oil: something everyone else in the world wants, quite badly. [[[amount of technology and capital committed to the extraction, processing, and delivery of oil]]] [[[big enough to have CME markets]]]
+
+- Qatar
+- Norway
+- Iran
+- Venezuela
+- Kuwait
+- UAE
+- Oman
+- Bahrain
+- Saudi Arabia
+- Doha // al-Jazeera
+
+
+![Saudi oil geography](http://3.bp.blogspot.com/--hL2haDhykU/T6uphyOzbqI/AAAAAAAABC8/HAk_AzS5Orw/s1600/Map+of+Oil+and+Gas+Fields+in+Saudi+Arabia.gif)
 
 
 
