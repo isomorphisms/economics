@@ -873,7 +873,7 @@ People get the things they need and want in life from companies. They earn the p
 https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 Company | What they do
--- | -- 
+---- | ----
 Dow Chemical | chemicals
 Adobe | pdf
 Electronic Arts | video games
