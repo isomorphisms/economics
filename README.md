@@ -138,7 +138,8 @@ and impertinent, and evidence of a restless spirit. ―Frederick Douglass, self-
 
 Source: https://www.gutenberg.org/files/23/23-h/23-h.htm   (who finances Gutenberg?)
 
-((cite self-taught greek/latin cave explorer .. kentucky .. jefferson .. DuPont))
+
+
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
 
@@ -157,6 +158,50 @@ If the capitalistic growth is mostly just benefiting rich white people, then I d
 [dumb cowen npv recompense thing? africa gdp thing?]
 
 
+##### A short story: Mammoth Caves, military industry, building the DuPont legacy, political connections, and Delaware's contemporary status as a favourable tax location.
+
+((cite self-taught greek/latin cave explorer .. kentucky .. jefferson .. DuPont))
+
+https://en.wikipedia.org/wiki/Stephen_Bishop_(cave_explorer)
+
+> Stephen Bishop (c. 1821–1857) was a mixed race slave (freed by manumission in the year before his death) famous for being one of the lead explorers and guides to the Mammoth Cave in the U.S. state of Kentucky.
+Bishop was introduced to Mammoth Cave in 1838 by his owner, Franklin Gorin (1798–1877),[1] who purchased the cave from the previous owners in the spring of 1838. Gorin wrote, after Bishop's death:
+
+> > I placed a guide in the cave --- the celebrated and great Stephen, and he aided in making the discoveries. He was the first person who ever crossed the Bottomless Pit, and he, myself and another person whose name I have forgotten were the only persons ever at the bottom of Gorin's Dome to my knowledge.
+
+> Bishop was freed in 1856, seven years after the death of his owner, in accordance with Dr. Croghan's will. Bishop died on June 15, 1859, according to the date on his tombstone, before he could carry out his life's dream of buying the freedom of his wife and son and traveling to Liberia. His expressed life's dream of traveling to Liberia may have been "politically correct" talk to convey an impression of personal ambition in a non-threatening way to white visitors.[citation needed]
+
+![Stephen Bishop's tombstone](https://upload.wikimedia.org/wikipedia/en/5/5e/StephenBishopGraveStone.png)
+
+> STEPHEN BISHOP, FIRST GUIDE & EXPLORER OF THE MAMMOTH CAVE. DIED JUNE 15, 1859 IN HIS 37 YEAR.
+
+> > Stephen was a self-educated man. He had a fine genius, a great fund of wit and humor, some little knowledge of Latin and Greek, and much knowledge of geology, but his great talent was a knowledge of man.
+
+
+https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park#Earliest_known_history
+
+> The land containing this historic entrance was first surveyed and registered in 1798 under the name of Valentine Simons. Simons began exploiting Mammoth Cave for its saltpeter reserves.
+
+> In partnership with Valentine Simon, various other individuals would own the land through the War of 1812, when Mammoth Cave's saltpeter reserves became significant due to the British blockade of United States's ports. The blockade starved the American military of saltpeter and therefore gunpowder. As a result, the domestic price of saltpeter rose and production based on nitrates extracted from caves such as Mammoth Cave became more lucrative.
+
+
+
+The Mammoth Cave's saltpeter resources were instrumental in early US wars, and in building the wealth of the
+###### DuPont family.
+
+(largest taxpayer in modern-day Delaware, which permits Delaware's government to finance itself along with favourable incorporation laws and a 0% sales tax.)
+
+(((connections between Founding Father Thomas Jefferson, and the DuPont family. How DuPont's got their first war contract)))
+
+
+http://www.nps.gov/maca/learn/historyculture/history4.htm
+
+> 1812, the cave’s worth increased over 25 fold in a single day. Hyman Gratz had purchased a half-interest in the cave from Fleming Gatewood for $10,000. Gatewood, along with Charles Wilkins, had bought the cave from Leonard and John McClean, who had bought it from John Flatt, who had purchased the land and the cave from Valentine Simon for $116.67 only a few weeks before. Then, on July 9, all parties cleared title, determining the cave’s exact worth.
+There was money to be made from the cave, and Gratz and Wilkins set about making it. They had the capital and physical assets – in the form of nearly 70 slaves – to mount a considerable enterprise underground. The slaves began to construct the apparatus which would leach the nitre out of the soil, under the watchful eye of overseers, by the light of dim and smoky lanterns.
+ 
+> Bare from the waist up, the slaves began their work …
+
+> They then packaged these crystals to be delivered to the newly-formed DuPont chemical company in Delaware to be made into gunpowder.
 
 
 
@@ -165,8 +210,7 @@ If the capitalistic growth is mostly just benefiting rich white people, then I d
 
 
 
-
-### Pay
+## Pay
 
 Competitive labor markets are meant to empower workers exactly when employers are forced to pay more. For example:
 
