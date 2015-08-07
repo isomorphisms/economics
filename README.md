@@ -1058,7 +1058,7 @@ https://twitter.com/isomorphisms/status/604116555920613376
 
 #### recruiter business
 
-- duffy (cheeky articles)
+- dominic conor (cheeky articles)
 - returns per fill
 - don't need an engineering degree
 
@@ -1068,7 +1068,7 @@ why is 5 years of experience the magic number?
 https://twitter.com/isomorphisms/status/555751247131979776
 ^ things that make no sense
 
--  Ross (barbarian at gate guy) .. HR the last refuge of the worthless
+-  F Ross Johnson www.youtube.com/watch?v=xCI4zGYYSys ([barbarian at gate](www.youtube.com/watch?v=yJAVLjTID2E) guy) .. HR the last refuge of the worthless
 -  epicureandeal .. HR weenies
 
 
