@@ -306,6 +306,27 @@ The Mammoth Cave's saltpeter resources were instrumental in early US wars, and i
 
 (((connections between Founding Father Thomas Jefferson, and the DuPont family. How DuPont's got their first war contract)))
 
+###### Brandywine River Powder Mills
+
+https://www.asme.org/about-asme/who-we-are/engineering-history/landmarks/221-brandywine-river-powder-mills
+
+> 1803-1921
+largest U.S. maker of explosive black powder, a once-important and now-obsolete 19th-century technology
+
+> Founded by Eleuthère Irénéé du Pont (1771-1834), the Brandywine River Mills became the largest maker of explosive black powder in the United States. That success resulted directly from the firm's pioneering use of gunpowder processing machinery driven by water wheels and water turbines. Divided into separate buildings to promote safety, its rolling, graining, and glazing mills produced black powder in a range of grades for military, sporting, hunting, construction, mining, and other applications.
+
+> From age 16 to 20, Eleuthère Irénéé du Pont had assisted Antoine Lavoisier, chief of the French gunpowder works at Essone (and founder of modern chemistry). After the du Pont family immigrated to the United States from France in 1800. Du Pont immediately put his expertise to work, upon seeing the power quality of American gunpowder used for hunting guns and pistols.
+
+> In 1802 he sited and began building the mill along the Brandywine River near Wilmington. In 1803 the mill refined its first saltpeter, and **du Pont notified family-friend President Thomas Jefferson and soon received Army contracts for refining saltpeter**, followed by substantial orders for gunpowder. Brandywine River Powder Mills produced its first gunpowder in 1803.
+
+- industriousness
+- ambition
+- political connections
+- novel technology
+- spoils of war
+
+
+
 
 http://www.nps.gov/maca/learn/historyculture/history4.htm
 
