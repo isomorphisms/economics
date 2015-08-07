@@ -1265,6 +1265,19 @@ https://twitter.com/isomorphisms/timelines/476938509945962496
 
 
 
+https://en.wikipedia.org/wiki/Debendranath_Tagore#Children
+
+> Father was industrialist; son was Rabindranath Tagore (Nobel laureate)
+
+
+https://en.wikipedia.org/wiki/Lawrence_Summers
+
+President of Harvard; advisor to Presidents
+
+> the son of two economists, Robert Summers (who changed the family surname from Samuelson) and Anita Summers …. He is also the nephew of two Nobel laureates in economics: Paul Samuelson (brother of Robert Summers) and Kenneth Arrow (brother of Anita Summers).
+
+
+
 ### Beggars
 
 ![Diogenes](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
