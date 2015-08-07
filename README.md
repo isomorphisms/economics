@@ -1078,9 +1078,9 @@ https://twitter.com/isomorphisms/status/555751247131979776
 http://www.forbes.com/largest-private-companies/
 
 Company | Yearly Sales | Market Cap | Location | # Emp | What they do
--- | -- | --
+---- | ---- | ---- | ---- | ----- | ----
 Cargill | a | b | Detroit | x | salt mines (sell road salt to cities for the winter)
-Bechtel | mining; Halliburton competitor; see [[world bank conspiracy
+Bechtel | mining; Halliburton competitor; see [[world bank conspiracy guy www.bostonmagazine.com/2006/05/economic-hit-man/
 
 
 
