@@ -161,13 +161,6 @@ If the capitalistic growth is mostly just benefiting rich white people, then I d
 
 
 
-http://finance.yahoo.com/news/how-chicago-has-used-financial-engineering-to-paper-over-its-massive-budget-gap-144515066.html
-
-http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
-
-> About $54 million from a tax-exempt bond helped cover a legal judgment awarded to African-Americans who were denied a chance to become firefighters by a 1990s entrance exam that favored white applicants. An additional $8 million in tax-exempt bond money went to pay legal fees related to the case, records show.
-
-> By using bond money, the city created an irony for many of those awarded damages, as their future property taxes will help pay interest on the debt. In 2033, when the city starts paying down the $54 million, interest will have more than doubled the total cost.
 
 
 
@@ -768,6 +761,19 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - http://www.breckinridge.com/insights/podcasts.html
 
 
+
+http://finance.yahoo.com/news/how-chicago-has-used-financial-engineering-to-paper-over-its-massive-budget-gap-144515066.html
+
+http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
+
+> About $54 million from a tax-exempt bond helped cover a legal judgment awarded to African-Americans who were denied a chance to become firefighters by a 1990s entrance exam that favored white applicants. An additional $8 million in tax-exempt bond money went to pay legal fees related to the case, records show.
+
+> By using bond money, the city created an irony for many of those awarded damages, as their future property taxes will help pay interest on the debt. In 2033, when the city starts paying down the $54 million, interest will have more than doubled the total cost.
+
+
+
+
+
 ##### tax exempt bonds
 
 Who benefits the most from tax breaks? Those who pay the highest tax rate. So the federal government rewards the rich if they invest in communities and localities, without asking legislators to pick winners or do due diligence.
@@ -1245,13 +1251,16 @@ https://twitter.com/isomorphisms/status/353735295881052162
 ## rich people in high places
 
 
-- Merryl Tisch 
+- Merryl Tisch sits atop the New York public school system. Her husband inherited the chair to the Loews Corporation.
 - Alfred Nobel
-- Cecil Rhodes
+- Cecil Rhodes—white supremacist, commodity monopolist, 
+- John B Duke
+- William Andrews Clark
+
 
 poet laureates
 
-
+https://twitter.com/isomorphisms/timelines/476938509945962496
 
 
 
