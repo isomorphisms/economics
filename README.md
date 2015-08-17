@@ -580,6 +580,9 @@ Anyway. Is this a more efficient means of social organisation? I am not sure, bu
 
 # Advertising
 
+https://youtu.be/QSmOXzosFOQ
+
+
 pepsi/coke fmri
 
 ###### lucky strikes
