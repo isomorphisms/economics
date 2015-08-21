@@ -44,21 +44,134 @@ Since the recession many such pictures have appeared (Reich NYT). ((sec:Rhodes))
 
 The poorest 5 countries in the world are _______ with populations of _.
 
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
 
 
 
-
-There are some tiny super-rich countries (more like principalities in size)
+There are some tiny super-rich countries (more like principalities in size --- Liechtenstein, Macau, Bermuda, Isle of Man [[tax haven article]], Monaco [[Monte Carlo gambling article]]], Singapore, Sint Maarten [[tax haven]]], Jersey [[tax haven]], Las Malvinas, Schweitz (tax shelter), Hong Kong (libertarian paradise & trade/financial centre), Gran Caymán (tax haven), Guernsey (tax haven), Belgium (a principality or a country? head of EU and half German/half French), Andorra, Saint Pierre & Miquelon )
 
 After taking them out the richest countries per person are:
 
 
+- United States
+- Norway (oil)
+- Ireland
+- Australia
+- Austria
+- Sweden
+- Germany
+- Canada
+- Denmark (oil?)
+- Belgium
+- Finland
+- France
+- Japan
+- UK
+- South Korea
+- New Zealand
+- Italy
+- Israel
+- Spain
 
 
-The middle country is Mexico.
+Notice how many of these are Anglophone (reflecting British occupation in 18th c. [[["there's something about les anglophones"]]] or Deutschephone
+
+
+![exports and imports of the United States](https://upload.wikimedia.org/wikipedia/commons/e/e8/2012_United_States_Products_Imports_Treemap.png)
+
+<!-- lo igual de argentina -->
+
+http://www.atlas.cid.harvard.edu/explore/tree_map/export/usa/all/show/2012/
 
 
 
+- Mali
+- Central African Republic (Upper Ubangui / French equagorial guinea / Scramble for Africa / civil wars)
+- Democratic of the Congo (formerly Za&iuml;re)
+- Burundi
+- Somalia
+- Burundi
+- Liberia (Gadafi)
+- Niger
+- Mozambique
+- Eritrea / Ethiopia
+- Burkina Faso
+- The Gambia
+- Rwanda
+- Uganda
+- North Korea
+- Haiti
+- South Sudan
+- Sierra Leone ((actually some success after civil war))
+- Zimbabwe ((hyperinflation --- Weimar Deutschland))
+
+
+[pics of the places to show some individuality]
+
+
+Middle countries are Mexico, Bulgaria, Lithuania, Greece, Slovakia, Russia, Poland, Seychelles, Chile, Argentina, Croatia, Romania, Byelorussia, Thailand, China
+
+
+### Important numbers: commit to memory.
+
+
+- US income per head ~ $50,000
+- Colombian income per head ~ $13,000
+- Niger income per head ~ $1,000
+
+
+
+The variety in each country cannot be reduced to a single number, and the estimates are all flawed. However
+
+###### this is the scale of world economics. A ratio of 30:1 or 50:1.
+
+The scale from astronomy to microscopy is __, so physicists consider [[40]] orders of magnitude.
+
+- The richest man in the world controls ~72 bn standard IOU's. [[cite Carlos Slim]]
+- Subsistence farmers [[the bottom billion -- link]] take in ~300 standard IOU's per year and control [[0? not sure how to estimate that as a wealth.]]
+- ("Primitive livers" like Amazonians, Papuans, Andhara Pradesh mountaineers I am leaving off of the scale.) 
+
+So 10^9 people have 10^2 dollars and 10^0 people have 10^10 dollars. http://globalrichlist.org
+
+These are the marker posts of the scale of economic variation.  (They do not cover its variety; just a reductive one-dimensional summary.)
+
+
+
+
+Some obvious geographical patterns:
+
+- tax haven islands, in El Caribe & near the UK (the world's financial centre before NYC was London [[back to Vereenigde Oost Indische compagnie / Portuguese exploration]])
+- Anglophone / Commonwealth
+- Da Germans / Prussia
+- Lat Am
+- Asian Tigers
+- oil giants [[[what's the big reservoir called?]]]
+- African basket cases / post-colonial civil war zones  [^ @AfricasACountry twitter / succes stories in Afrique]
+- post-Soviet states
+
+
+
+###### Oil
+
+- [[[piketty on oil]]]
+- [[[conventional wisdom on natural-resource hell ---- acemoglu / robinson]]]]
+
+
+You can see how great it is to have legal claim to an abundance of crude oil: something everyone else in the world wants, quite badly. [[[amount of technology and capital committed to the extraction, processing, and delivery of oil]]] [[[big enough to have CME markets]]]
+
+- Qatar
+- Norway
+- Iran
+- Venezuela
+- Kuwait
+- UAE
+- Oman
+- Bahrain
+- Saudi Arabia
+- Doha // al-Jazeera
+
+
+![Saudi oil geography](http://3.bp.blogspot.com/--hL2haDhykU/T6uphyOzbqI/AAAAAAAABC8/HAk_AzS5Orw/s1600/Map+of+Oil+and+Gas+Fields+in+Saudi+Arabia.gif)
 
 
 
@@ -138,7 +251,8 @@ and impertinent, and evidence of a restless spirit. ―Frederick Douglass, self-
 
 Source: https://www.gutenberg.org/files/23/23-h/23-h.htm   (who finances Gutenberg?)
 
-((cite self-taught greek/latin cave explorer .. kentucky .. jefferson .. DuPont))
+
+
 
 Whoa! Take a few days to ponder those numbers. Non-whites have ______. Non-homeowners have _____. How you like me now?___
 
@@ -157,23 +271,80 @@ If the capitalistic growth is mostly just benefiting rich white people, then I d
 [dumb cowen npv recompense thing? africa gdp thing?]
 
 
+##### A short story: Mammoth Caves, military industry, building the DuPont legacy, political connections, and Delaware's contemporary status as a favourable tax location.
+
+((cite self-taught greek/latin cave explorer .. kentucky .. jefferson .. DuPont))
+
+https://en.wikipedia.org/wiki/Stephen_Bishop_(cave_explorer)
+
+> Stephen Bishop (c. 1821–1857) was a mixed race slave (freed by manumission in the year before his death) famous for being one of the lead explorers and guides to the Mammoth Cave in the U.S. state of Kentucky.
+Bishop was introduced to Mammoth Cave in 1838 by his owner, Franklin Gorin (1798–1877),[1] who purchased the cave from the previous owners in the spring of 1838. Gorin wrote, after Bishop's death:
+
+> > I placed a guide in the cave --- the celebrated and great Stephen, and he aided in making the discoveries. He was the first person who ever crossed the Bottomless Pit, and he, myself and another person whose name I have forgotten were the only persons ever at the bottom of Gorin's Dome to my knowledge.
+
+> Bishop was freed in 1856, seven years after the death of his owner, in accordance with Dr. Croghan's will. Bishop died on June 15, 1859, according to the date on his tombstone, before he could carry out his life's dream of buying the freedom of his wife and son and traveling to Liberia. His expressed life's dream of traveling to Liberia may have been "politically correct" talk to convey an impression of personal ambition in a non-threatening way to white visitors.[citation needed]
+
+![Stephen Bishop's tombstone](https://upload.wikimedia.org/wikipedia/en/5/5e/StephenBishopGraveStone.png)
+
+> STEPHEN BISHOP, FIRST GUIDE & EXPLORER OF THE MAMMOTH CAVE. DIED JUNE 15, 1859 IN HIS 37 YEAR.
+
+> > Stephen was a self-educated man. He had a fine genius, a great fund of wit and humor, some little knowledge of Latin and Greek, and much knowledge of geology, but his great talent was a knowledge of man.
+
+
+https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park#Earliest_known_history
+
+> The land containing this historic entrance was first surveyed and registered in 1798 under the name of Valentine Simons. Simons began exploiting Mammoth Cave for its saltpeter reserves.
+
+> In partnership with Valentine Simon, various other individuals would own the land through the War of 1812, when Mammoth Cave's saltpeter reserves became significant due to the British blockade of United States's ports. The blockade starved the American military of saltpeter and therefore gunpowder. As a result, the domestic price of saltpeter rose and production based on nitrates extracted from caves such as Mammoth Cave became more lucrative.
+
+
+
+The Mammoth Cave's saltpeter resources were instrumental in early US wars, and in building the wealth of the
+###### DuPont family.
+
+(largest taxpayer in modern-day Delaware, which permits Delaware's government to finance itself along with favourable incorporation laws and a 0% sales tax.)
+
+(((connections between Founding Father Thomas Jefferson, and the DuPont family. How DuPont's got their first war contract)))
+
+###### Brandywine River Powder Mills
+
+https://www.asme.org/about-asme/who-we-are/engineering-history/landmarks/221-brandywine-river-powder-mills
+
+> 1803-1921
+largest U.S. maker of explosive black powder, a once-important and now-obsolete 19th-century technology
+
+> Founded by Eleuthère Irénéé du Pont (1771-1834), the Brandywine River Mills became the largest maker of explosive black powder in the United States. That success resulted directly from the firm's pioneering use of gunpowder processing machinery driven by water wheels and water turbines. Divided into separate buildings to promote safety, its rolling, graining, and glazing mills produced black powder in a range of grades for military, sporting, hunting, construction, mining, and other applications.
+
+> From age 16 to 20, Eleuthère Irénéé du Pont had assisted Antoine Lavoisier, chief of the French gunpowder works at Essone (and founder of modern chemistry). After the du Pont family immigrated to the United States from France in 1800. Du Pont immediately put his expertise to work, upon seeing the power quality of American gunpowder used for hunting guns and pistols.
+
+> In 1802 he sited and began building the mill along the Brandywine River near Wilmington. In 1803 the mill refined its first saltpeter, and **du Pont notified family-friend President Thomas Jefferson and soon received Army contracts for refining saltpeter**, followed by substantial orders for gunpowder. Brandywine River Powder Mills produced its first gunpowder in 1803.
+
+- industriousness
+- ambition
+- political connections
+- novel technology
+- spoils of war
 
 
 
 
-http://finance.yahoo.com/news/how-chicago-has-used-financial-engineering-to-paper-over-its-massive-budget-gap-144515066.html
+http://www.nps.gov/maca/learn/historyculture/history4.htm
 
-http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
+> 1812, the cave’s worth increased over 25 fold in a single day. Hyman Gratz had purchased a half-interest in the cave from Fleming Gatewood for $10,000. Gatewood, along with Charles Wilkins, had bought the cave from Leonard and John McClean, who had bought it from John Flatt, who had purchased the land and the cave from Valentine Simon for $116.67 only a few weeks before. Then, on July 9, all parties cleared title, determining the cave’s exact worth.
+There was money to be made from the cave, and Gratz and Wilkins set about making it. They had the capital and physical assets – in the form of nearly 70 slaves – to mount a considerable enterprise underground. The slaves began to construct the apparatus which would leach the nitre out of the soil, under the watchful eye of overseers, by the light of dim and smoky lanterns.
+ 
+> Bare from the waist up, the slaves began their work …
 
-> About $54 million from a tax-exempt bond helped cover a legal judgment awarded to African-Americans who were denied a chance to become firefighters by a 1990s entrance exam that favored white applicants. An additional $8 million in tax-exempt bond money went to pay legal fees related to the case, records show.
-
-> By using bond money, the city created an irony for many of those awarded damages, as their future property taxes will help pay interest on the debt. In 2033, when the city starts paying down the $54 million, interest will have more than doubled the total cost.
-
-
-
+> They then packaged these crystals to be delivered to the newly-formed DuPont chemical company in Delaware to be made into gunpowder.
 
 
-### Pay
+
+
+
+
+
+
+## Pay
 
 Competitive labor markets are meant to empower workers exactly when employers are forced to pay more. For example:
 
@@ -775,10 +946,24 @@ Cities and counties collect your taxes. They pay for really expensive things lik
 - http://www.breckinridge.com/insights/podcasts.html
 
 
+
+http://finance.yahoo.com/news/how-chicago-has-used-financial-engineering-to-paper-over-its-massive-budget-gap-144515066.html
+
+http://apps.chicagotribune.com/bond-debt/chicago-bonds.html
+
+> About $54 million from a tax-exempt bond helped cover a legal judgment awarded to African-Americans who were denied a chance to become firefighters by a 1990s entrance exam that favored white applicants. An additional $8 million in tax-exempt bond money went to pay legal fees related to the case, records show.
+
+> By using bond money, the city created an irony for many of those awarded damages, as their future property taxes will help pay interest on the debt. In 2033, when the city starts paying down the $54 million, interest will have more than doubled the total cost.
+
+
+
+
+
 ##### tax exempt bonds
 
 Who benefits the most from tax breaks? Those who pay the highest tax rate. So the federal government rewards the rich if they invest in communities and localities, without asking legislators to pick winners or do due diligence.
 
+Lazy critiques of politicians ignore what a good idea this is. National level rule-makers have incented the rich to give back to communities and locales, with low incentive / price distortion.
 
 
 # rich & poor
@@ -830,7 +1015,7 @@ People get the things they need and want in life from companies. They earn the p
 https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 Company | What they do
--- | -- 
+---- | ----
 Dow Chemical | chemicals
 Adobe | pdf
 Electronic Arts | video games
@@ -901,7 +1086,7 @@ https://twitter.com/isomorphisms/status/604116555920613376
 
 #### recruiter business
 
-- duffy (cheeky articles)
+- dominic conor (cheeky articles)
 - returns per fill
 - don't need an engineering degree
 
@@ -911,7 +1096,7 @@ why is 5 years of experience the magic number?
 https://twitter.com/isomorphisms/status/555751247131979776
 ^ things that make no sense
 
--  Ross (barbarian at gate guy) .. HR the last refuge of the worthless
+-  F Ross Johnson www.youtube.com/watch?v=xCI4zGYYSys ([barbarian at gate](www.youtube.com/watch?v=yJAVLjTID2E) guy) .. HR the last refuge of the worthless
 -  epicureandeal .. HR weenies
 
 
@@ -921,9 +1106,9 @@ https://twitter.com/isomorphisms/status/555751247131979776
 http://www.forbes.com/largest-private-companies/
 
 Company | Yearly Sales | Market Cap | Location | # Emp | What they do
--- | -- | --
+---- | ---- | ---- | ---- | ----- | ----
 Cargill | a | b | Detroit | x | salt mines (sell road salt to cities for the winter)
-Bechtel | mining; Halliburton competitor; see [[world bank conspiracy
+Bechtel | mining; Halliburton competitor; see [[world bank conspiracy guy www.bostonmagazine.com/2006/05/economic-hit-man/
 
 
 
@@ -1252,13 +1437,37 @@ https://twitter.com/isomorphisms/status/353735295881052162
 ## rich people in high places
 
 
-- Merryl Tisch 
+- Merryl Tisch sits atop the New York public school system. Her husband inherited the chair to the Loews Corporation.
 - Alfred Nobel
-- Cecil Rhodes
+- Cecil Rhodes—white supremacist, commodity monopolist, 
+- James B Duke
+- William Andrews Clark
+
 
 poet laureates
 
+https://twitter.com/isomorphisms/timelines/476938509945962496
 
+
+
+
+https://en.wikipedia.org/wiki/Debendranath_Tagore#Children
+
+> Father was industrialist; son was Rabindranath Tagore (Nobel laureate)
+
+
+https://en.wikipedia.org/wiki/Lawrence_Summers
+
+President of Harvard; advisor to Presidents
+
+> the son of two economists, Robert Summers (who changed the family surname from Samuelson) and Anita Summers …. He is also the nephew of two Nobel laureates in economics: Paul Samuelson (brother of Robert Summers) and Kenneth Arrow (brother of Anita Summers).
+
+
+James B Duke. http://www.neh.gov/about/awards/jefferson-lecture/wendell-e-berry-lecture
+
+> The economic hardship of my family and of many others, a century ago, was caused by a monopoly, the American Tobacco Company, which had eliminated all competitors and thus was able to reduce as it pleased the prices it paid to farmers. The American Tobacco Company was the work of James B. Duke of Durham, North Carolina, and New York City, who, disregarding any other consideration, followed a capitalist logic to absolute control of his industry and, incidentally, of the economic fate of thousands of families such as my own.
+> …
+> on my first visit to Duke University, and by surprise, I came face-to-face with James B. Duke in his dignity, his glory perhaps, as the founder of that university. He stands imperially in bronze in front of a Methodist chapel aspiring to be a cathedral. He holds between two fingers of his left hand a bronze cigar. On one side of his pedestal is the legend: INDUSTRIALIST. On the other side is another single word: PHILANTHROPIST. The man thus commemorated seemed to me terrifyingly ignorant, even terrifyingly innocent, of the connection between his industry and his philanthropy. But I did know the connection. I felt it instantly and physically. The connection was my grandparents and thousands of others more or less like them. If you can appropriate for little or nothing the work and hope of enough such farmers, then you may dispense the grand charity of “philanthropy.”
 
 
 
