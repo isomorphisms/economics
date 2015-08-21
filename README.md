@@ -577,6 +577,7 @@ Anyway. Is this a more efficient means of social organisation? I am not sure, bu
 
 #### what a market sounds like
 
+![catch a falling knife](6.May.2010.png)
 youtu.be/1mC4tu1NhUA The S&P pit on a big down day (May 6, 2010)
 
 
