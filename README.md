@@ -203,6 +203,7 @@ Let's look at just the median because all the mean is telling us is how wealthy 
 
 ‡ the ratio `mean / median` is a measure of dispersion (more total but the middle person doesn't have it)
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 
 _in thousands of dollars of net worth_
 
@@ -210,6 +211,37 @@ Race or ethnicity of respondent  | 1989 | 1992 | 1995 | 1998 | 2001 | 2004 | 200
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 White non-Hispanic | 130 | 113 | 116 | 137 | 161 | 174 | 193 | 139 | 142
 Non-white, or Hispanic | 11 | 20 | 24 | 24 | 24 | 30 | 31 | 22 | 18
+
+<canvas id="wealthChart" width="400" height="400"></canvas>
+<!-- hopefully jquery is already loaded by github... -->
+<script>
+var wealthChart = new Chart(ctx).Line(data, options);
+var ctx = document.getElementById("wealthChart").getContext("2d");
+var data = {
+    labels: [1989,1992,1995,1998,2001,2004,2007,2010,2013],
+    datasets: [
+        {
+            label: "Whites",
+            fillColor: "rgba(220,220,220,0.5)",
+            strokeColor: "rgba(220,220,220,0.8)",
+            highlightFill: "rgba(220,220,220,0.75)",
+            highlightStroke: "rgba(220,220,220,1)",
+            data: [130,113,116,137,161,174,193,139,142]
+        },
+        {
+            label: "Nonwhites",
+            fillColor: "rgba(151,187,205,0.5)",
+            strokeColor: "rgba(151,187,205,0.8)",
+            highlightFill: "rgba(151,187,205,0.75)",
+            highlightStroke: "rgba(151,187,205,1)",
+            data: [11,20,24,24,24,30,31,22,18]
+        }
+    ]
+};
+
+</script>
+
+
 
 
 
